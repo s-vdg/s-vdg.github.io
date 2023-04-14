@@ -37,7 +37,7 @@ status:
 last_name: Wu
 role: PostDoc in Dynamical Systems
 highlight_name: true
-title: Sören von der Gracht (born Schwenker)
+title: Sören von der Gracht
 first_name: Alice
 email: ""
 ---
