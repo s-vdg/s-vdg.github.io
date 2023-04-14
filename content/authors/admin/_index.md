@@ -1,5 +1,5 @@
 ---
-avatar_filename: ""
+avatar_filename: 2023_business_07.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
