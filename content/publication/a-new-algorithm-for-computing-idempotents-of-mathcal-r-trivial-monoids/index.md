@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Eddie Nijholt
   - Bob Rink
-  - "**Sören Schwenker**"
+  - Sören Schwenker
 doi: 10.1088/1361-6544/ac5463
 publication: Journal of Algebra and Its Applications, 20(12)
 abstract: The authors of Berg et al. [J. Algebra, 348 (2011) 446–461] provide an
