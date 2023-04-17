@@ -12,60 +12,57 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: markdown
-    id: publications
-    content:
-      title: Publications
-      subtitle: 
-      text: 
+#  - block: markdown
+#    id: publications
+#    content:
+#      title: Publications
+#      subtitle: 
+#      text: 
   - block: collection
-    id: preprints
+#    id: preprints
+    id: publications
     content:
       title: Preprints
       filters:
         # Folders to display content from
         folders:
           - publication
-        publication_types:
-          - "3"
-        # tags: ["preprint"]
-        # exclude_tags: ["publication", "other"]
     # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
     design:
       columns: '2'
       view: citation
+#  - block: collection
+#    content:
+#      title: Publications
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#        publication_types:
+#          - "2"
+#    design:
+#      columns: '2'
+#      view: list
+#  - block: collection
+#    content:
+#      title: Other Publications
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: list
+#  - block: markdown
+#    id: events
+#    content:
+#      title: Events
+#      subtitle: 
+#      text: 
   - block: collection
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-        publication_types:
-          - "2"
-    design:
-      columns: '2'
-      view: list
-  - block: collection
-    content:
-      title: Other Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: list
-  - block: markdown
     id: events
-    content:
-      title: Events
-      subtitle: 
-      text: 
-  - block: collection
-    id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
