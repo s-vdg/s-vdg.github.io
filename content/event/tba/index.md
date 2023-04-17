@@ -1,7 +1,7 @@
 ---
 title: TBA
 abstract: TBA
-location: Porto, Portugal
+location: Porto, PT
 date: 2023-11-14T23:00:55.460Z
 date_end: 2023-11-15T11:00:00.000Z
 all_day: false
