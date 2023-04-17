@@ -31,6 +31,8 @@ abstract: The authors of Berg et al. [J. Algebra, 348 (2011) 446–461] provide 
   any ring with a given system of idempotents.
 draft: false
 featured: false
+tags:
+  - publication
 image:
   filename: featured
   focal_point: Smart
