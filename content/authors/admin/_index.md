@@ -11,15 +11,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    label: Contact
   - display:
       header: false
     link: https://orcid.org/0000-0002-8054-2058
     icon_pack: ai
     icon: orcid
-    label: "ORCID: 0000-0002-8054-2058"
+    label: ORCID
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=VXsvg74AAAAJ
+    label: Google Scholar
   - display:
       header: false
     link: https://www.researchgate.net/profile/Soeren_Von_Der_Gracht
@@ -35,6 +37,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    label: Curriculum Vitae
 organizations:
   - name: Paderborn University
     url: https://math.uni-paderborn.de/en/ag/chair-of-applied-mathematics
