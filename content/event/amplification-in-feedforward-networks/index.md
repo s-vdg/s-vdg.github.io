@@ -18,11 +18,14 @@ location: Universität Hamburg
 date: 2022-11-22T13:15:55.240Z
 date_end: 2022-11-22T02:15:00.000Z
 all_day: false
+links: []
 event: Applied Dynamics Seminar
 event_url: "-"
 publishDate: 2023-04-17T10:42:55.255Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - Seminar
 image:
