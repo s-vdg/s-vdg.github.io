@@ -26,10 +26,7 @@ sections:
         # Folders to display content from
         folders:
           - publication
-        # type: 3
-        # Only show content with these tags
         tags: ["preprint"]
-        # Exclude content with these tags
         exclude_tags: ["publication", "other"]
     # Field to sort by, such as Date or Title
       sort_by: 'Date'
