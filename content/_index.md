@@ -28,7 +28,7 @@ sections:
           - publication
         # type: 3
         # Only show content with these tags
-        tags: preprint
+        tags: ["preprint"]
         # Exclude content with these tags
         exclude_tags: []
     # Field to sort by, such as Date or Title
