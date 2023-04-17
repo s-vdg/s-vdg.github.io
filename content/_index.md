@@ -21,6 +21,7 @@ sections:
         # Folders to display content from
         folders:
           - publications
+        type: Preprint / Working Paper
         # Only show content with these tags
         tags: [preprint]
         # Exclude content with these tags
