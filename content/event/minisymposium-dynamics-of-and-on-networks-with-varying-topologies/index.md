@@ -17,7 +17,7 @@ location: Portland, OR
 date: 2023-05-17T06:30:18.186Z
 date_end: 2023-05-17T08:30:00.000Z
 all_day: false
-event: SIAM Conference on Applications of Dynamical Systems
+event: SIAM Conference on Applications of Dynamical Systems (DS23)
 event_url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=76117
 publishDate: 2023-04-17T11:27:18.207Z
 draft: false
