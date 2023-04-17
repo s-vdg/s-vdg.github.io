@@ -12,6 +12,12 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  - block: markdown
+    id: publications
+    content:
+      title: Publications
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: collection
     id: featured
     content:
