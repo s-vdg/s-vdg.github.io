@@ -16,11 +16,15 @@ sections:
     id: featured
     content:
       title: Preprints
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
+        filters:
+        # Folders to display content from
         folders:
-          - publication
-        featured_only: true
+          - publications
+        # Only show content with these tags
+        tags: [preprint]
+        # Exclude content with these tags
+        exclude_tags: []
     design:
       columns: '2'
       view: list
