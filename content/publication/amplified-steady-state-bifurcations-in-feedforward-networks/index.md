@@ -22,6 +22,8 @@ abstract: We investigate bifurcations in feedforward coupled cell networks.
   different regions in the space of Taylor coefficients.
 draft: false
 featured: false
+tags:
+  - publication
 image:
   filename: featured
   focal_point: Smart
