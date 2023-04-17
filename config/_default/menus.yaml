@@ -13,9 +13,9 @@ main:
   - name: Events
     url: '#events'
     weight: 30
-  - name: Experience
-    url: '#experience'
-    weight: 40
+  #- name: Experience
+  #  url: '#experience'
+  #  weight: 40
   #- name: Posts
   #  url: '#posts'
   #  weight: 20
