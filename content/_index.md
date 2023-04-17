@@ -36,7 +36,7 @@ sections:
       sort_ascending: false
     design:
       columns: '2'
-      view: list
+      view: citation
   - block: collection
     content:
       title: Publications
