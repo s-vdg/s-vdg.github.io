@@ -51,12 +51,12 @@ education:
       year: 2008
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon:
+last_name: von der Gracht
 role: PostDoc in Dynamical Systems
 highlight_name: true
 title: Sören von der Gracht
-first_name: Alice
+first_name: Sören
 email: ""
 ---
 I am a PostDoc at Paderborn University where I work with Prof. Dr. Michael Dellnitz. My research interests are...
