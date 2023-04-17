@@ -24,6 +24,7 @@ draft: false
 featured: false
 authors:
   - admin
+  - Raphael Gerlach
 categories:
   - Conference
 image:
