@@ -68,6 +68,8 @@ sections:
       filters:
         folders:
           - event
+      sort_by: 'Date'
+      sort_ascending: true
     design:
       columns: '2'
       view: compact
