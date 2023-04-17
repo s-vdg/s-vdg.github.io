@@ -13,9 +13,10 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: collection
-    id: featured
+    id: preprints
     content:
-      title: Featured Publications
+      title: Preprints
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         folders:
           - publication
@@ -25,11 +26,17 @@ sections:
       view: list
   - block: collection
     content:
-      title: Recent Publications
-#      text: |-
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
-#        {{% /callout %}}
+      title: Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: list
+    - block: collection
+    content:
+      title: Other Publications
       filters:
         folders:
           - publication
