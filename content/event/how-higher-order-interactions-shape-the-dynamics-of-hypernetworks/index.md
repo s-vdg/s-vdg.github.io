@@ -23,6 +23,8 @@ event_url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=76050
 publishDate: 2023-04-17T11:20:26.885Z
 draft: false
 featured: false
+authors:
+  - admin
 tags: []
 categories:
   - Conference
