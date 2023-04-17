@@ -1,5 +1,5 @@
 ---
-title: "Hypernetworks: cluster synchronisation is a higherorder effect"
+title: "Hypernetworks: cluster synchronisation is a higher order effect"
 publication_types:
   - "3"
 authors:
