@@ -19,11 +19,10 @@ sections:
       subtitle: 
       text: 
   - block: collection
-    id: featured
+    id: preprints
     content:
       title: Preprints
       filters:
-        filters:
         # Folders to display content from
         folders:
           - publication
