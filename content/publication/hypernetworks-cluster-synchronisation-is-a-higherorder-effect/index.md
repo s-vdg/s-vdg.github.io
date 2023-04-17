@@ -6,6 +6,7 @@ authors:
   - admin
   - Eddie Nijholt
   - Bob Rink
+date: "2022"
 doi: https://doi.org/10.48550/arXiv.2302.08974
 abstract: "Many networked systems are governed by non-pairwise interactions
   between nodes. The resulting higher-order interaction structure can then be
