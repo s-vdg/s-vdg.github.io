@@ -27,7 +27,7 @@ sections:
         # Folders to display content from
         folders:
           - publication
-        type: "3"
+        type: 3
         # Only show content with these tags
         tags: preprint
         # Exclude content with these tags
