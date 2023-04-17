@@ -20,7 +20,7 @@ sections:
         filters:
         # Folders to display content from
         folders:
-          - publications
+          - publication
         type: Preprint / Working Paper
         # Only show content with these tags
         tags: preprint
