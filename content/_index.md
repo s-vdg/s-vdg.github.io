@@ -23,7 +23,7 @@ sections:
           - publications
         type: Preprint / Working Paper
         # Only show content with these tags
-        tags: [preprint]
+        tags: preprint
         # Exclude content with these tags
         exclude_tags: []
     design:
