@@ -51,7 +51,7 @@ education:
       year: 2008
 superuser: true
 status:
-  icon:
+  ? icon
 last_name: von der Gracht
 role: PostDoc in Dynamical Systems
 highlight_name: true
