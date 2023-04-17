@@ -13,7 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
-      columns: '2'
+      view: showcase
 #  - block: markdown
 #    id: publications
 #    content:
