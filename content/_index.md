@@ -30,7 +30,7 @@ sections:
         # Only show content with these tags
         tags: ["preprint"]
         # Exclude content with these tags
-        # exclude_tags: []
+        # exclude_tags: ["publication", "other"]
     # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
