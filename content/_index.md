@@ -55,6 +55,12 @@ sections:
     design:
       columns: '2'
       view: list
+  - block: markdown
+    id: events
+    content:
+      title: Events
+      subtitle: 
+      text: 
   - block: collection
     id: talks
     content:
@@ -172,8 +178,14 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
+  - block: markdown
     id: contact
+    content:
+      title: Contact
+      subtitle: 
+      text: 
+  - block: contact
+    id: 
     content:
       title: Contact
       subtitle:
