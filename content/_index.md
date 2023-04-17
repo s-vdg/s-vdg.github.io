@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Sören von der Gracht academic website
-date: 2023-04-14
+date: 2023-04-17
 type: landing
 
 sections:
