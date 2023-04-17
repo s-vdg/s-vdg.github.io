@@ -35,15 +35,15 @@ sections:
       columns: '2'
       view: list
     - block: collection
-    content:
-      title: Other Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: list
+      content:
+        title: Other Publications
+        filters:
+          folders:
+            - publication
+          exclude_featured: true
+      design:
+        columns: '2'
+        view: list
   - block: collection
     id: talks
     content:
