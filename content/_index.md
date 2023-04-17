@@ -194,7 +194,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: soeren.von.der.gracht@uni-paderborn.de
       phone: +49 5251 60-3774
-      appointment_url: 'https://calendly.com'
+#      appointment_url: 'https://calendly.com'
       address:
         street: Technologiepark 21
         city: Paderborn
@@ -202,7 +202,7 @@ sections:
         postcode: '33100'
         country: Germany
         country_code: D
-#      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Office TP21.1.17
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
