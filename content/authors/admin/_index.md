@@ -10,8 +10,8 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-    label: Contact
+    link: mailto:soeren.von.der.gracht@uni-paderborn.de
+    label: E-Mail
   - display:
       header: false
     link: https://orcid.org/0000-0002-8054-2058
