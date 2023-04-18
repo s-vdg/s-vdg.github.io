@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Minimal # Mr Robot
+  theme_day: Mr Robot  # Minimal
   theme_night: Minimal # Mr Robot, 1950s
   font: Cyberpunk
   font_size: M
