@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: Mr Robot
+  theme_day: Ocean # Mr Robot
+  theme_night: Ocean # Mr Robot, 1950s
   font: Cyberpunk
   font_size: M
 
