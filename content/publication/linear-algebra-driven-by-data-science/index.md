@@ -11,7 +11,7 @@ authors:
   - Kay Zobel
 author_notes:
   - published as Sören Schwenker
-publication: Massive Open Online Course, Hamburg Open Online University, 2020
+publication: Massive Open Online Course, Hamburg Open Online University, 2020 (in German)
 abstract: >+
   Dieses Lernangebot widmet sich der linearen Algebra als dem Teil der
   Mathematik, der neben der Optimierung und der Stochastik die Grundlage für
@@ -49,8 +49,5 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Screenshot from the Online Course
-links: 
-- name: Link
-  url: https://www.hoou.de/projects/linear-algebra-driven-by-data-science/
 date: 2020-12-01T14:31:51.394Z
 ---
