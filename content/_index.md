@@ -220,6 +220,9 @@ sections:
 #          icon_pack: fas
 #          name: Zoom Me
 #          link: 'https://zoom.com'
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
       # Automatically link email and phone or display as text?
       autolink: true
 #      # Email form provider
