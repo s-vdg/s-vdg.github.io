@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
-  theme_night: 1950s
+  theme_day: Forest
+  theme_night: Forest
   font: Cyberpunk
   font_size: M
 
