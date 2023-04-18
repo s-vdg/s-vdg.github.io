@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Strawberry # Mr Robot
-  theme_night: Strawberry # Mr Robot, 1950s
+  theme_day: Minimal # Mr Robot
+  theme_night: Minimal # Mr Robot, 1950s
   font: Cyberpunk
   font_size: M
 
