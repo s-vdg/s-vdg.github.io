@@ -235,4 +235,7 @@ sections:
 #          captcha: false
     design:
       columns: '2'
+    banner:
+      image: "header.png"
+      caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 ---
