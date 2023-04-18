@@ -36,22 +36,22 @@ social:
     label: Web of Science
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_svdg.pdf
     label: Curriculum Vitae
 organizations:
   - name: Paderborn University
     url: https://math.uni-paderborn.de/en/ag/chair-of-applied-mathematics
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Dr. rer. nat. in Mathematics
+      institution: Universität Hamburg
+      year: 2017
+    - course: MSc in Mathematics
+      institution: Universität Hamburg
+      year: 2015
+    - course: BSc in Mathematics
+      institution: Universität Hamburg
+      year: 2011
 superuser: true
 status:
   ? icon
