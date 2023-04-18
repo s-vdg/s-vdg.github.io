@@ -96,7 +96,7 @@ features:
   map:
     provider: 'mapbox' # no map: ''
     api_key: ''
-    zoom: 20
+    zoom: 10
 
 # Extensions
 
