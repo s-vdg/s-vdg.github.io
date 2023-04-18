@@ -21,7 +21,7 @@ publishDate: 2023-04-17T11:38:05.813Z
 draft: false
 featured: false
 authors:
-  - admim
+  - admin
   - Christian Bick
 categories:
   - Conference
