@@ -27,7 +27,7 @@ social:
     link: https://www.researchgate.net/profile/Soeren_Von_Der_Gracht
     icon_pack: ai
     icon: researchgate
-    label: Researchgate
+    label: ResearchGate
   - display:
       header: false
     link: https://www.webofscience.com/wos/author/record/2045106
