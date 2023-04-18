@@ -17,7 +17,7 @@ social:
     link: https://orcid.org/0000-0002-8054-2058
     icon_pack: ai
     icon: orcid
-    label: ORCID
+    label: ORCiD
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=VXsvg74AAAAJ
@@ -34,6 +34,12 @@ social:
     icon_pack: ai
     icon: publons
     label: Web of Science
+  - display:
+      header: false
+    link: https://arxiv.org/a/0000-0002-8054-2058
+    icon_pack: ai
+    icon: arxiv
+    label: arXiv
   - icon: cv
     icon_pack: ai
     link: uploads/cv_svdg.pdf
