@@ -27,6 +27,7 @@ sections:
         # Folders to display content from
         folders:
           - publication
+        publication_type: "3"
     # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
