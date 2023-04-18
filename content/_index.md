@@ -12,17 +12,17 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-#  - block: markdown
-#    id: publications
-#    content:
-#      title: Publications
-#      subtitle: 
-#      text: 
-  - block: collection
-#    id: preprints
+  - block: markdown
     id: publications
     content:
       title: Publications
+      subtitle: 
+      text: 
+  - block: collection
+    id: preprints
+#    id: publications
+    content:
+      title: Preprints
       filters:
         # Folders to display content from
         folders:
@@ -34,28 +34,37 @@ sections:
     design:
       columns: '2'
       view: citation
-#  - block: collection
-#    content:
-#      title: Publications
-#      filters:
-#        folders:
-#          - publication
+  - block: collection
+    content:
+      title: Published
+      filters:
+        folders:
+          - publication
 #        exclude_featured: true
-#        publication_types:
-#          - "2"
-#    design:
-#      columns: '2'
-#      view: list
-#  - block: collection
-#    content:
-#      title: Other Publications
-#      filters:
-#        folders:
-#          - publication
-#        exclude_featured: true
-#    design:
-#      columns: '2'
-#      view: list
+        publication_type: "2"
+    design:
+      columns: '2'
+      view: list
+  - block: collection
+    content:
+      title: Other Publications
+      filters:
+        folders:
+          - publication
+        publication_type: "0"
+    design:
+      columns: '2'
+      view: list
+  - block: collection
+    content:
+      title: Theses
+      filters:
+        folders:
+          - publication
+        publication_type: "7"
+    design:
+      columns: '2'
+      view: list
 #  - block: markdown
 #    id: events
 #    content:
