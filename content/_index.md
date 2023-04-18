@@ -44,7 +44,7 @@ sections:
         publication_type: "2"
     design:
       columns: '2'
-      view: list
+      view: citation
   - block: collection
     content:
       title: Other Publications
