@@ -9,7 +9,7 @@ appearance:
   theme_day: Mr Robot  # Minimal
   theme_night: 1950s  # Mr Robot, Minimal
   font: Cyberpunk
-  font_size: XL
+  font_size: m
 
 # SEO
 
