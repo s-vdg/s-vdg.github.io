@@ -65,16 +65,16 @@ sections:
     design:
       columns: '2'
       view: list
-#  - block: markdown
-#    id: events
-#    content:
-#      title: Events
-#      subtitle: 
-#      text: 
-  - block: collection
+  - block: markdown
     id: events
     content:
       title: Upcoming Events
+      subtitle: 
+      text: 
+  - block: collection
+    id: # events
+    content:
+      title: # Upcoming Events
       filters:
         folders:
           - event
