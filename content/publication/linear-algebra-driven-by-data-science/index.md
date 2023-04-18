@@ -49,5 +49,8 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Screenshot from the Online Course
+links: 
+- name: Link
+  url: https://www.hoou.de/projects/linear-algebra-driven-by-data-science/
 date: 2020-12-01T14:31:51.394Z
 ---
