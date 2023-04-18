@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Apogee
-  theme_night: Apogee
-  font: Mr Robot
+  theme_day: 1950s
+  theme_night: 1950s
+  font: Cyberpunk
   font_size: M
 
 # SEO
