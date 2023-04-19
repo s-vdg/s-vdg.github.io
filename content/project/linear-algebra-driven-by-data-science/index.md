@@ -1,5 +1,5 @@
 ---
-title: Linear Algebra driven by Data Science TEST
+title: Linear Algebra driven by Data Science
 date: 2023-04-19T07:50:43.568Z
 summary: This project developed an open online educational resource teaching the
   basics of linear algebra at the hand of a machine learning application.
