@@ -36,4 +36,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: s-vdg/s-vdg.github.io  # ./public
+          publish_dir: s-vdg/s-vdg.github.io # ./public
