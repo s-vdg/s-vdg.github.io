@@ -92,11 +92,11 @@ sections:
   - block: portfolio
     id: # projects
     content:
-      title: Projects
+      title: # Projects
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+#      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 #      default_button_index: 0
 #      # Filter toolbar (optional).
 #      # Add or remove as many filters (`filter_button` instances) as you like.
