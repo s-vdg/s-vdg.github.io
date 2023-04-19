@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Soeren von der Gracht academic website'
+    org_name: 'Paderborn University'
+    description: 'Sören von der Gracht academic website'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
