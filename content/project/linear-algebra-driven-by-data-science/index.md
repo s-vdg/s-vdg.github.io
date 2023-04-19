@@ -56,3 +56,7 @@ In the first phase of the project, a basis unit of this module was developed. Th
 ## Time
 
 Phase one of the project took place in 2019. At the end, funding was obtained for phase two which is still active.
+
+## Funding
+
+This project was funded by the Behörde für Wissenschaft, Forschung, Gleichstellung und Bezirke Hamburg (Authority for Science, Research, Equalization, and Districts).
