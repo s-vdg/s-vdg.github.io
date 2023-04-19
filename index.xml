@@ -16,7 +16,7 @@
 &lt;h2 id="time">Time&lt;/h2>
 &lt;p>The project kicked off in 2022.&lt;/p>
 &lt;h2 id="funding">Funding&lt;/h2>
-&lt;p>This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project number 453112019.&lt;/p></description></item><item><title>Linear Algebra driven by Data Science TEST</title><link>https://s-vdg.github.io/project/linear-algebra-driven-by-data-science/</link><pubDate>Wed, 19 Apr 2023 07:50:43 +0000</pubDate><guid>https://s-vdg.github.io/project/linear-algebra-driven-by-data-science/</guid><description>&lt;p>This teaching and learning material is concerned with Linear Algebra as the part of Mathematics alongside Analysis builds the foundation for practically every numerical application or simulation. Therefore Linear Algebra is part of virtually every Mathematics course for students in STEM courses in their first year. However, the subject is frequently considered unfamiliarily abstract. It is therefore particularily promising to improve motivation by embedding such a course in the context of a modern, interesting application.&lt;/p>
+&lt;p>This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project number 453112019.&lt;/p></description></item><item><title>Linear Algebra driven by Data Science</title><link>https://s-vdg.github.io/project/linear-algebra-driven-by-data-science/</link><pubDate>Wed, 19 Apr 2023 07:50:43 +0000</pubDate><guid>https://s-vdg.github.io/project/linear-algebra-driven-by-data-science/</guid><description>&lt;p>This teaching and learning material is concerned with Linear Algebra as the part of Mathematics alongside Analysis builds the foundation for practically every numerical application or simulation. Therefore Linear Algebra is part of virtually every Mathematics course for students in STEM courses in their first year. However, the subject is frequently considered unfamiliarily abstract. It is therefore particularily promising to improve motivation by embedding such a course in the context of a modern, interesting application.&lt;/p>
 &lt;p>Artificial neural networks and more generally the processing of large datasets (Big Data) comply with the requirements of such a modern and motivating application. Not only are they a timely and fascinating field of and the cornerstone of Artificial Intelligence (AI) but they also provide application examples in a natural way on which the main concepts of Linear Algebra can be explained.&lt;/p>
 &lt;p>In this project, the foundations of Linear Algebra will be developed at the hand of a Neural Networks problem. This generates a fundamental and critical understanding of their mode of operation and illustrates the power of Linear Algebra as a tool.&lt;/p>
 &lt;p>It is important that learners develop their own position towards the &amp;ldquo;future technology&amp;rdquo; AI that allows them to critically question the realistic range of developing applications.&lt;/p>
@@ -197,7 +197,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-546198372" class="chart">&lt;/div>
+&lt;div id="chart-784953126" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -206,7 +206,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-546198372', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-784953126', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
