@@ -24,6 +24,9 @@ abstract: "In this paper we continue the study of group representations which
   what we have seen in the known examples. "
 draft: false
 featured: false
+tags:
+  - equivariant dynamics
+  - bifurcation theory
 categories:
   - publication
 image:
