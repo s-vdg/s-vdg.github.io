@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://s-vdg.github.io/sitemap.xml

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | svdg</title><link>https://s-vdg.github.io/project/</link><atom:link href="https://s-vdg.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 09:08:24 +0000</lastBuildDate><image><url>https://s-vdg.github.io/media/icon_hu82c8130e392c9a3aed55e9145a34a35f_17708_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://s-vdg.github.io/project/</link></image><item><title>Algorithms for swarms: Distributed Computing meets Dynamical Systems</title><link>https://s-vdg.github.io/project/algorithms-for-swarms-distributed-computing-meets-dynamical-systems/</link><pubDate>Wed, 19 Apr 2023 09:08:24 +0000</pubDate><guid>https://s-vdg.github.io/project/algorithms-for-swarms-distributed-computing-meets-dynamical-systems/</guid><description>&lt;p>The goal of this project is to investigate the capabilities and limitations of local, distributed strategies for swarms of mobile robots. Such strategies consist of protocols run by the individual robots. They are supposed to guide the movements of the robots in such a way that globally a prescribed formation like gathering, forming a line or other shapes is reached from an arbitrary initial configuration of the robots. This research direction is well-established in distributed computing. Our approach is to combine techniques from distributed computing and dynamical systems research in order to enhance the understanding of protocols for such formation tasks. To this end, we analyze the speed of the protocols in terms of runtime complexity in the distributed computing sense as well as stability properties of the prescribed formation with the use of ideas from dynamical systems. While in the distributed computing community often only a worst-case analysis is considered, the tools of dynamical systems allow a more fine-grained analysis of the input configurations by exploring the state space. More concretely, the state space foliation describes the long-term dynamical behavior of input configurations in more detail, i.e. it allows to identify classes of configurations that converge comparably fast or slow and even classes that fail to converge to the prescribed formation. Thus, the combination of both views leads to a more profound understanding of distributed strategies for swarms of mobile robots.&lt;/p>
+&lt;h2 id="persons">Persons&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://math.uni-paderborn.de/en/ag/chair-of-applied-mathematics" target="_blank" rel="noopener">Prof. Dr. Michael Dellnitz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.hni.uni-paderborn.de/alg/mitarbeiter/fmadh/" target="_blank" rel="noopener">Prof. Dr. Friedhelm Meyer auf der Heide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.uni-paderborn.de/en/person/32655" target="_blank" rel="noopener">Dr. Raphael Gerlach&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.hni.uni-paderborn.de/alg/mitarbeiter/jannikca/" target="_blank" rel="noopener">MSc Jannik Castenow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.hni.uni-paderborn.de/en/algorithms-and-complexity/staff/152284822104275/" target="_blank" rel="noopener">MSc Jonas Harbig&lt;/a>&lt;/li>
+&lt;li>Myself&lt;/li>
+&lt;/ul>
+&lt;h2 id="organisations">Organisations&lt;/h2>
+&lt;ul>
+&lt;li>Chair of Applied Mathematics at Paderborn University&lt;/li>
+&lt;li>Chair of Algorithms and Complexity at Paderborn University&lt;/li>
+&lt;/ul>
+&lt;h2 id="time">Time&lt;/h2>
+&lt;p>The project kicked off in 2022.&lt;/p>
+&lt;h2 id="funding">Funding&lt;/h2>
+&lt;p>This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project number 453112019.&lt;/p></description></item><item><title>Linear Algebra driven by Data Science</title><link>https://s-vdg.github.io/project/linear-algebra-driven-by-data-science/</link><pubDate>Wed, 19 Apr 2023 07:50:43 +0000</pubDate><guid>https://s-vdg.github.io/project/linear-algebra-driven-by-data-science/</guid><description>&lt;p>This teaching and learning material is concerned with Linear Algebra as the part of Mathematics alongside Analysis builds the foundation for practically every numerical application or simulation. Therefore Linear Algebra is part of virtually every Mathematics course for students in STEM courses in their first year. However, the subject is frequently considered unfamiliarily abstract. It is therefore particularily promising to improve motivation by embedding such a course in the context of a modern, interesting application.&lt;/p>
+&lt;p>Artificial neural networks and more generally the processing of large datasets (Big Data) comply with the requirements of such a modern and motivating application. Not only are they a timely and fascinating field of and the cornerstone of Artificial Intelligence (AI) but they also provide application examples in a natural way on which the main concepts of Linear Algebra can be explained.&lt;/p>
+&lt;p>In this project, the foundations of Linear Algebra will be developed at the hand of a Neural Networks problem. This generates a fundamental and critical understanding of their mode of operation and illustrates the power of Linear Algebra as a tool.&lt;/p>
+&lt;p>It is important that learners develop their own position towards the &amp;ldquo;future technology&amp;rdquo; AI that allows them to critically question the realistic range of developing applications.&lt;/p>
+&lt;p>Analog zum OMB+/ViaMint Projekt der MintFit-AG der Hamburger Hochschulen, das sich an Studienbewerber richtet, wird eine interaktive Selbstlerneinheit zur Linearen Algebra, aufbauend auf mathematischem Schulwissen, konzipiert und implementiert. Diese richtet sich demnach nicht ausschließlich an Studierende der MINT-Fächer im 1. Studienjahr, sondern auch an die interessierte Zivilgesellschaft, die sich in den Bereichen KI und Lineare Algebra weiterbilden möchte. Für das Modul sollen folgende Elemente genutzt und/oder weiterentwickelt werden:&lt;/p>
+&lt;p>Analogous to the OMB+/ViaMint project of the MintFit-AG (&lt;a href="https://www.ombplus.de/" target="_blank" rel="noopener">https://www.ombplus.de/&lt;/a>) directed at university applicants, an interactive self-learning module Linear Algebra based on mathematical school knowledge will be developed and implemented. It is not only targeted at students of STEM courses in their first year but also at the interested society interested in educating themselves in the areas of AI and Linear Algebra. For this module the following shall be used and/or developed further:&lt;/p>
+&lt;ul>
+&lt;li>Interactive videos;&lt;/li>
+&lt;li>Adaptive learning paths, individual feedback for learnes on exercises;&lt;/li>
+&lt;li>Audio exercises;&lt;/li>
+&lt;li>Exercises with competition elements (Gamification);&lt;/li>
+&lt;li>Formative eAssessment for mathematics exercises with automated assessment;&lt;/li>
+&lt;li>Formative eAssessment for algorithms/codes with automated assessment.&lt;/li>
+&lt;/ul>
+&lt;p>In the first phase of the project, a basis unit of this module was developed. Therein, a simple learning neural network is built, trained, and used. Additionally, the necessary mathematical concepts are deduced from this example. This content is complemented by programming exercises in which the learner first familiarizes with programming environment (Python) and then programs the neural network in guided steps. In subsequent project phases, basis unit can flexibly be enriched by additional mathematical concepts and AI applications.&lt;/p>
+&lt;h2 id="persons">Persons&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.hcu-hamburg.de/bachelor/geo/professorinnen-und-professoren/thomas-schramm/" target="_blank" rel="noopener">Prof. Dr. rer. nat. Thomas Schramm &lt;/a>(HCU)&lt;/li>
+&lt;li>&lt;a href="https://www.math.uni-hamburg.de/forschung/bereiche/am/modellierung/personen/gasser-ingenuin.html" target="_blank" rel="noopener">Prof. Dr. rer. nat. Ingenuin Gasser&lt;/a> (UHH)&lt;/li>
+&lt;li>&lt;a href="https://page.math.tu-berlin.de/~seiler/" target="_blank" rel="noopener">Prof. Dr. rer. nat. Ruedi Seiler&lt;/a> (integral-learning GmbH)&lt;/li>
+&lt;li>&lt;a href="https://www.researchgate.net/profile/Kay-Zobel" target="_blank" rel="noopener">Dipl. Ing. Kay Zobel&lt;/a> (HCU)&lt;/li>
+&lt;li>&lt;a href="https://www.math.uni-hamburg.de/forschung/bereiche/am/personen/lohse-alexander.html" target="_blank" rel="noopener">Dr. rer. nat. Alexander Lohse&lt;/a> (UHH)&lt;/li>
+&lt;li>&lt;a href="https://www.researchgate.net/profile/Franz-Konieczny" target="_blank" rel="noopener">Dipl. Math. Franz Konieczny&lt;/a> (integral-learning GmbH)&lt;/li>
+&lt;li>Myself&lt;/li>
+&lt;/ul>
+&lt;h2 id="organizations">Organizations&lt;/h2>
+&lt;ul>
+&lt;li>HafenCity Universität Hamburg&lt;/li>
+&lt;li>Universität Hamburg&lt;/li>
+&lt;li>integral learning GmbH&lt;/li>
+&lt;/ul>
+&lt;h2 id="time">Time&lt;/h2>
+&lt;p>Phase one of the project took place in 2019. At the end, funding was obtained for phase two which is still active.&lt;/p>
+&lt;h2 id="funding">Funding&lt;/h2>
+&lt;p>This project was funded by the Behörde für Wissenschaft, Forschung, Gleichstellung und Bezirke Hamburg (Authority for Science, Research, Equalization, and Districts).&lt;/p></description></item></channel></rss>
