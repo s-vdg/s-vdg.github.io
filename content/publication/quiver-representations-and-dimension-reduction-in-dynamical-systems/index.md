@@ -30,5 +30,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links: 
+- name: arXiv
+  url: https://arxiv.org/abs/2006.08073
 date: 2020-11-02T06:18:48.889Z
 ---
