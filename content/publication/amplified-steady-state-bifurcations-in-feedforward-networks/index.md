@@ -23,6 +23,11 @@ abstract: We investigate bifurcations in feedforward coupled cell networks.
 draft: false
 featured: false
 tags:
+  - coupled cells
+  - network dynamics
+  - feedforward networks
+  - bifurcation theory
+categories:
   - publication
 image:
   filename: featured
