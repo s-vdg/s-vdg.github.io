@@ -20,7 +20,7 @@ The goal of this project is to investigate the capabilities and limitations of l
 * [Prof. Dr. Friedhelm Meyer auf der Heide](https://www.hni.uni-paderborn.de/alg/mitarbeiter/fmadh/)
 * [Dr. Raphael Gerlach](https://www.uni-paderborn.de/en/person/32655)
 * [MSc Jannik Castenow](https://www.hni.uni-paderborn.de/alg/mitarbeiter/jannikca/)
-* [MSc Jonas Herbig](https://www.hni.uni-paderborn.de/en/algorithms-and-complexity/staff/152284822104275/)
+* [MSc Jonas Harbig](https://www.hni.uni-paderborn.de/en/algorithms-and-complexity/staff/152284822104275/)
 * Myself
 
 ## Organisations
