@@ -190,16 +190,16 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-#  - block: markdown
-#    id: contact
-#    content:
-#      title: Contact
-#      subtitle: 
-#      text: 
-  - block: contact
+  - block: markdown
     id: contact
     content:
       title: Contact
+      subtitle: 
+      text: 
+  - block: contact
+    id: # contact
+    content:
+      title: # Contact
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
