@@ -7,7 +7,7 @@ summary: Investigation the capabilities and limitations of local, distributed
 draft: false
 featured: false
 image:
-  filename: https://math.uni-paderborn.de/fileadmin/_processed_/e/5/csm_gabriel_graph01-1_12de65a00b.png
+  filename: swarm.png
   focal_point: Smart
   preview_only: false
   caption: Interaction graph of a swarm mobile robots
