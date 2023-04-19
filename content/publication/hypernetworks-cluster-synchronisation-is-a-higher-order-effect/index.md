@@ -24,6 +24,12 @@ abstract: Many networked systems are governed by non-pairwise interactions
   degree.
 draft: false
 featured: false
+tags:
+  - coupled systems
+  - bifurcation theory
+  - network dynamics
+  - higher order interactions
+  - hypernetworks
 categories:
   - preprint
 image:
