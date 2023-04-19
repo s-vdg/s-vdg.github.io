@@ -11,6 +11,16 @@ appearance:
   font: Cyberpunk
   font_size: m
 
+# Contact (edit or remove options as required)
+
+email: soeren.von.der.gracht@uni-paderborn.de
+address:
+  street: Chair of Applied Mathematics, Technologiepark 21
+  city: Paderborn
+  postcode: 33100
+  country: Germany
+  country_code: DE
+
 # SEO
 
 marketing:
@@ -19,7 +29,7 @@ marketing:
     local_business_type: ''
     org_name: 'Paderborn University'
     description: 'Sören von der Gracht academic website'
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
