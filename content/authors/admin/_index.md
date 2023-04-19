@@ -1,7 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Research in network dynamical systems and their applications.
 interests:
   - Dynamical Systems
   - Network Dynamics
@@ -45,7 +44,7 @@ social:
     link: uploads/cv_svdg.pdf
     label: Curriculum Vitae
 organizations:
-  - name: Paderborn University
+  - name: Paderborn University - Chair of Applied Mathematics
     url: https://math.uni-paderborn.de/en/ag/chair-of-applied-mathematics
 education:
   courses:
@@ -68,5 +67,9 @@ title: Sören von der Gracht
 first_name: Sören
 email: ""
 ---
-I am a PostDoc at Paderborn University where I work with Prof. Dr. Michael Dellnitz. My research interests are...
+## Research interests
+
+Dynamical Systems and applications: Network dynamical systems with diadic and higher-order interactions. Structural investigations via algebraic symmetry methods and their generalizations.
+
+
 {style="text-align: justify;"}
