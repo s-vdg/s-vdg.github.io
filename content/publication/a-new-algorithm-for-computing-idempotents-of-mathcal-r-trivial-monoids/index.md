@@ -34,6 +34,11 @@ abstract: The authors of Berg et al. [J. Algebra, 348 (2011) 446–461] provide 
 draft: false
 featured: false
 tags:
+  - Monoids
+  - representation theory
+  - primitive orthogonal idempotents
+  - feedforward networks
+categories:
   - publication
 image:
   filename: featured
