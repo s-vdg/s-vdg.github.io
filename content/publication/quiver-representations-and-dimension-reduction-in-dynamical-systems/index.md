@@ -9,7 +9,7 @@ authors:
 author_notes:
   - published as Sören Schwenker
 doi: 10.1137/20m1345670
-publication: SIAM Journal on Applied Dynamical Systems 19(4) 2428–2468
+publication: SIAM Journal on Applied Dynamical Systems 19(4), 2428–2468
 abstract: "Dynamical systems often admit geometric properties that must be taken
   into account when studying their behavior. We show that many such properties
   can be encoded by means of quiver representations. These properties include
