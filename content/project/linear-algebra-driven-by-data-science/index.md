@@ -27,24 +27,25 @@ It is important that learners develop their own position towards the "future tec
 Analog zum OMB+/ViaMint Projekt der MintFit-AG der Hamburger Hochschulen, das sich an Studienbewerber richtet, wird eine interaktive Selbstlerneinheit zur Linearen Algebra, aufbauend auf mathematischem Schulwissen, konzipiert und implementiert. Diese richtet sich demnach nicht ausschließlich an Studierende der MINT-Fächer im 1. Studienjahr, sondern auch an die interessierte Zivilgesellschaft, die sich in den Bereichen KI und Lineare Algebra weiterbilden möchte. Für das Modul sollen folgende Elemente genutzt und/oder weiterentwickelt werden:
 
 Analogous to the OMB+/ViaMint project of the MintFit-AG (<https://www.ombplus.de/>) directed at university applicants, an interactive self-learning module Linear Algebra based on mathematical school knowledge will be developed and implemented. It is not only targeted at students of STEM courses in their first year but also at the interested society interested in educating themselves in the areas of AI and Linear Algebra. For this module the following shall be used and/or developed further:
-- Interactive videos;
-- Adaptive learning paths, individual feedback for learnes on exercises;
-- Audio exercises;
-- Exercises with competition elements (Gamification);
-- Formative eAssessment for mathematics exercises with automated assessment;
-- Formative eAssessment for algorithms/codes with automated assessment.
+
+* Interactive videos;
+* Adaptive learning paths, individual feedback for learnes on exercises;
+* Audio exercises;
+* Exercises with competition elements (Gamification);
+* Formative eAssessment for mathematics exercises with automated assessment;
+* Formative eAssessment for algorithms/codes with automated assessment.
 
 In the first phase of the project, a basis unit of this module was developed. Therein, a simple learning neural network is built, trained, and used. Additionally, the necessary mathematical concepts are deduced from this example. This content is complemented by programming exercises in which the learner first familiarizes with programming environment (Python) and then programs the neural network in guided steps. In subsequent project phases, basis unit can flexibly be enriched by additional mathematical concepts and AI applications.
 
-## Project Partner
+## Persons
 
-\- [Prof. Dr. rer. nat. Thomas Schramm ](https://www.hcu-hamburg.de/bachelor/geo/professorinnen-und-professoren/thomas-schramm/)(HCU)
-- [Prof. Dr. rer. nat. Ingenuin Gasser](https://www.math.uni-hamburg.de/forschung/bereiche/am/modellierung/personen/gasser-ingenuin.html) (UHH)
-- [Prof. Dr. rer. nat. Ruedi Seiler](https://page.math.tu-berlin.de/~seiler/) (integral-learning GmbH)
-- [Dipl. Ing. Kay Zobel](https://www.researchgate.net/profile/Kay-Zobel) (HCU)
-- [Dr. rer. nat. Alexander Lohse](https://www.math.uni-hamburg.de/forschung/bereiche/am/personen/lohse-alexander.html) (UHH)
-- [Dipl. Math. Franz Konieczny](https://www.researchgate.net/profile/Franz-Konieczny) (integral-learning GmbH)
-- admin
+* [Prof. Dr. rer. nat. Thomas Schramm ](https://www.hcu-hamburg.de/bachelor/geo/professorinnen-und-professoren/thomas-schramm/)(HCU)
+* [Prof. Dr. rer. nat. Ingenuin Gasser](https://www.math.uni-hamburg.de/forschung/bereiche/am/modellierung/personen/gasser-ingenuin.html) (UHH)
+* [Prof. Dr. rer. nat. Ruedi Seiler](https://page.math.tu-berlin.de/~seiler/) (integral-learning GmbH)
+* [Dipl. Ing. Kay Zobel](https://www.researchgate.net/profile/Kay-Zobel) (HCU)
+* [Dr. rer. nat. Alexander Lohse](https://www.math.uni-hamburg.de/forschung/bereiche/am/personen/lohse-alexander.html) (UHH)
+* [Dipl. Math. Franz Konieczny](https://www.researchgate.net/profile/Franz-Konieczny) (integral-learning GmbH)
+* Myself
 
 ## Organizations
 
