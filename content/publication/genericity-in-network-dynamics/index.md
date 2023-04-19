@@ -45,5 +45,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links: 
+- name: Link
+  url: https://ediss.sub.uni-hamburg.de/handle/ediss/6159
 date: 2019-12-18T06:36:25.663Z
 ---
