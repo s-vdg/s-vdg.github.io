@@ -22,8 +22,11 @@ abstract: "Dynamical systems often admit geometric properties that must be taken
 draft: false
 featured: false
 tags:
-  - quiver
-  - network dynamics
+  - coupled networks
+  - symmetry
+  - bifurcation theory
+  - quiver representations
+  - normal forms
 categories:
   - publication
 image:
