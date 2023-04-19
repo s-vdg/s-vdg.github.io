@@ -11,6 +11,12 @@ author_notes:
 publication: DSWeb, April 2020
 draft: false
 featured: false
+tags:
+  - coupled networks
+  - symmetry
+  - bifurcation theory
+  - quiver representations
+  - normal forms
 image:
   filename: https://dsweb.siam.org/Portals/DSWeb/EasyGalleryImages/2/2368/Figure2.jpg
   focal_point: Smart
