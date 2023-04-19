@@ -38,7 +38,11 @@ abstract: "This thesis deals with the investigation of dynamical properties – 
 draft: false
 featured: false
 tags:
+  - coupled systems
+  - bifurcation theory
   - network dynamics
+  - monoid representation theory
+  - feedforward networks
 categories:
   - thesis
 image:
