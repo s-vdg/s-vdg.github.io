@@ -3,9 +3,11 @@ title: A new algorithm for computing idempotents of $\mathcal{R}$-trivial monoid
 publication_types:
   - "2"
 authors:
+  - admin
   - Eddie Nijholt
   - Bob Rink
-  - Sören Schwenker
+author_notes:
+  - published as Sören Schwenker
 doi: 10.1088/1361-6544/ac5463
 publication: Journal of Algebra and Its Applications, 20(12)
 abstract: The authors of Berg et al. [J. Algebra, 348 (2011) 446–461] provide an
