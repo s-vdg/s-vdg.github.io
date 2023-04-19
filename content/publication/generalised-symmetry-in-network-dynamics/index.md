@@ -16,5 +16,8 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Quiver of quotient networks
+links: 
+- name: Link
+  url: https://dsweb.siam.org/The-Magazine/Article/generalised-symmetry-in-network-dynamics
 date: 2020-04-30T05:08:22.448Z
 ---
