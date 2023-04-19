@@ -42,6 +42,12 @@ abstract: >+
 
 draft: false
 featured: false
+tags:
+  - massive open online course
+  - linear algebra
+  - data science
+  - machine learning
+  - deep learning
 categories:
   - Other
 image:
