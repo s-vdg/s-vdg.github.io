@@ -197,7 +197,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-127853469" class="chart">&lt;/div>
+&lt;div id="chart-241379568" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -206,7 +206,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-127853469', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-241379568', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -565,4 +565,4 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Generic Steady State Bifurcations in Monoid Equivariant Dynamics with Applications in Homogeneous Coupled Cell Systems</title><link>https://s-vdg.github.io/publication/generic-steady-state-bifurcations-in-monoid-equivariant-dynamics-with-applications-in-homogeneous-coupled-cell-systems/</link><pubDate>Tue, 08 May 2018 06:00:36 +0000</pubDate><guid>https://s-vdg.github.io/publication/generic-steady-state-bifurcations-in-monoid-equivariant-dynamics-with-applications-in-homogeneous-coupled-cell-systems/</guid><description/></item><item><title>Equivariant bifurcations in four-dimensional fixed point spaces</title><link>https://s-vdg.github.io/publication/equivariant-bifurcations-in-four-dimensional-fixed-point-spaces/</link><pubDate>Sun, 01 Jan 2017 07:13:28 +0000</pubDate><guid>https://s-vdg.github.io/publication/equivariant-bifurcations-in-four-dimensional-fixed-point-spaces/</guid><description/></item><item><title/><link>https://s-vdg.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://s-vdg.github.io/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Generic Steady State Bifurcations in Monoid Equivariant Dynamics with Applications in Homogeneous Coupled Cell Systems</title><link>https://s-vdg.github.io/publication/generic-steady-state-bifurcations-in-monoid-equivariant-dynamics-with-applications-in-homogeneous-coupled-cell-systems/</link><pubDate>Tue, 08 May 2018 06:00:36 +0000</pubDate><guid>https://s-vdg.github.io/publication/generic-steady-state-bifurcations-in-monoid-equivariant-dynamics-with-applications-in-homogeneous-coupled-cell-systems/</guid><description/></item><item><title>Equivariant bifurcations in four-dimensional fixed point spaces</title><link>https://s-vdg.github.io/publication/equivariant-bifurcations-in-four-dimensional-fixed-point-spaces/</link><pubDate>Sun, 01 Jan 2017 07:13:28 +0000</pubDate><guid>https://s-vdg.github.io/publication/equivariant-bifurcations-in-four-dimensional-fixed-point-spaces/</guid><description/></item><item><title/><link>https://s-vdg.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://s-vdg.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://s-vdg.github.io/google7858ac2ca76263e7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://s-vdg.github.io/google7858ac2ca76263e7/</guid><description>google-site-verification: google7858ac2ca76263e7.html</description></item></channel></rss>
