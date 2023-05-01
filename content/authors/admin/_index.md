@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: Research in network dynamical systems and their applications.
+bio: Research in network dynamical systems and its applications.
 interests:
   - Dynamical Systems
   - Network Dynamics
