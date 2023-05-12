@@ -23,12 +23,12 @@ abstract: In this article we investigate the convergence behavior of gathering
 draft: false
 featured: false
 tags:
-  - Dynamical Systems
-  - Coupled Systems
-  - Distributed Computing
-  - Robot Swarms
-  - Autonomous Mobile Robots
-  - Gathering
+  - dynamical systems
+  - coupled systems
+  - distributed computing
+  - robot swarms
+  - autonomous mobile robots
+  - gathering
 projects:
   - "Algorithms for swarms: Distributed Computing meets Dynamical Systems"
 image:
