@@ -12,8 +12,8 @@ abstract: Collective dynamics of interacting units are prevalent in nature and
   theoretical studies on hypernetwork dynamics to highlight development and
   connect experts from both communities.
 location: Tokyo, JP
-date: 2023-08-19T22:00:05.801Z
-date_end: 2023-08-24T22:00:00.000Z
+date: 2023-08-25T13:30:05.801Z
+date_end: 2023-08-25T15:10:00.000Z
 all_day: false
 event: 10th International Congress on Industrial and Applied Mathematics
 event_url: https://iciam2023.org/registered_data?id=01174
