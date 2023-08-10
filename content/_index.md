@@ -28,6 +28,8 @@ sections:
         folders:
           - publication
         publication_type: "3"
+      archive:
+        enable: false
     # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
@@ -42,6 +44,8 @@ sections:
           - publication
 #        exclude_featured: true
         publication_type: "2"
+      archive:
+        enable: false
     design:
       columns: '2'
       view: citation
@@ -53,7 +57,7 @@ sections:
           - publication
         publication_type: "0"
       archive:
-        enable: true
+        enable: false
     design:
       columns: '2'
       view: citation
