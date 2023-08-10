@@ -52,6 +52,8 @@ sections:
         folders:
           - publication
         publication_type: "0"
+      archive:
+        enable: true
     design:
       columns: '2'
       view: citation
