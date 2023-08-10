@@ -28,6 +28,7 @@ sections:
         folders:
           - publication
         publication_type: "3"
+      count: 0
       archive:
         enable: false
     # Field to sort by, such as Date or Title
@@ -44,6 +45,7 @@ sections:
           - publication
 #        exclude_featured: true
         publication_type: "2"
+      count: 0
       archive:
         enable: false
     design:
@@ -56,6 +58,7 @@ sections:
         folders:
           - publication
         publication_type: "0"
+      count: 0
       archive:
         enable: false
     design:
