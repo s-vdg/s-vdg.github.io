@@ -8,8 +8,8 @@ abstract: We investigate the behavior of a swarm of autonomous, mobile robots
   reached as well as a hierarchy of initial configurations of robot's positions
   in terms of convergence speed.
 location: Tokyo, JP
-date: 2023-08-19T22:00:36.170Z
-date_end: 2023-08-24T22:00:00.000Z
+date: 2023-08-25T10:20:36.170Z
+date_end: 2023-08-25T11:20:00.000Z
 all_day: false
 event: 10th International Congress on Industrial and Applied Mathematics
 event_url: https://iciam2023.org/
