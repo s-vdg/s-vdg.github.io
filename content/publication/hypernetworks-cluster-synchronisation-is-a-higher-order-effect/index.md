@@ -1,11 +1,12 @@
 ---
 title: "Hypernetworks: cluster synchronisation is a higher-order effect"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Eddie Nijholt
   - Bob Rink
+publication: "To appear in SIAM Journal on Applied Mathematics "
 abstract: Many networked systems are governed by non-pairwise interactions
   between nodes. The resulting higher-order interaction structure can then be
   encoded by means of a hypernetwork. In this paper we consider dynamical
@@ -30,14 +31,14 @@ tags:
   - network dynamics
   - higher order interactions
   - hypernetworks
+date: 2023-02-17T14:18:00.915Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2302.08974
 categories:
   - preprint
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-- name: arXiv
-  url: https://arxiv.org/abs/2302.08974
-date: 2023-02-17T14:18:00.915Z
 ---
