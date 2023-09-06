@@ -19,7 +19,7 @@ draft: false
 featured: false
 tags:
   - coupled systems
-  - networkdynamics
+  - network dynamics
   - higher order interactions
   - hypernetworks
   - heteroclinic dynamics
