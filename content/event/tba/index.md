@@ -18,8 +18,8 @@ abstract: >-
 
   In this talk, I will give an overview over some recent results regarding the question which dynamical behavior and generic bifurcations are dictated by the network structure of a system. In particular, I will illustrate how structural and algebraic properties culminate in symmetries of the governing equations and how these can be exploited for (partial) answers. This includes classical symmetries but also more exotic concepts such as monoid and quiver representations.
 location: Porto, PT
-date: 2023-11-15T07:00:55.460Z
-date_end: 2023-11-15T19:00:00.000Z
+date: 2023-11-15T13:30:55.460Z
+date_end: 2023-11-15T15:00:00.000Z
 all_day: false
 event: Dynamical Systems in Porto - Dynamics of singularities and networks
 event_url: https://sites.google.com/view/oporto2023dynsys/dynamics-of-singularities-and-networks
