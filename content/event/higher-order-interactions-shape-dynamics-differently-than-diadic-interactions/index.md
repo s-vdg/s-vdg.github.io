@@ -24,6 +24,8 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - Seminar
 image:
   filename: featured
   focal_point: Smart
