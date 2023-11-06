@@ -13,9 +13,9 @@ abstract: Many real-world interconnected systems are governed by non-pairwise
   dynamics. In particular, it causes the phenomenon of ``reluctant synchrony
   breaking'' on hypernetworks, which occurs when bifurcating solutions lie close
   to a non-robust synchrony space.
-location: TP21.1.25, Paderborn University
-date: 2023-11-09T15:00:12.213Z
-date_end: 2023-11-09T16:30:00.000Z
+location: TP21.1.26, Paderborn University
+date: 2023-11-09T15:15:12.213Z
+date_end: 2023-11-09T16:45:00.000Z
 all_day: false
 event: Graduate Seminar Applied Mathematics
 event_url: https://math.uni-paderborn.de/en/ag/chair-of-applied-mathematics/lehre/graduate-seminar
