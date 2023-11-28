@@ -35,6 +35,7 @@ date: 2023-02-17T14:18:00.915Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2302.08974
+doi: 10.1137/23M1561075
 categories:
   - preprint
 image:
