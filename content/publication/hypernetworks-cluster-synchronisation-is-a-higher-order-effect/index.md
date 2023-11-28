@@ -6,7 +6,7 @@ authors:
   - admin
   - Eddie Nijholt
   - Bob Rink
-publication: "To appear in SIAM Journal on Applied Mathematics "
+publication: SIAM Journal on Applied Mathematics, 83(6)
 abstract: Many networked systems are governed by non-pairwise interactions
   between nodes. The resulting higher-order interaction structure can then be
   encoded by means of a hypernetwork. In this paper we consider dynamical
@@ -31,13 +31,13 @@ tags:
   - network dynamics
   - higher order interactions
   - hypernetworks
-date: 2023-02-17T14:18:00.915Z
+date: 2023-11-28T10:59:41.563Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2302.08974
 doi: 10.1137/23M1561075
 categories:
-  - preprint
+  - publication
 image:
   filename: featured
   focal_point: Smart
