@@ -27,5 +27,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links: 
+	- name: arXiv
+	  url: https://arxiv.org/abs/2311.17186
 date: 2023-11-30T11:02:10.428Z
 ---
