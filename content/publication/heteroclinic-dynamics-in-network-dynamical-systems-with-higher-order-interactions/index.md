@@ -4,8 +4,8 @@ title: Heteroclinic Dynamics in Network Dynamical Systems with Higher-Order
 publication_types:
   - "3"
 authors:
-  - admin
   - Christian Bick
+  - admin
 abstract: "Heteroclinic structures organize global features of dynamical
   systems. We analyze whether heteroclinic structures can arise in network
   dynamics with higher-order interactions which describe the nonlinear
