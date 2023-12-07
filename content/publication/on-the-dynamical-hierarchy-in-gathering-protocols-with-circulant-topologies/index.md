@@ -3,8 +3,8 @@ title: On the Dynamical Hierarchy in Gathering Protocols with Circulant Topologi
 publication_types:
   - "3"
 authors:
-  - admin
   - Raphael Gerlach
+  - admin
   - Michael Dellnitz
 abstract: In this article we investigate the convergence behavior of gathering
   protocols with fixed circulant topologies using tools form dynamical systems.
