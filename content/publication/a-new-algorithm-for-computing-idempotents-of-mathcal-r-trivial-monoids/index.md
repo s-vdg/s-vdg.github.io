@@ -8,7 +8,7 @@ authors:
   - Bob Rink
 author_notes:
   - published as Sören Schwenker
-doi: 10.1088/1361-6544/ac5463
+doi: 10.1142/S0219498821502273
 publication: Journal of Algebra and Its Applications, 20(12)
 abstract: The authors of Berg et al. [J. Algebra, 348 (2011) 446–461] provide an
   algorithm for finding a complete system of primitive orthogonal idempotents
