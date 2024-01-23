@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Christian Bick
   - admin
-publication: Accepted for publication in Journal of Complex Networks, 2024
+publication: Accepted for publication in Journal of Complex Networks
 abstract: "Heteroclinic structures organize global features of dynamical
   systems. We analyze whether heteroclinic structures can arise in network
   dynamics with higher-order interactions which describe the nonlinear
@@ -24,7 +24,7 @@ tags:
   - higher order interactions
   - hypernetworks
   - heteroclinic dynamics
-date: 2023-09-06T06:00:18.298Z
+date: 2024-01-23T09:02:40.857Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2309.02006
