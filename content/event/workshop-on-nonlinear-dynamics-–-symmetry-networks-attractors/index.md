@@ -1,11 +1,10 @@
 ---
 title: Workshop on Nonlinear Dynamics – Symmetry, Networks, Attractors
 abstract: >-
-  I am coorganizing the Workshop on Nonlinear Dynamics – Symmetry, Networks,
-  Attractors.
-
-
-  We will highlight, recount, and discuss historic and, most prominently, recent developments in the mathematical research subject of nonlinear dynamics and bifurcations with a particular focus on methods exploiting underlying structures.
+  The workshop will highlight, recount, and discuss historic and, most
+  prominently, recent developments in the mathematical research subject of
+  nonlinear dynamics and bifurcations with a particular focus on methods
+  exploiting underlying structures.
 
 
   The Workshop on Nonlinear Dynamics will be held at the University of Hamburg from July 24 until July 26, 2024.
@@ -29,9 +28,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-##### Organizing committee
+I am part of the organizing committee of the workshop.
 
-You can reach us via email: [Workshop on Nonlinear Dynamics](mailto:nonlinear2024.math@uni-hamburg.de)
+##### Organizing committee
 
 * [Prof. Dr. Ingenuin Gasser](https://www.math.uni-hamburg.de/en/forschung/bereiche/am/modellierung/personen/gasser-ingenuin.html "Prof. Dr. Ingenuin Gasser"), Universität Hamburg
 * [Dr. Sören von der Gracht](https://s-vdg.github.io/), Universität Paderborn
@@ -41,3 +40,5 @@ You can reach us via email: [Workshop on Nonlinear Dynamics](mailto:nonlinear202
 * [Dr. Florian Noethen](https://www.math.uni-hamburg.de/en/forschung/bereiche/am/modellierung/personen/noethen-florian.html "Dr. Florian Noethen"), Universität Hamburg
 * [Dr. Mara Sommerfeld](https://www.math.uni-hamburg.de/transfer/begabtenfoerderung/personen/sommerfeld-mara.html "Dr. Mara Sommerfeld"), Universität Hamburg
 * [Jan Henrik Sylvester](https://www.math.uni-hamburg.de/en/service/it-dienste/it-gruppe/sylvester-jan-henrik.html "Jan Henrik Sylvester"), Universität Hamburg
+
+You can reach us via email: [Workshop on Nonlinear Dynamics](mailto:nonlinear2024.math@uni-hamburg.de).
