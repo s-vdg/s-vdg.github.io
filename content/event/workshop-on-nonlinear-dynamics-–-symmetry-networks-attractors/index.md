@@ -1,10 +1,11 @@
 ---
 title: Workshop on Nonlinear Dynamics – Symmetry, Networks, Attractors
 abstract: >-
-  We will highlight, recount, and discuss historic and, most prominently, recent
-  developments in the mathematical research subject of nonlinear dynamics and
-  bifurcations with a particular focus on methods exploiting underlying
-  structures.
+  I am coorganizing the Workshop on Nonlinear Dynamics – Symmetry, Networks,
+  Attractors.
+
+
+  We will highlight, recount, and discuss historic and, most prominently, recent developments in the mathematical research subject of nonlinear dynamics and bifurcations with a particular focus on methods exploiting underlying structures.
 
 
   The Workshop on Nonlinear Dynamics will be held at the University of Hamburg from July 24 until July 26, 2024.
