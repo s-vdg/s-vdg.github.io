@@ -14,9 +14,11 @@ abstract: >
 
   Speakers:
 
-      Liliana Garrido-da-Silva, Universidade do Porto
-      Chris Bick, Vrije Universiteit Amsterdam
-      Muhammed Fadera, University of Exeter
+  Liliana Garrido-da-Silva, Universidade do Porto
+
+  Chris Bick, Vrije Universiteit Amsterdam
+
+  Muhammed Fadera, University of Exeter
 location: Constructor University, Bremen, D
 date: 2024-07-29T04:00:22.393Z
 date_end: 2024-08-02T18:00:00.000Z
