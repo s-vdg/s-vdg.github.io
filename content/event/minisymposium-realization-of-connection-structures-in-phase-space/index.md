@@ -10,15 +10,6 @@ abstract: >
 
 
   This minisymposium brings together leading experts in the area of restricted design to discuss recent advances and to uncover potential future paths.
-
-
-  Speakers:
-
-  Liliana Garrido-da-Silva, Universidade do Porto
-
-  Chris Bick, Vrije Universiteit Amsterdam
-
-  Muhammed Fadera, University of Exeter
 location: Constructor University, Bremen, D
 date: 2024-07-29T04:00:22.393Z
 date_end: 2024-08-02T18:00:00.000Z
@@ -33,3 +24,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+I am co-organizing this minisymposium with [Alexander Lohse](https://www.math.uni-hamburg.de/en/forschung/bereiche/am/personen/lohse-alexander.html).
+
+#### Speakers:
+
+* Liliana Garrido-da-Silva, Universidade do Porto
+* Chris Bick, Vrije Universiteit Amsterdam
+* Muhammed Fadera, University of Exeter
