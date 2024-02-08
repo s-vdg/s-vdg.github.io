@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: Research in network dynamical systems and its applications.
 interests:
   - Dynamical Systems
