@@ -24,7 +24,7 @@ tags:
   - higher order interactions
   - hypernetworks
   - heteroclinic dynamics
-date: 2024-04-01T08:02:40.857Z
+date: 2024-03-25T11:05:50.097Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2309.02006
