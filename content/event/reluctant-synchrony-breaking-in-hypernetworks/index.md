@@ -1,5 +1,5 @@
 ---
-title: Reluctant synchrony breaking in hypernetworks
+title: "Talk: Reluctant synchrony breaking in hypernetworks"
 abstract: "Interconnected real-world systems oftentimes contain non-pairwise
   interactions between agents referred to as higher order interactions.
   Countless works in recent years have highlighted how this structural feature
