@@ -23,11 +23,6 @@ featured: false
 tags: []
 categories:
   - Conference
-image:
-  filename: https://assets.rrz.uni-hamburg.de/instance_assets/fakmin/36566191/attr2190x400-f7653c1a1179fd1d39af36f378e38ebee7a84995.png
-  focal_point: Smart
-  preview_only: false
-  caption: "Photo: Lauterbach, Idea: Golubitsky/Field"
 ---
 I am part of the organizing committee of the workshop.
 
