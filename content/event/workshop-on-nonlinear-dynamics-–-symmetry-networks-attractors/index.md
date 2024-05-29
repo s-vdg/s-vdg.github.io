@@ -31,7 +31,7 @@ image:
 ---
 I am part of the organizing committee of the workshop.
 
-##### Organizing committee
+#### Organizing committee
 
 * [Prof. Dr. Ingenuin Gasser](https://www.math.uni-hamburg.de/en/forschung/bereiche/am/modellierung/personen/gasser-ingenuin.html "Prof. Dr. Ingenuin Gasser"), Universität Hamburg
 * [Dr. Sören von der Gracht](https://s-vdg.github.io/), Universität Paderborn
@@ -44,6 +44,6 @@ I am part of the organizing committee of the workshop.
 
 You can reach us via email: [Workshop on Nonlinear Dynamics](mailto:nonlinear2024.math@uni-hamburg.de).
 
-##### Conference Poster
+#### Conference Poster
 
-[![](nonlineardynamicsposter-miniature.jpg)](https://www.math.uni-hamburg.de/en/conf/nonlinear2024.html)
+[![](nonlineardynamicsposter-miniature.jpg)](NonlinearDynamicsPoster.pdf)
