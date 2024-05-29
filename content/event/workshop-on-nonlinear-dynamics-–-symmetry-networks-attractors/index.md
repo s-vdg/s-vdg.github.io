@@ -46,4 +46,4 @@ You can reach us via email: [Workshop on Nonlinear Dynamics](mailto:nonlinear202
 
 ##### Conference Poster
 
-![](nonlineardynamicsposter-miniature.jpg)
+[![](nonlineardynamicsposter-miniature.jpg)](https://www.math.uni-hamburg.de/en/conf/nonlinear2024.html)
