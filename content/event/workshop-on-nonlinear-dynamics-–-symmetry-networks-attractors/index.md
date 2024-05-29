@@ -24,9 +24,10 @@ tags: []
 categories:
   - Conference
 image:
-  filename: featured
+  filename: https://assets.rrz.uni-hamburg.de/instance_assets/fakmin/36566191/attr2190x400-f7653c1a1179fd1d39af36f378e38ebee7a84995.png
   focal_point: Smart
   preview_only: false
+  caption: "Photo: Lauterbach, Idea: Golubitsky/Field"
 ---
 I am part of the organizing committee of the workshop.
 
@@ -42,3 +43,7 @@ I am part of the organizing committee of the workshop.
 * [Jan Henrik Sylvester](https://www.math.uni-hamburg.de/en/service/it-dienste/it-gruppe/sylvester-jan-henrik.html "Jan Henrik Sylvester"), Universität Hamburg
 
 You can reach us via email: [Workshop on Nonlinear Dynamics](mailto:nonlinear2024.math@uni-hamburg.de).
+
+##### Conference Poster
+
+![](nonlineardynamicsposter-miniature.jpg)
