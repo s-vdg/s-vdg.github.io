@@ -17,8 +17,8 @@ abstract: "Interconnected real-world systems oftentimes contain non-pairwise
   non-robust synchrony space. The goal of this talk is to elucidate this
   staggering phenomenon. "
 location: Constructor University, Bremen, D
-date: 2024-07-29T06:57:24.621Z
-date_end: 2024-08-01T22:00:00.000Z
+date: 2024-07-29T09:00:24.621Z
+date_end: 2024-07-29T09:30:00.000Z
 all_day: true
 event: XLIV Dynamics Days Europe
 event_url: https://dynamicsdays.eu/bremen2024/
