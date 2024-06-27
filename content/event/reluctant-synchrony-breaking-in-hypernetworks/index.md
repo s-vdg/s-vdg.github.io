@@ -19,7 +19,7 @@ abstract: "Interconnected real-world systems oftentimes contain non-pairwise
 location: Constructor University, Bremen, D
 date: 2024-07-29T09:00:24.621Z
 date_end: 2024-07-29T09:30:00.000Z
-all_day: true
+all_day: false
 event: XLIV Dynamics Days Europe
 event_url: https://dynamicsdays.eu/bremen2024/
 publishDate: 2024-04-25T06:57:24.636Z
