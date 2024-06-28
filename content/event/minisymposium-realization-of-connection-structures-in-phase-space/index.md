@@ -11,9 +11,9 @@ abstract: >
 
   This minisymposium brings together leading experts in the area of restricted design to discuss recent advances and to uncover potential future paths.
 location: Constructor University, Bremen, D
-date: 2024-07-29T04:00:22.393Z
-date_end: 2024-08-02T18:00:00.000Z
-all_day: true
+date: 2024-07-29T11:30:22.393Z
+date_end: 2024-07-29T13:30:00.000Z
+all_day: false
 event: XLIV Dynamics Days Europe
 event_url: https://dynamicsdays.eu/bremen2024/
 publishDate: 2024-02-07T12:49:22.409Z
