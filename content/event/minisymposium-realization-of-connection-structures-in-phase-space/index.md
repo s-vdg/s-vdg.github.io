@@ -29,5 +29,6 @@ I am co-organizing this minisymposium with [Alexander Lohse](https://www.math.un
 #### Speakers:
 
 * Liliana Garrido-da-Silva, Universidade do Porto
-* Chris Bick, Vrije Universiteit Amsterdam
 * Muhammed Fadera, University of Exeter
+* Alastair Rucklidge, University of Leeds
+* Chris Bick, Vrije Universiteit Amsterdam
