@@ -11,7 +11,7 @@ tags:
 categories:
   - teaching
 image:
-  filename: featured
+  filename: 8cellfundamentalnetworkexampleforgenericityresultfundnet-1.png
   focal_point: Smart
   preview_only: false
 ---
