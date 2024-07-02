@@ -139,7 +139,7 @@ sections:
       filters:
         folders:
           - project
-        category: "teaching"
+        exclude_category: "teaching"
       sort_by: 'Date'
       sort_ascending: true
     design:
