@@ -132,12 +132,12 @@ sections:
       subtitle: 
       text: 
   - block: collection
-    id: # events
+    id: # teaching
     content:
-      title: # Upcoming Events
+      title: # teaching
       filters:
         folders:
-          - post
+          - project
       sort_by: 'Date'
       sort_ascending: true
     design:
