@@ -8,8 +8,7 @@ draft: false
 featured: false
 tags:
   - teaching
-categories:
-  - teaching
+categories: []
 image:
   filename: featured
   focal_point: Smart
