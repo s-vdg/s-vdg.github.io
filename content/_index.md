@@ -140,7 +140,7 @@ sections:
       filters:
         folders:
           - project
-        tags:
+        tag:
           - teaching
       sort_by: 'Date'
       sort_ascending: true
