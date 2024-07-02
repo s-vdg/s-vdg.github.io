@@ -15,8 +15,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Zweiter Block der Veranstaltung "Dynamische Systeme im maschinellen Lernen und in Netzwerken".
-
-
-
-Details folgen
+* Block 1: Mathematische Methoden des maschinellen Lernens (Christian Offen)
+* Block 2: Dynamische Systeme mit Netzwerkstruktur
+* Details folgen
