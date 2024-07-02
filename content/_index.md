@@ -138,7 +138,7 @@ sections:
       filters:
         folders:
           - project
-          category: "teaching"
+        category: "teaching"
       sort_by: 'Date'
       sort_ascending: true
     design:
