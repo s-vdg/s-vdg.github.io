@@ -6,6 +6,8 @@ summary: Vorlesung im Ba­che­lor/Mas­ter für das Lehr­amt an Haupt-, Re­al
   Se­kun­dar- und Ge­samt­s­chu­len
 draft: false
 featured: false
+tags:
+  - teaching
 categories:
   - teaching
 image:
