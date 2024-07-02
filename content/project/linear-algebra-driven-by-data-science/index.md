@@ -5,6 +5,8 @@ summary: This project developed an open online educational resource teaching the
   basics of linear algebra at the hand of a machine learning application.
 draft: false
 featured: false
+categories:
+  - research
 links:
   - url: https://www.hoou.de/projects/linear-algebra-driven-by-data-science
     name: Link to the online course
