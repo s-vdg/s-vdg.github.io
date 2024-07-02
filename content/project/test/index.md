@@ -28,7 +28,7 @@ image:
 #### Sprechstunde
 
 * Mi. 12:30-13:30 Uhr
-* MatheTreff
+* [MatheTreff](https://math.uni-paderborn.de/studium/mathetreff/)
 
 #### PANDA
 
