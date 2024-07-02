@@ -21,7 +21,7 @@ image:
 
 #### Übungen
 
-* Konstantin Sonntag
+* [Konstantin Sonntag](https://www.uni-paderborn.de/en/person/56399)
 * Fr, 9-11 Uhr
 * Fr, 11-13 Uhr
 
