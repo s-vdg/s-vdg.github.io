@@ -11,22 +11,22 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-##### Vorlesungen:
+#### Vorlesungen
 
 * Mi, 14-16 Uhr
 * Hörsaal A5
 
-##### Übungen
+#### Übungen
 
 * Konstantin Sonntag
 * Fr, 9-11 Uhr
 * Fr, 11-13 Uhr
 
-##### Sprechstunde
+#### Sprechstunde
 
 * Mi. 12:30-13:30 Uhr
 * MatheTreff
 
-##### PANDA
+#### PANDA
 
 folgt
