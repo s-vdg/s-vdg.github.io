@@ -93,6 +93,24 @@ sections:
       columns: '2'
       view: compact
   - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: 
+      text: 
+  - block: collection
+    id: # events
+    content:
+      title: # Upcoming Events
+      filters:
+        folders:
+          - post
+      sort_by: 'Date'
+      sort_ascending: true
+    design:
+      columns: '2'
+      view: compact
+  - block: markdown
     id: projects
     content:
       title: Projects
