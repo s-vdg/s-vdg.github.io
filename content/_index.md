@@ -105,7 +105,7 @@ sections:
       filters:
         folders:
           - project
-        exclude_categories:
+        exclude_tags:
           - teaching
 #      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 #      default_button_index: 0
@@ -140,7 +140,8 @@ sections:
       filters:
         folders:
           - project
-        category: teaching
+        tags:
+          - teaching
       sort_by: 'Date'
       sort_ascending: true
     design:
