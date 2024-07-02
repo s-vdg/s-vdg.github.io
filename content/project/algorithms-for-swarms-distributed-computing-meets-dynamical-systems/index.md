@@ -6,8 +6,7 @@ summary: Investigation of the capabilities and limitations of local, distributed
   theory.
 draft: false
 featured: false
-categories:
-  - research
+categories: []
 image:
   filename: swarm.png
   focal_point: Smart
