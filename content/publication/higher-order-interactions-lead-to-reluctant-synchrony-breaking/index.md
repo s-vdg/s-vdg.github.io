@@ -1,11 +1,13 @@
 ---
 title: Higher order interactions lead to "reluctant" synchrony breaking
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Eddie Nijholt
   - Bob Rink
+publication: "Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences, to appear"
 abstract: To model dynamical systems on networks with higher order
   (non-pairwise) interactions, we recently introduced a new class of ODEs on
   hypernetworks. Here we consider one-parameter synchrony breaking bifurcations
@@ -17,6 +19,11 @@ abstract: To model dynamical systems on networks with higher order
   reluctant steady state branch.
 draft: false
 featured: false
+date: 2024-07-18T10:10:39.171Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2311.17186
+doi: 10.1098/rspa.2023.0945
 categories:
   - coupled systems
   - bifurcation theory
@@ -27,8 +34,4 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links:
-  - name: arXiv
-    url: https://arxiv.org/abs/2311.17186
-date: 2023-11-30T11:02:10.428Z
 ---
