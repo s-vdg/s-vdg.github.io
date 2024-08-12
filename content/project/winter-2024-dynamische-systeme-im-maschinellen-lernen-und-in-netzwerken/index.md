@@ -20,7 +20,13 @@ Gemeinsam mit [Dr. Christian Offen](https://www.uni-paderborn.de/person/85279)
 # Inhalt
 
 Die Vorlesungsreihe beinhaltet zwei Hälften. Der erste Teil befasst sich mit den mathematischen Grundlagen des maschinellen Lernens, während der zweite Teil sich mit dynamischen Systemen auf Netzwerken beschäftigt.
+
+## Block 1: Mathematische Methoden im maschinellen Lernen
+
 Im ersten Teil lernen wir Neuronale Netzwerkstrukturen kennen und beweisen exemplarisch einige ihrer Approximationseigenschaften. Zur weiteren Analyse stellen wir eine Verbindung zur Optimalsteuertheorie her und wenden diese an, um Phänomene des maschinellen Lernens zu erklären und geeignete Optimierungsmethoden zu finden.
+
+## Block 2: Dynamische Systeme mit Netzwerkstruktur
+
 Im zweiten Teil beschäftigen wir uns mit dynamischen Systemen die eine Netzwerkstruktur aufweisen. Interessanterweise erzeugen selbst sehr simple Systeme im kollektiv komplexe Dynamik, wenn sie gekoppelt werden. Dies werden wir an einigen Beispielsystemen beobachten. Anschließend führen wir den "Groupoid Formalismus" ein, um dynamische Systeme zu definieren, die einen vorgegebenen Graph als Kopplungsstruktur respektieren. Zum Abschluss werden wir uns der Frage nähern, wie die algebraische Natur der zugrundeliegenden Graphen ausgenutzt werden kann, um allein aus dieser Kopplungsstruktur Rückschlüsse auf das kollektive Verhalten zu ziehen. 
 
 # Voraussetzungen und Empfehlungen
