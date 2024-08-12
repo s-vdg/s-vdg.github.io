@@ -14,22 +14,24 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-#### Vorlesungen
+# Termine
+
+## Vorlesungen
 
 * Mi, 14-16 Uhr
 * Hörsaal A5
 
-#### Übungen
+## Übungen
 
 * [Konstantin Sonntag](https://www.uni-paderborn.de/en/person/56399)
 * Fr, 9-11 Uhr
 * Fr, 11-13 Uhr
 
-#### Sprechstunde
+## Sprechstunde
 
 * Mi. 12:30-13:30 Uhr
 * [MatheTreff](https://math.uni-paderborn.de/studium/mathetreff/)
 
-#### PANDA
+# PANDA
 
 folgt
