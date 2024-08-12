@@ -1,44 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>svdg | sörenvondergracht</title><link>https://s-vdg.github.io/</link><atom:link href="https://s-vdg.github.io/index.xml" rel="self" type="application/rss+xml"/><description>svdg</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate><image><url>https://s-vdg.github.io/media/sharing.png</url><title>svdg</title><link>https://s-vdg.github.io/</link></image><item><title>Talk: Reluctant synchrony breaking in hypernetworks</title><link>https://s-vdg.github.io/talk/talk-reluctant-synchrony-breaking-in-hypernetworks/</link><pubDate>Mon, 29 Jul 2024 09:00:24 +0000</pubDate><guid>https://s-vdg.github.io/talk/talk-reluctant-synchrony-breaking-in-hypernetworks/</guid><description/></item><item><title>XLIV Dynamics Days Europe</title><link>https://s-vdg.github.io/talk/xliv-dynamics-days-europe/</link><pubDate>Mon, 29 Jul 2024 04:00:35 +0000</pubDate><guid>https://s-vdg.github.io/talk/xliv-dynamics-days-europe/</guid><description>&lt;h3 id="conference-topics">Conference Topics&lt;/h3>
-&lt;ul>
-&lt;li>Ergodic theory, topological and homogeneous dynamics&lt;/li>
-&lt;li>Network dynamics&lt;/li>
-&lt;li>Machine Learning&lt;/li>
-&lt;li>Bifurcation theory&lt;/li>
-&lt;li>Dynamics and geometry&lt;/li>
-&lt;li>Nonlinear waves&lt;/li>
-&lt;li>Fluids and turbulence&lt;/li>
-&lt;li>Computational methods&lt;/li>
-&lt;li>Medical and neuro-dynamics&lt;/li>
-&lt;li>Quantum Chaos&lt;/li>
-&lt;li>Multibody dynamics&lt;/li>
-&lt;li>&lt;em>and more&lt;/em>&lt;/li>
-&lt;/ul></description></item><item><title>Workshop on Nonlinear Dynamics – Symmetry, Networks, Attractors</title><link>https://s-vdg.github.io/talk/workshop-on-nonlinear-dynamics-symmetry-networks-attractors/</link><pubDate>Wed, 24 Jul 2024 04:00:38 +0000</pubDate><guid>https://s-vdg.github.io/talk/workshop-on-nonlinear-dynamics-symmetry-networks-attractors/</guid><description>&lt;p>I am part of the organizing committee of the workshop.&lt;/p>
-&lt;h4 id="organizing-committee">Organizing committee&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a href="https://www.math.uni-hamburg.de/en/forschung/bereiche/am/modellierung/personen/gasser-ingenuin.html" title="Prof. Dr. Ingenuin Gasser" target="_blank" rel="noopener">Prof. Dr. Ingenuin Gasser&lt;/a>, Universität Hamburg&lt;/li>
-&lt;li>&lt;a href="https://s-vdg.github.io/" target="_blank" rel="noopener">Dr. Sören von der Gracht&lt;/a>, Universität Paderborn&lt;/li>
-&lt;li>&lt;a href="https://www.math.uni-hamburg.de/en/forschung/bereiche/am/modellierung/personen/kirsebom-maxim.html" title="Dr. Maxim Kirsebom" target="_blank" rel="noopener">Dr. Maxim Kirsebom&lt;/a>, Universität Hamburg&lt;/li>
-&lt;li>&lt;a href="https://sites.google.com/view/pkunde/" title="Dr. Philipp Kunde" target="_blank" rel="noopener">Dr. Philipp Kunde&lt;/a>, Jagiellonian University in Krakow&lt;/li>
-&lt;li>&lt;a href="https://www.math.uni-hamburg.de/en/forschung/bereiche/am/personen/lohse-alexander.html" title="Dr. Alexander Lohse" target="_blank" rel="noopener">Dr. Alexander Lohse&lt;/a>, Universität Hamburg&lt;/li>
-&lt;li>&lt;a href="https://www.math.uni-hamburg.de/en/forschung/bereiche/am/modellierung/personen/noethen-florian.html" title="Dr. Florian Noethen" target="_blank" rel="noopener">Dr. Florian Noethen&lt;/a>, Universität Hamburg&lt;/li>
-&lt;li>&lt;a href="https://www.math.uni-hamburg.de/transfer/begabtenfoerderung/personen/sommerfeld-mara.html" title="Dr. Mara Sommerfeld" target="_blank" rel="noopener">Dr. Mara Sommerfeld&lt;/a>, Universität Hamburg&lt;/li>
-&lt;li>&lt;a href="https://www.math.uni-hamburg.de/en/service/it-dienste/it-gruppe/sylvester-jan-henrik.html" title="Jan Henrik Sylvester" target="_blank" rel="noopener">Jan Henrik Sylvester&lt;/a>, Universität Hamburg&lt;/li>
-&lt;/ul>
-&lt;p>You can reach us via email: &lt;a href="mailto:nonlinear2024.math@uni-hamburg.de">Workshop on Nonlinear Dynamics&lt;/a>.&lt;/p>
-&lt;h4 id="conference-poster">Conference Poster&lt;/h4>
-&lt;p>&lt;a href="NonlinearDynamicsPoster.pdf">
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/talk/workshop-on-nonlinear-dynamics-symmetry-networks-attractors/nonlineardynamicsposter-miniature_hufebbe61a196a5bc209e124dceadc260e_33513_7127f7582ea7c7bf7ec12003ef02a4e9.webp 400w,
-/talk/workshop-on-nonlinear-dynamics-symmetry-networks-attractors/nonlineardynamicsposter-miniature_hufebbe61a196a5bc209e124dceadc260e_33513_0ed2369e88d59167bae19e23ad6bd9a8.webp 760w,
-/talk/workshop-on-nonlinear-dynamics-symmetry-networks-attractors/nonlineardynamicsposter-miniature_hufebbe61a196a5bc209e124dceadc260e_33513_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://s-vdg.github.io/talk/workshop-on-nonlinear-dynamics-symmetry-networks-attractors/nonlineardynamicsposter-miniature_hufebbe61a196a5bc209e124dceadc260e_33513_7127f7582ea7c7bf7ec12003ef02a4e9.webp"
-width="234"
-height="331"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/a>&lt;/p></description></item><item><title>Higher order interactions lead to "reluctant" synchrony breaking</title><link>https://s-vdg.github.io/publication/higher-order-interactions-lead-to-reluctant-synchrony-breaking/</link><pubDate>Thu, 18 Jul 2024 10:10:39 +0000</pubDate><guid>https://s-vdg.github.io/publication/higher-order-interactions-lead-to-reluctant-synchrony-breaking/</guid><description/></item><item><title>Talk: Exploring exotic symmetries to explain exotic behavior of network dynamical systems</title><link>https://s-vdg.github.io/talk/talk-exploring-exotic-symmetries-to-explain-exotic-behavior-of-network-dynamical-systems/</link><pubDate>Tue, 16 Jul 2024 13:15:02 +0000</pubDate><guid>https://s-vdg.github.io/talk/talk-exploring-exotic-symmetries-to-explain-exotic-behavior-of-network-dynamical-systems/</guid><description/></item><item><title>Winter 2024: Dynamische Systeme im maschinellen Lernen und in Netzwerken</title><link>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</link><pubDate>Tue, 02 Jul 2024 09:19:30 +0000</pubDate><guid>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</guid><description>&lt;p>Gemeinsam mit &lt;a href="https://www.uni-paderborn.de/person/85279" target="_blank" rel="noopener">Dr. Christian Offen&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>svdg | sörenvondergracht</title><link>https://s-vdg.github.io/</link><atom:link href="https://s-vdg.github.io/index.xml" rel="self" type="application/rss+xml"/><description>svdg</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate><image><url>https://s-vdg.github.io/media/sharing.png</url><title>svdg</title><link>https://s-vdg.github.io/</link></image><item><title>Higher order interactions lead to "reluctant" synchrony breaking</title><link>https://s-vdg.github.io/publication/higher-order-interactions-lead-to-reluctant-synchrony-breaking/</link><pubDate>Thu, 18 Jul 2024 10:10:39 +0000</pubDate><guid>https://s-vdg.github.io/publication/higher-order-interactions-lead-to-reluctant-synchrony-breaking/</guid><description/></item><item><title>Winter 2024: Dynamische Systeme im maschinellen Lernen und in Netzwerken</title><link>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</link><pubDate>Tue, 02 Jul 2024 09:19:30 +0000</pubDate><guid>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</guid><description>&lt;p>Gemeinsam mit &lt;a href="https://www.uni-paderborn.de/person/85279" target="_blank" rel="noopener">Dr. Christian Offen&lt;/a>&lt;/p>
 &lt;h1 id="inhalt">Inhalt&lt;/h1>
 &lt;p>Die Vorlesungsreihe beinhaltet zwei Hälften. Der erste Teil befasst sich mit den mathematischen Grundlagen des maschinellen Lernens, während der zweite Teil sich mit dynamischen Systemen auf Netzwerken beschäftigt.&lt;/p>
 &lt;h2 id="block-1-mathematische-methoden-im-maschinellen-lernen">Block 1: Mathematische Methoden im maschinellen Lernen&lt;/h2>
