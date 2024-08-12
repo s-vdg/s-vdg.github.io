@@ -17,23 +17,24 @@ Im zweiten Teil beschäftigen wir uns mit dynamischen Systemen die eine Netzwerk
 &lt;h2 id="vorlesung">Vorlesung:&lt;/h2>
 &lt;p>Dienstag, 11:00 - 13:00 Uhr, Raum A 3 301&lt;/p>
 &lt;h2 id="übung">Übung:&lt;/h2>
-&lt;p>Dienstag, 13:00 - 14:00 Uhr, Raum A 3 301&lt;/p></description></item><item><title>Winter 2024: Modellieren und Anwendungen</title><link>https://s-vdg.github.io/project/test/</link><pubDate>Tue, 02 Jul 2024 08:34:03 +0000</pubDate><guid>https://s-vdg.github.io/project/test/</guid><description>&lt;h4 id="vorlesungen">Vorlesungen&lt;/h4>
+&lt;p>Dienstag, 13:00 - 14:00 Uhr, Raum A 3 301&lt;/p></description></item><item><title>Winter 2024: Modellieren und Anwendungen</title><link>https://s-vdg.github.io/project/test/</link><pubDate>Tue, 02 Jul 2024 08:34:03 +0000</pubDate><guid>https://s-vdg.github.io/project/test/</guid><description>&lt;h1 id="termine">Termine&lt;/h1>
+&lt;h2 id="vorlesungen">Vorlesungen&lt;/h2>
 &lt;ul>
 &lt;li>Mi, 14-16 Uhr&lt;/li>
 &lt;li>Hörsaal A5&lt;/li>
 &lt;/ul>
-&lt;h4 id="übungen">Übungen&lt;/h4>
+&lt;h2 id="übungen">Übungen&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.uni-paderborn.de/en/person/56399" target="_blank" rel="noopener">Konstantin Sonntag&lt;/a>&lt;/li>
 &lt;li>Fr, 9-11 Uhr&lt;/li>
 &lt;li>Fr, 11-13 Uhr&lt;/li>
 &lt;/ul>
-&lt;h4 id="sprechstunde">Sprechstunde&lt;/h4>
+&lt;h2 id="sprechstunde">Sprechstunde&lt;/h2>
 &lt;ul>
 &lt;li>Mi. 12:30-13:30 Uhr&lt;/li>
 &lt;li>&lt;a href="https://math.uni-paderborn.de/studium/mathetreff/" target="_blank" rel="noopener">MatheTreff&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h4 id="panda">PANDA&lt;/h4>
+&lt;h1 id="panda">PANDA&lt;/h1>
 &lt;p>folgt&lt;/p></description></item><item><title>Algorithms for swarms: Distributed Computing meets Dynamical Systems</title><link>https://s-vdg.github.io/project/algorithms-for-swarms-distributed-computing-meets-dynamical-systems/</link><pubDate>Wed, 19 Apr 2023 09:08:24 +0000</pubDate><guid>https://s-vdg.github.io/project/algorithms-for-swarms-distributed-computing-meets-dynamical-systems/</guid><description>&lt;p>The goal of this project is to investigate the capabilities and limitations of local, distributed strategies for swarms of mobile robots. Such strategies consist of protocols run by the individual robots. They are supposed to guide the movements of the robots in such a way that globally a prescribed formation like gathering, forming a line or other shapes is reached from an arbitrary initial configuration of the robots. This research direction is well-established in distributed computing. Our approach is to combine techniques from distributed computing and dynamical systems research in order to enhance the understanding of protocols for such formation tasks. To this end, we analyze the speed of the protocols in terms of runtime complexity in the distributed computing sense as well as stability properties of the prescribed formation with the use of ideas from dynamical systems. While in the distributed computing community often only a worst-case analysis is considered, the tools of dynamical systems allow a more fine-grained analysis of the input configurations by exploring the state space. More concretely, the state space foliation describes the long-term dynamical behavior of input configurations in more detail, i.e. it allows to identify classes of configurations that converge comparably fast or slow and even classes that fail to converge to the prescribed formation. Thus, the combination of both views leads to a more profound understanding of distributed strategies for swarms of mobile robots.&lt;/p>
 &lt;h2 id="persons">Persons&lt;/h2>
 &lt;ul>
