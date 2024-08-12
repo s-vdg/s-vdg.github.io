@@ -42,3 +42,13 @@ Erste Einblicke in aktuelle Forschungsthemen, um mögliche Wege für eine Master
 # Zielgruppe
 
 M.Sc. (Techno-)Mathematik
+
+# Termine
+
+## Vorlesung:
+
+Dienstag, 11:00 - 13:00 Uhr, Raum A 3 301
+
+## Übung:
+
+Dienstag, 13:00 - 14:00 Uhr, Raum A 3 301
