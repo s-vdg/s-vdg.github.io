@@ -55,4 +55,4 @@ Dienstag, 13:00 - 14:00 Uhr, Raum A 3 301
 
 # PANDA
 
-folgt
+Kurs: [L.105.5 Dynamische Systeme im maschinellen Lernen und in Netzwerken](https://panda.uni-paderborn.de/course/view.php?id=57154)
