@@ -1,6 +1,6 @@
 ---
 title: "Minicourse: An introduction to generic bifurcation theory"
-date: 2024-08-21T17:10:34.798Z
+date: 2024-08-20T17:10:34.798Z
 draft: false
 featured: false
 tags:
