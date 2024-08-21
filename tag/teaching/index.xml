@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>teaching | sörenvondergracht</title><link>https://s-vdg.github.io/tag/teaching/</link><atom:link href="https://s-vdg.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml"/><description>teaching</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 17:10:34 +0000</lastBuildDate><image><url>https://s-vdg.github.io/media/sharing.png</url><title>teaching</title><link>https://s-vdg.github.io/tag/teaching/</link></image><item><title>Minicourse: An introduction to generic bifurcation theory</title><link>https://s-vdg.github.io/project/minicourse-an-introduction-to-generic-bifurcation-theory/</link><pubDate>Tue, 20 Aug 2024 17:10:34 +0000</pubDate><guid>https://s-vdg.github.io/project/minicourse-an-introduction-to-generic-bifurcation-theory/</guid><description>&lt;p>Two lectures on generic bifurcation theory as part of the Dynamical Systems course for PhD and Master&amp;rsquo;s students at the Instituto de Ciências Matemáticas e de Computação of the Universidade de São Paulo.&lt;/p>
-&lt;h1 id="contents">Contents&lt;/h1>
-&lt;ol>
-&lt;li>Bifurcation problems&lt;/li>
-&lt;li>Genericity&lt;/li>
-&lt;li>The continuation &amp;ldquo;bifurcation&amp;rdquo;&lt;/li>
-&lt;li>Lyapunov-Schmidt reduction&lt;/li>
-&lt;li>Generic 1-parameter steady bifurcations: The saddle-node bifurcation&lt;/li>
-&lt;li>Changing genericity: Symmetries and network structure&lt;/li>
-&lt;/ol>
-&lt;h1 id="dates">Dates&lt;/h1>
-&lt;ul>
-&lt;li>Monday August 26, 2024: 10:00-12:00&lt;/li>
-&lt;li>Wednesday August 28, 2024: 10:00-12:00&lt;/li>
-&lt;/ul></description></item><item><title>Winter 2024: Dynamische Systeme im maschinellen Lernen und in Netzwerken</title><link>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</link><pubDate>Tue, 02 Jul 2024 09:19:30 +0000</pubDate><guid>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</guid><description>&lt;p>Gemeinsam mit &lt;a href="https://www.uni-paderborn.de/person/85279" target="_blank" rel="noopener">Dr. Christian Offen&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>teaching | sörenvondergracht</title><link>https://s-vdg.github.io/tag/teaching/</link><atom:link href="https://s-vdg.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml"/><description>teaching</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 17:30:59 +0000</lastBuildDate><image><url>https://s-vdg.github.io/media/sharing.png</url><title>teaching</title><link>https://s-vdg.github.io/tag/teaching/</link></image><item><title>Winter 2024: Dynamische Systeme im maschinellen Lernen und in Netzwerken</title><link>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</link><pubDate>Wed, 21 Aug 2024 17:30:59 +0000</pubDate><guid>https://s-vdg.github.io/project/winter-2024-dynamische-systeme-im-maschinellen-lernen-und-in-netzwerken/</guid><description>&lt;p>Gemeinsam mit &lt;a href="https://www.uni-paderborn.de/person/85279" target="_blank" rel="noopener">Dr. Christian Offen&lt;/a>&lt;/p>
 &lt;h1 id="inhalt">Inhalt&lt;/h1>
 &lt;p>Die Vorlesungsreihe beinhaltet zwei Hälften. Der erste Teil befasst sich mit den mathematischen Grundlagen des maschinellen Lernens, während der zweite Teil sich mit dynamischen Systemen auf Netzwerken beschäftigt.&lt;/p>
 &lt;h2 id="block-1-mathematische-methoden-im-maschinellen-lernen">Block 1: Mathematische Methoden im maschinellen Lernen&lt;/h2>
@@ -33,7 +19,7 @@ Im zweiten Teil beschäftigen wir uns mit dynamischen Systemen die eine Netzwerk
 &lt;h2 id="übung">Übung:&lt;/h2>
 &lt;p>Dienstag, 13:00 - 14:00 Uhr, Raum A 3 301&lt;/p>
 &lt;h1 id="panda">PANDA&lt;/h1>
-&lt;p>Kurs: &lt;a href="https://panda.uni-paderborn.de/course/view.php?id=57154" target="_blank" rel="noopener">L.105.5 Dynamische Systeme im maschinellen Lernen und in Netzwerken&lt;/a>&lt;/p></description></item><item><title>Winter 2024: Modellieren und Anwendungen</title><link>https://s-vdg.github.io/project/test/</link><pubDate>Tue, 02 Jul 2024 08:34:03 +0000</pubDate><guid>https://s-vdg.github.io/project/test/</guid><description>&lt;h1 id="termine">Termine&lt;/h1>
+&lt;p>Kurs: &lt;a href="https://panda.uni-paderborn.de/course/view.php?id=57154" target="_blank" rel="noopener">L.105.5 Dynamische Systeme im maschinellen Lernen und in Netzwerken&lt;/a>&lt;/p></description></item><item><title>Winter 2024: Modellieren und Anwendungen</title><link>https://s-vdg.github.io/project/test/</link><pubDate>Wed, 21 Aug 2024 17:30:49 +0000</pubDate><guid>https://s-vdg.github.io/project/test/</guid><description>&lt;h1 id="termine">Termine&lt;/h1>
 &lt;h2 id="vorlesungen">Vorlesungen&lt;/h2>
 &lt;ul>
 &lt;li>Mi, 14-16 Uhr&lt;/li>
@@ -51,4 +37,18 @@ Im zweiten Teil beschäftigen wir uns mit dynamischen Systemen die eine Netzwerk
 &lt;li>&lt;a href="https://math.uni-paderborn.de/studium/mathetreff/" target="_blank" rel="noopener">MatheTreff&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h1 id="panda">PANDA&lt;/h1>
-&lt;p>Kurs: &lt;a href="https://panda.uni-paderborn.de/course/view.php?id=57224" target="_blank" rel="noopener">L.105.83700 Wahlpflichtveranstaltung Modellieren und Anwendungen: Dynamische Prozesse&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Kurs: &lt;a href="https://panda.uni-paderborn.de/course/view.php?id=57224" target="_blank" rel="noopener">L.105.83700 Wahlpflichtveranstaltung Modellieren und Anwendungen: Dynamische Prozesse&lt;/a>&lt;/p></description></item><item><title>Minicourse: An introduction to generic bifurcation theory</title><link>https://s-vdg.github.io/project/minicourse-an-introduction-to-generic-bifurcation-theory/</link><pubDate>Tue, 20 Aug 2024 17:10:34 +0000</pubDate><guid>https://s-vdg.github.io/project/minicourse-an-introduction-to-generic-bifurcation-theory/</guid><description>&lt;p>Two lectures on generic bifurcation theory as part of the Dynamical Systems course for PhD and Master&amp;rsquo;s students at the Instituto de Ciências Matemáticas e de Computação of the Universidade de São Paulo.&lt;/p>
+&lt;h1 id="contents">Contents&lt;/h1>
+&lt;ol>
+&lt;li>Bifurcation problems&lt;/li>
+&lt;li>Genericity&lt;/li>
+&lt;li>The continuation &amp;ldquo;bifurcation&amp;rdquo;&lt;/li>
+&lt;li>Lyapunov-Schmidt reduction&lt;/li>
+&lt;li>Generic 1-parameter steady bifurcations: The saddle-node bifurcation&lt;/li>
+&lt;li>Changing genericity: Symmetries and network structure&lt;/li>
+&lt;/ol>
+&lt;h1 id="dates">Dates&lt;/h1>
+&lt;ul>
+&lt;li>Monday August 26, 2024: 10:00-12:00&lt;/li>
+&lt;li>Wednesday August 28, 2024: 10:00-12:00&lt;/li>
+&lt;/ul></description></item></channel></rss>
