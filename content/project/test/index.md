@@ -34,4 +34,4 @@ image:
 
 # PANDA
 
-folgt
+Kurs: [L.105.83700 Wahlpflichtveranstaltung Modellieren und Anwendungen: Dynamische Prozesse](https://panda.uni-paderborn.de/course/view.php?id=57224)
