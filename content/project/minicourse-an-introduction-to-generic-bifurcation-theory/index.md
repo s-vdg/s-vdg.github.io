@@ -23,5 +23,5 @@ Two lectures on generic bifurcation theory as part of the Dynamical Systems cour
 
 # Dates
 
-* Monday August 26, 2024: 10:00-12:00
-* Wednesday August 28, 2024: 10:00-12:00
+* Monday August 26, 2024: 10:00-12:00, Room 3-012
+* Wednesday August 28, 2024: 10:00-12:00, Room 3-012
