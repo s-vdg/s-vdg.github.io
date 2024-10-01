@@ -38,8 +38,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-	- name: arXiv
-	  url: https://arxiv.org/abs/2409.19277
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2409.19277
 date: 2024-10-01T13:40:36.430Z
 ---
