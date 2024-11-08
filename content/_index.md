@@ -44,7 +44,9 @@ sections:
         folders:
           - publication
 #        exclude_featured: true
-        publication_type: ["2", "1"]
+        oneOf:
+          - publication_type: "2"
+          - publication_type: "1"
       count: 0
       archive:
         enable: false
