@@ -7,7 +7,7 @@ authors:
   - Eddie Nijholt
   - Bob Rink
 publication: "Proceedings of the Royal Society A: Mathematical, Physical and
-  Engineering Sciences, 480, 20230945."
+  Engineering Sciences, 480, 20230945"
 abstract: To model dynamical systems on networks with higher order
   (non-pairwise) interactions, we recently introduced a new class of ODEs on
   hypernetworks. Here we consider one-parameter synchrony breaking bifurcations
