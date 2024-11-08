@@ -7,7 +7,7 @@ authors:
   - Eddie Nijholt
   - Bob Rink
 doi: https://doi.org/10.1088/1361-6544/ac5463
-publication: Nonlinearity 35.4, pp. 2073–2120
+publication: Nonlinearity 35.4, 2073–2120
 abstract: We investigate bifurcations in feedforward coupled cell networks.
   Feedforward structure (the absence of feedback) can be defined by a partial
   order on the cells. We use this property to study generic one-parameter steady
@@ -27,14 +27,14 @@ tags:
   - network dynamics
   - feedforward networks
   - bifurcation theory
+date: 2022-03-07T10:22:52.965Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2105.02547
 categories:
   - publication
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-- name: arXiv
-  url: https://arxiv.org/abs/2105.02547
-date: 2022-03-07T10:22:52.965Z
 ---
