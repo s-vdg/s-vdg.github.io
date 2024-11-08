@@ -1,13 +1,15 @@
 ---
 title: Symmetry Preservation in Swarms of Oblivious Robots with Limited Visibility
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Raphael Gerlach
   - admin
   - Christopher Hahn
   - Jonas Harbig
   - Peter Kling
+doi: 10.4230/LIPIcs.OPODIS.2024.23
+publication: " OPODIS2024 - Conference on Principles of Distributed Systems, to appear"
 abstract: >-
   In the general pattern formation (GPF) problem, a swarm of simple autonomous,
   disoriented robots must form a given pattern. The robots' simplicity imply a
@@ -32,14 +34,14 @@ tags:
   - gathering
   - pattern formation
   - limited visibility
+date: 2024-10-01T13:40:36.430Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2409.19277
 projects:
   - "Algorithms for swarms: Distributed Computing meets Dynamical Systems"
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links:
-  - name: arXiv
-    url: https://arxiv.org/abs/2409.19277
-date: 2024-10-01T13:40:36.430Z
 ---
