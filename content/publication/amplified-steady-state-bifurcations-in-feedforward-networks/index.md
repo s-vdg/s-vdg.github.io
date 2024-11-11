@@ -21,7 +21,7 @@ abstract: We investigate bifurcations in feedforward coupled cell networks.
   different branching patterns and different amplifications can occur for
   different regions in the space of Taylor coefficients.
 draft: false
-featured: false
+featured: true
 tags:
   - coupled cells
   - network dynamics
