@@ -45,10 +45,12 @@ sections:
           - publication
 #        exclude_featured: true
         oneOf:
-          - publication_type: "2"
-          - publication_type: "1"
-        not:
-          - publication_type: "3"
+          - publication_type: 
+            - "2"
+          - publication_type: 
+            - "1"
+#        not:
+#          - publication_type: "3"
       count: 0
       archive:
         enable: false
