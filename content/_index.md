@@ -44,8 +44,7 @@ sections:
       filters:
         folders:
           - publication
-        featured:
-          - true
+        featured_only: true
 #        exclude_featured: true
       count: 0
       archive:
