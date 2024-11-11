@@ -20,21 +20,21 @@ abstract: "Dynamical systems often admit geometric properties that must be taken
   quiver structures are preserved under Lyapunov--Schmidt reduction, center
   manifold reduction, and normal form reduction. "
 draft: false
-featured: false
+featured: true
 tags:
   - coupled networks
   - symmetry
   - bifurcation theory
   - quiver representations
   - normal forms
+date: 2020-11-02T06:18:48.889Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2006.08073
 categories:
   - publication
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-- name: arXiv
-  url: https://arxiv.org/abs/2006.08073
-date: 2020-11-02T06:18:48.889Z
 ---
