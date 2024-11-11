@@ -1,5 +1,5 @@
 ---
-title: On the Dynamical Hierarchy in Gathering Protocols with Circulant Topologies
+title: On The Dynamical Hierarchy in Gathering Protocols with Circulant Topologies
 publication_types:
   - "3"
 authors:
