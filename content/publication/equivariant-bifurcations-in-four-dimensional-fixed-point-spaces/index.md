@@ -23,18 +23,18 @@ abstract: "In this paper we continue the study of group representations which
   can expect to find examples where the bifurcation behaviour is different from
   what we have seen in the known examples. "
 draft: false
-featured: false
+featured: true
 tags:
   - equivariant dynamics
   - bifurcation theory
+date: 2017-01-01T07:13:28.710Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/1511.00545
 categories:
   - publication
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-- name: arXiv
-  url: https://arxiv.org/abs/1511.00545
-date: 2017-01-01T07:13:28.710Z
 ---
