@@ -29,14 +29,14 @@ tags:
   - robot swarms
   - autonomous mobile robots
   - gathering
+date: 2024-11-11T09:58:02.669Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2305.06632
 projects:
   - "Algorithms for swarms: Distributed Computing meets Dynamical Systems"
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-- name: arXiv
-  url: https://arxiv.org/abs/2305.06632
-date: 2023-05-12T10:57:19.889Z
 ---
