@@ -18,7 +18,7 @@ abstract: To model dynamical systems on networks with higher order
   explicit formula for the order of tangency to the synchrony space of a
   reluctant steady state branch.
 draft: false
-featured: false
+featured: true
 date: 2024-11-06T12:39:38.963Z
 links:
   - name: arXiv
