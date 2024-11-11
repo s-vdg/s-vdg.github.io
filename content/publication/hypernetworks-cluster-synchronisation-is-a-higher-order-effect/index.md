@@ -6,6 +6,7 @@ authors:
   - admin
   - Eddie Nijholt
   - Bob Rink
+doi: 10.1137/23M1561075
 publication: SIAM Journal on Applied Mathematics, 83(6), 2329–2353
 abstract: Many networked systems are governed by non-pairwise interactions
   between nodes. The resulting higher-order interaction structure can then be
@@ -24,7 +25,7 @@ abstract: Many networked systems are governed by non-pairwise interactions
   remarkable synchrony breaking bifurcations that occur at high polynomial
   degree.
 draft: false
-featured: false
+featured: true
 tags:
   - coupled systems
   - bifurcation theory
@@ -35,7 +36,6 @@ date: 2023-11-28T10:59:41.563Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2302.08974
-doi: 10.1137/23M1561075
 categories:
   - publication
 image:
