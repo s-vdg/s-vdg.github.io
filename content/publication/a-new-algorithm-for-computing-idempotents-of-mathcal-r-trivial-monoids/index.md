@@ -32,20 +32,20 @@ abstract: The authors of Berg et al. [J. Algebra, 348 (2011) 446–461] provide 
   for $\mathbb{Z}\mathcal{M}$, after which a system of idempotents follows for
   any ring with a given system of idempotents.
 draft: false
-featured: false
+featured: true
 tags:
   - Monoids
   - representation theory
   - primitive orthogonal idempotents
   - feedforward networks
+date: 2021-06-01T09:55:37.424Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/1906.02844
 categories:
   - publication
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-- name: arXiv
-  url: https://arxiv.org/abs/1906.02844
-date: 2021-06-01T09:55:37.424Z
 ---
