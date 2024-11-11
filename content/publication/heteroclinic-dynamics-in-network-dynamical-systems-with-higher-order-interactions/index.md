@@ -17,7 +17,7 @@ abstract: Heteroclinic structures organize global features of dynamical systems.
   directed hypergraphs break the homogeneity and lead to vector fields that
   support heteroclinic structures.
 draft: false
-featured: false
+featured: true
 tags:
   - coupled systems
   - network dynamics
