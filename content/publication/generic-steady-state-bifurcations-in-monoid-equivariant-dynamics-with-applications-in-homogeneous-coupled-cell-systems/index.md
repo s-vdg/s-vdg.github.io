@@ -21,20 +21,20 @@ abstract: "We prove that steady state bifurcations in finite-dimensional
   homogeneous coupled cell networks as they can be embedded (under mild
   additional assumptions) into monoid equivariant systems. "
 draft: false
-featured: false
+featured: true
 tags:
   - coupled systems
   - bifurcation theory
   - network dynamics
   - monoid representation theory
+date: 2018-05-08T06:00:36.172Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/1802.08490
 categories:
   - publication
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links: 
-- name: arXiv
-  url: https://arxiv.org/abs/1802.08490
-date: 2018-05-08T06:00:36.172Z
 ---
