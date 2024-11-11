@@ -27,6 +27,7 @@ sections:
         # Folders to display content from
         folders:
           - publication
+        exclude_featured: true
         publication_type: "3"
       count: 0
       archive:
