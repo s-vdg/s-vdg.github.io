@@ -45,13 +45,6 @@ sections:
         folders:
           - publication
 #        exclude_featured: true
-        oneOf:
-          - publication_type: 
-            - "2"
-          - publication_type: 
-            - "1"
-#        not:
-#          - publication_type: "3"
       count: 0
       archive:
         enable: false
@@ -64,6 +57,7 @@ sections:
       filters:
         folders:
           - publication
+        exclude_featured: true
         publication_type: "0"
       count: 0
       archive:
@@ -77,6 +71,7 @@ sections:
       filters:
         folders:
           - publication
+        exclude_featured: true
         publication_type: "7"
     design:
       columns: '2'
