@@ -11,7 +11,7 @@ authors:
 doi: 10.4230/LIPIcs.OPODIS.2024.13
 publication: 28th International Conference on Principles of Distributed Systems
   (OPODIS 2024). Leibniz International Proceedings in Informatics (LIPIcs),
-  Volume 324, pp. 13:1-13:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik
+  Volume 324, pp. 13:1-13:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik.
 abstract: >-
   In the general pattern formation (GPF) problem, a swarm of simple autonomous,
   disoriented robots must form a given pattern. The robots' simplicity imply a
