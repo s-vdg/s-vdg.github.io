@@ -17,7 +17,7 @@ abstract: >-
   increase the symmetries of the robot swarm which in turn reduces the number of
   target patterns that can be realized eventually.
 
-  Here, we demonstrate how the collective dynamics of a robot swarm can be modelled conveniently in the language of dynamical systems. These mathematical models naturally come with certain equivariance (i. e., symmetry) properties which can be exploited to study the effect of the an algorithm on the symmetries of the swarm. We derive a condition on a general protocol under which the increase of symmetries is impossible. Then, we introduce two example protocols which satisfy this condition. Both induce non-trivial collective dynamics and at least partly solve the near-gathering problem without increasing symmetries of the swarm.
+  Here, we demonstrate how the collective dynamics of a robot swarm can be modelled conveniently in the language of dynamical systems. These mathematical models naturally come with certain equivariance (i. e., symmetry) properties which can be exploited to study the effect of an algorithm on the symmetries of the swarm. We derive a condition on a general protocol under which the increase of symmetries is impossible. Then, we introduce two example protocols which satisfy this condition. Both induce non-trivial collective dynamics and at least partly solve the near-gathering problem without increasing symmetries of the swarm.
 location: Paderborn University, TP.21.1.26
 date: 2025-01-23T15:00:58.891Z
 date_end: 2025-01-23T16:00:00.000Z
