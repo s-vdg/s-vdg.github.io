@@ -17,8 +17,7 @@ abstract: Collective dynamics of interacting units is prevalent in nature and
   The second part of the minisymposium will focus on more general models and
   results, ranging from chemical reaction networks to general dynamics on
   simplicial complexes.
-location: SIAM Conference on Applications of Dynamical Systems (DS25), Denver,
-  Colorado, U.S.
+location: Denver, Colorado, U.S.
 date: 2025-05-14T11:30:26.434Z
 date_end: 2025-05-14T17:00:00.000Z
 all_day: false
@@ -35,33 +34,24 @@ image:
 **Organizer:** 
 
 * Bob Rink, Vrije Universiteit Amsterdam, The Netherlands
-
 * Christian Bick, Vrije Universiteit Amsterdam, The Netherlands
 * Eddie Nijholt, Imperial College London, United Kingdom
 * Sören von der Gracht, Universität Paderborn, Germany
 
 **Talks:**
 
-1:30-1:55 Phase Reduction for Delay-Coupled Oscillators,
-    *Babette de Wolff*,
+1:30-1:55 Phase Reduction for Delay-Coupled Oscillators, *Babette de Wolff*
 
-2:00-2:25 Self-Consistent Approach to Synchronization on Hypergraphs,
-    *Juan G. Restrepo*
+2:00-2:25 Self-Consistent Approach to Synchronization on Hypergraphs, *Juan G. Restrepo*
 
-2:30-2:55 Hypernetworks with Electrochemical Oscillators,
-    *Istvan Kiss*
+2:30-2:55 Hypernetworks with Electrochemical Oscillators, *Istvan Kiss*
 
-3:00-3:25 Reconstructing Networks and Hypernetworks of Coupled Oscillators from Time Series ,
-    *Bengi Dönmez*
+3:00-3:25 Reconstructing Networks and Hypernetworks of Coupled Oscillators from Time Series, B*engi Dönmez*
 
-5:00-5:25 Insights from Exact Social Contagion Dynamics on Networks with Higher-Order Structures,\
-*István Z. Kiss*
+5:00-5:25 Insights from Exact Social Contagion Dynamics on Networks with Higher-Order Structures, *István Z. Kiss*
 
-5:30-5:55 Opinion disparity in hypergraphs with community structure: theory and practice,
-*Nicholas Landry*
+5:30-5:55 Opinion disparity in hypergraphs with community structure: theory and practice, *Nicholas Landry*
 
-6:00-6:25 Controllability and Observability of Hypergraph Dynamics,
-*Anthony M. Bloch*
+6:00-6:25 Controllability and Observability of Hypergraph Dynamics, *Anthony M. Bloch*
 
-6:30-6:55 Sync with Higher-Order Interactions: Effects on Basins and Linear Stability,\
-*Maxime Lucas*
+6:30-6:55 Sync with Higher-Order Interactions: Effects on Basins and Linear Stability, *Maxime Lucas*
