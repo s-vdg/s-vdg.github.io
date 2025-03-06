@@ -56,7 +56,7 @@ education:
   courses:
     - course: Dr. rer. nat. in Mathematics
       institution: Universität Hamburg
-      year: 2017
+      year: 2019
     - course: MSc in Mathematics
       institution: Universität Hamburg
       year: 2015
