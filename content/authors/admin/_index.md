@@ -41,7 +41,7 @@ social:
     label: arXiv
   - display:
       header: false
-    icon_pack: hero
+    icon_pack: far
     icon: link
     label: Linktree
     link: https://linktr.ee/s.vdg
