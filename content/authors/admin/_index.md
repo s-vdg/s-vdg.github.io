@@ -41,7 +41,7 @@ social:
     label: arXiv
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: far
     icon: linkedin
     label: LinkedIn
     link: https://www.linkedin.com/in/s-vdg/
