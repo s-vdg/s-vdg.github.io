@@ -41,8 +41,8 @@ social:
     label: arXiv
   - display:
       header: false
-    icon_pack: hero
-    icon: hero/link
+    icon_pack: far
+    icon: person-simple-walk
     label: Linktree
     link: https://linktr.ee/s.vdg
   - icon: cv
