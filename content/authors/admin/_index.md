@@ -39,6 +39,12 @@ social:
     icon_pack: ai
     icon: arxiv
     label: arXiv
+  - display:
+      header: false
+    icon_pack: fas
+    icon: silinktree
+    label: Linktree
+    link: https://linktr.ee/s.vdg
   - icon: cv
     icon_pack: ai
     link: uploads/cv_svdg.pdf
