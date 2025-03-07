@@ -10,6 +10,8 @@ categories: []
 links:
   - url: https://www.uni-paderborn.de/projekt/106
     name: Project Homepage
+    icon_pack: fas
+    icon: link
 image:
   filename: swarm.png
   focal_point: Smart
