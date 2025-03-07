@@ -7,6 +7,9 @@ summary: Investigation of the capabilities and limitations of local, distributed
 draft: false
 featured: false
 categories: []
+links:
+  - url: https://www.uni-paderborn.de/projekt/106
+    name: Project Homepage
 image:
   filename: swarm.png
   focal_point: Smart
