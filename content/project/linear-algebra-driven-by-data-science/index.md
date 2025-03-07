@@ -9,8 +9,8 @@ categories: []
 links:
   - url: https://www.hoou.de/projects/linear-algebra-driven-by-data-science
     name: Link to the online course
-    icon_pack: ai
-    icon: obp
+    icon_pack: fas
+    icon: link
 image:
   filename: vorschau.png
   focal_point: Smart
