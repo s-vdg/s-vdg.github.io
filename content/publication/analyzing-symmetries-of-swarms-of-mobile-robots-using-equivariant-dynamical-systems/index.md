@@ -7,8 +7,8 @@ authors:
   - Raphael Gerlach
   - admin
 abstract: >-
-  **In** this article, we investigate symmetry properties of distributed systems
-  of mobile robots.
+  <span style="font-variant:small-caps;">In</span> this article, we investigate
+  symmetry properties of distributed systems of mobile robots.
 
   We consider a swarm of $n\\in\\mathbb{N}$ robots in the $\\mathcal{OBLOT}$ model and analyze their collective $\\mathcal{F}\\mathrm{sync}$ dynamics using equivariant dynamical systems theory.
 
