@@ -23,7 +23,7 @@ abstract: In this article we investigate the convergence behavior of gathering
   for every (linear) circulant gathering protocol, whereas only the convergence
   rates depend on the weights in interaction graph itself.
 draft: false
-featured: false
+featured: true
 tags:
   - dynamical systems
   - coupled systems
