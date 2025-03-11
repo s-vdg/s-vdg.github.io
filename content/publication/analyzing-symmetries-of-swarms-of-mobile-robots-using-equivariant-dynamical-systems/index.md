@@ -10,7 +10,7 @@ abstract: >-
   In this article, we investigate symmetry properties of distributed systems of
   mobile robots.
 
-  We consider a swarm of $n\\in\\mathbb{N}$ robots in the \oblot/ model and analyze their collective \fsync\ dynamics using of equivariant dynamical systems theory.
+  We consider a swarm of $n\\in\\mathbb{N}$ robots in the $\\mathcal{OBLOT}$ model and analyze their collective $\\mathcal{F}\\textsc{sync}$ dynamics using of equivariant dynamical systems theory.
 
   To this end, we show that the corresponding evolution function commutes with rotational and reflective transformations of $\R^2$. These form a group that is isomorphic to $\mathbf{O}(2) \times S_n$, the product group of the orthogonal group and the permutation on $n$ elements.
 
