@@ -7,10 +7,10 @@ authors:
   - Raphael Gerlach
   - admin
 abstract: >-
-  In this article, we investigate symmetry properties of distributed systems of
-  mobile robots.
+  **In** this article, we investigate symmetry properties of distributed systems
+  of mobile robots.
 
-  We consider a swarm of $n\\in\\mathbb{N}$ robots in the $\\mathcal{OBLOT}$ model and analyze their collective $\\mathcal{F}\\normalfont{\\textsc{sync}}$ dynamics using of equivariant dynamical systems theory.
+  We consider a swarm of $n\\in\\mathbb{N}$ robots in the $\\mathcal{OBLOT}$ model and analyze their collective $\\mathcal{F}\\scshape sync$ dynamics using equivariant dynamical systems theory.
 
   To this end, we show that the corresponding evolution function commutes with rotational and reflective transformations of $\\mathbb{R}^2$. These form a group that is isomorphic to $\\mathbf{O}(2) \\times S\_n$, the product group of the orthogonal group and the permutation on $n$ elements.
 
