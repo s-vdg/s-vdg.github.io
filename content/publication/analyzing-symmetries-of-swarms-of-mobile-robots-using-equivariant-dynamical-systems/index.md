@@ -12,7 +12,7 @@ abstract: >-
 
   We consider a swarm of $n\\in\\mathbb{N}$ robots in the $\\mathcal{OBLOT}$ model and analyze their collective $\\mathcal{F}\\textsc{sync}$ dynamics using of equivariant dynamical systems theory.
 
-  To this end, we show that the corresponding evolution function commutes with rotational and reflective transformations of $\R^2$. These form a group that is isomorphic to $\mathbf{O}(2) \times S_n$, the product group of the orthogonal group and the permutation on $n$ elements.
+  To this end, we show that the corresponding evolution function commutes with rotational and reflective transformations of $\\mathbb{R}^2$. These form a group that is isomorphic to $\\mathbf{O}(2) \\times S\_n$, the product group of the orthogonal group and the permutation on $n$ elements.
 
   The theory of equivariant dynamical systems is used to deduce a hierarchy along which symmetries of a robot swarm can potentially increase following an arbitrary protocol.
 
