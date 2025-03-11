@@ -31,7 +31,7 @@ tags:
   - robot swarms
   - autonomous mobile robots
   - gathering
-date: 2024-11-11T09:58:02.669Z
+date: 2025-03-11T08:47:05.908Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2305.06632
