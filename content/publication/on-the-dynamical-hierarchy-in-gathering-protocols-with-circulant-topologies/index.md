@@ -1,7 +1,7 @@
 ---
 title: On the Dynamical Hierarchy in Gathering Protocols with Circulant Topologies
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Raphael Gerlach
   - admin
