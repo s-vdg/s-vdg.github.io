@@ -7,7 +7,7 @@ authors:
   - admin
   - Michael Dellnitz
 publication: Accepted for publication in the 32nd International Colloquium On
-  Structural Information and Communications Complexity (SIROCCO 2025).
+  Structural Information and Communications Complexity (SIROCCO 2025)
 abstract: In this article we investigate the convergence behavior of gathering
   protocols with fixed circulant topologies using tools form dynamical systems.
   Given a fixed number of mobile entities moving in the Euclidean plane, we
