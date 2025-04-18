@@ -27,7 +27,7 @@ event: MS14 Current Trends in Network Dynamics at Dynamics XLV Dynamics Days
   Europe 2025
 event_url: https://websites.auth.gr/ddeu2025/
 publishDate: 2025-03-28T12:49:46.343Z
-draft: true
+draft: false
 featured: false
 image:
   filename: img.png
