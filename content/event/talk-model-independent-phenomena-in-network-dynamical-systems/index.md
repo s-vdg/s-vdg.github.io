@@ -25,7 +25,7 @@ publishDate: 2025-04-22T12:40:05.916Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: hp.jpg
   focal_point: Smart
   preview_only: false
 ---
