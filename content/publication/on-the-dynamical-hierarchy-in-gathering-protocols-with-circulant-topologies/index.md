@@ -6,22 +6,24 @@ authors:
   - Raphael Gerlach
   - admin
   - Michael Dellnitz
-publication: Accepted for publication in the 32nd International Colloquium On
-  Structural Information and Communications Complexity (SIROCCO 2025)
-abstract: In this article we investigate the convergence behavior of gathering
-  protocols with fixed circulant topologies using tools form dynamical systems.
-  Given a fixed number of mobile entities moving in the Euclidean plane, we
-  model a gathering protocol as a system of ordinary differential equations
-  whose equilibria are exactly all possible gathering points. Then, we find
-  necessary and sufficient conditions for the structure of the underlying
-  interaction graph such that the protocol is stable and converging, i.e.,
-  gathering, in the distributive computing sense by using tools from dynamical
-  systems. Moreover, these tools allow for a more fine grained analysis in terms
-  of speed of convergence in the dynamical systems sense. In fact, we derive a
-  decomposition of the state space into stable invariant subspaces with
-  different convergence rates. In particular, this decomposition is identical
-  for every (linear) circulant gathering protocol, whereas only the convergence
-  rates depend on the weights in interaction graph itself.
+doi: 10.1007/978-3-031-91736-3_19
+publication: Schmid, U., Kuznets, R. (eds) Structural Information and
+  Communication Complexity. SIROCCO 2025. Lecture Notes in Computer Science, vol
+  15671. Springer, Cham.
+abstract: In this article, we investigate the convergence behavior of two
+  classes of gathering protocols with fixed circulant topologies using tools
+  from dynamical systems. Given a fixed number of mobile entities moving in the
+  Euclidean plane, we model a gathering protocol as a system of (linear)
+  ordinary differential equations whose equilibria are exactly all possible
+  gathering points. For a circulant topology, we derive a decomposition of the
+  state space into stable invariant subspaces with different convergence rates.
+  This decomposition is identical for every linear circulant gathering protocol.
+  Only the convergence rates depend on the weights in the interaction graph. In
+  the second part, we consider a normalized nonlinear version of the equation of
+  motion that is obtained by scaling the speed of each entity. Again, we find a
+  similar decomposition of the state space that is based on our findings in the
+  linear case. In both situations, we also consider visibility preservation
+  properties.
 draft: false
 featured: true
 tags:
