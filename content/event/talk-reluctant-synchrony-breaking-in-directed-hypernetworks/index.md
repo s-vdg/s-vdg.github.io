@@ -20,9 +20,9 @@ abstract: Interconnected real-world systems oftentimes contain non-pairwise
   formerly synchronous nodes to separate unusually slowly as exemplified in the
   figure.
 location: Thessaloniki, Greece
-date: 2025-06-23T11:49:46.329Z
-date_end: 2025-06-26T22:00:00.000Z
-all_day: true
+date: 2025-06-24T10:00:46.329Z
+date_end: 2025-06-24T10:30:00.000Z
+all_day: false
 event: MS14 Current Trends in Network Dynamics at Dynamics XLV Dynamics Days
   Europe 2025
 event_url: https://websites.auth.gr/ddeu2025/
