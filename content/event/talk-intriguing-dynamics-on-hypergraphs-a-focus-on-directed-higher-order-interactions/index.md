@@ -20,8 +20,8 @@ abstract: In real-world complex systems, agents are oftentimes interacting in
   when a high order tangency of the solution branch to a non-robust synchrony
   space causes formerly synchronous nodes to separate unusually slowly.
 location: VU Amsterdam
-date: 2025-07-10T08:40:16.346Z
-date_end: 2025-07-10T09:00:00.000Z
+date: 2025-07-10T12:40:16.346Z
+date_end: 2025-07-10T13:00:00.000Z
 all_day: false
 event: 0 mod 10 workshop
 event_url: https://www.amsterdam-dynamics.nl/zero-mod-ten/
