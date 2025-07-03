@@ -139,11 +139,11 @@ sections:
   - block: collection
     id: # teaching
     content:
-      title: # teaching
+      title: Past
       filters:
         folders:
           - project
-        tag: teaching
+        tag: teaching_past
       sort_by: 'Date'
       sort_ascending: false
     design:
