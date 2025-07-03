@@ -145,7 +145,7 @@ sections:
           - project
         tag: teaching
       sort_by: 'Date'
-      sort_ascending: true
+      sort_ascending: false
     design:
       columns: '2'
       view: compact
