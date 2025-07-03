@@ -10,3 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Details werden in PAUL und PANDA unter **L.105.5 Dynamische Systeme** bekannt gegeben.
