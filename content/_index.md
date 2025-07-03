@@ -110,6 +110,7 @@ sections:
           - project
         exclude_tags:
           - teaching
+          - teaching_past
 #      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 #      default_button_index: 0
 #      # Filter toolbar (optional).
@@ -135,7 +136,20 @@ sections:
     content:
       title: Teaching
       subtitle: 
-      text: 
+      text:
+  - block: collection
+    id: # teaching
+    content:
+      title: Current
+      filters:
+        folders:
+          - project
+        tag: teaching
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: # teaching
     content:
