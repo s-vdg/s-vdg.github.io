@@ -1,5 +1,5 @@
 ---
-title: "Winter 2024: Dynamische Systeme im maschinellen Lernen und in Netzwerken"
+title: "Winter: Dynamische Systeme im maschinellen Lernen und in Netzwerken"
 subtitle: Dynamische Systeme mit Netzwerkstruktur
 date: 2024-08-21T17:30:59.502Z
 summary: Zweiter Block der Veranstaltung "Dynamische Systeme im maschinellen
@@ -7,7 +7,7 @@ summary: Zweiter Block der Veranstaltung "Dynamische Systeme im maschinellen
 draft: false
 featured: false
 tags:
-  - teaching
+  - teaching_past
 categories:
   - teaching
 image:
