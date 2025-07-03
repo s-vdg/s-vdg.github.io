@@ -4,7 +4,7 @@ date: 2024-08-20T17:10:34.798Z
 draft: false
 featured: false
 tags:
-  - teaching
+  - teaching_past
 image:
   filename: gen-bif.png
   focal_point: Smart
