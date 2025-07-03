@@ -148,7 +148,7 @@ sections:
       sort_ascending: false
     design:
       columns: '2'
-      view: compact
+      view: citation
   - block: markdown
     id: contact
     content:
