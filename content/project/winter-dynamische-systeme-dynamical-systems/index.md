@@ -1,5 +1,5 @@
 ---
-title: "Winter: Dynamische Systeme (Dynamical Systems)"
+title: "Winter 2025: Dynamische Systeme (Dynamical Systems)"
 date: 2025-07-03T07:32:15.597Z
 draft: false
 featured: false
