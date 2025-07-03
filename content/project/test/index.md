@@ -1,5 +1,5 @@
 ---
-title: "Winter: Modellieren und Anwendungen"
+title: "Winter 2024: Modellieren und Anwendungen"
 subtitle: Dynamische Prozesse
 date: 2024-08-21T17:30:49.649Z
 summary: Vorlesung im Ba­che­lor/Mas­ter für das Lehr­amt an Haupt-, Re­al-,
