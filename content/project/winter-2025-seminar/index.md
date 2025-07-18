@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Details werden in PAUL und PANDA unter **L.105.33908** bekannt gegeben.
+Details werden in [PAUL](https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N125636421205451,-N000470,-N000000000000000,-N394275236936829,-N394275236963830,-N0,-N0) und PANDA unter **L.105.33908** bekannt gegeben.
 
 # Zielgruppe
 
