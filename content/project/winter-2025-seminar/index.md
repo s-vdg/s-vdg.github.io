@@ -15,18 +15,9 @@ image:
 ---
 Details werden in [PAUL](https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000443,-N0,-N394275236936829,-N394275236963830,-N0,-N0,-N3,-AYYH8WjUaWBR37fLjmYKYfjAfRW5EQUpymqL8RS5Ce-mpmfZWWqL7xMKzrqULmYUQCQRfxBwPvjKKQS7N3oUIVDKSmILxxWUd7MKBvoUBcDKbOzKK7QPmeUPbCYAbWjaZQoUJ4DWtcdHevZPgPfPDOq5Fxz9-Rqy-fqm5OWpyRNmJ3vZ6QZpScgBAvSPxYfFNcg79xILYeYWsmSAsmqoEfQmxvILsRIL5fNVAfBwSVYohVQ50Vq5xQBwumgidQIW83BZW4QL8WW56cdmWYUpW7QLJfB5JHdKF7dGzrg5wvWouRjK5QYLdvDLwRNHBVN7jvDPA4MLjeDZsxW5WPUp07YRFO-VNWfWEmZR5xBZhCQUpYMKNxjF-Vup0Vo5frgo9mjKNOYNtOWHN4UPeVSPb4WV9V-mgPoHzQoHb7dmzVzHaWNctvZp9VQphvjawvZ5LOjn-VoWdPonZfkZbxDwFmuWx4oWNcfed4SAHYo59VdPdmoooPDwfRNHTR-UmRDPU4ui94BV94oLC7DUavjRk7NZvOZoAvYRkOYfNeD5YHZeNeYmpPNmuPdwjOBGUmgl9QBwaYgWKvBoJYoUj4W5j3Y6FOM5jRILEQdWKxNm8VYPSQWKQmuid3QohOz6V3feNPSR9Wf5QRUK7OSR0evZgxZ58VM534umt3BwuWDwHRoc-eZRYxuKT7N5NmDHxcjWwvqmkmYH6CQmIfoW8fWW6PNU-cYZhQZm8HUKyeWWoYQ7wVDBF4z5a4UUtVdwlfB7t) unter **L.105.33908** bekannt gegeben.
 
-# Voraussetzungen
-
-Die Veranstaltung kann gut aufbauend zu „Numerik I“ besucht werden. Diese Inhalte werden jedoch nicht vorausgesetzt, es werden auch Themen vergeben, die unabhängig von den Inhalten der „Numerik I“ sind.
-
 # Ziel der Veranstaltung
 
 In diesem Seminar erhalten Sie einen Überblick über interessante Phänomene, die im Umfeld von dynamischen Systemen auftreten, sowie über Methoden zu deren numerischer Untersuchung.
-
-# Zielgruppe
-
-M. Sc./B. Sc. (Techno-)Mathematik
-M. Sc. Lehramt Mathematik
 
 # Inhalte
 
@@ -73,6 +64,15 @@ Die empfohlene Literatur für jeden Vortrag wird je nach gewähltem Thema in der
 * Hiroya Nakao (2017). "Phase reduction approach to synchronization of nonlinear oscillators". Contemporary Physics. 57 (2): 188–214. arXiv:1704.03293. doi:10.1080/00107514.2015.1094987
 * Hermann, Martin: Numerische Mathematik (2., überarbeitete Auflage), Oldenburg Verlag, 2006. 
 * Werner, Jochen: Numerische Mathematik 1 + 2, Vieweg, 1992.
+
+# Voraussetzungen
+
+Die Veranstaltung kann gut aufbauend zu „Numerik I“ besucht werden. Diese Inhalte werden jedoch nicht vorausgesetzt, es werden auch Themen vergeben, die unabhängig von den Inhalten der „Numerik I“ sind.
+
+# Zielgruppe
+
+M. Sc./B. Sc. (Techno-)Mathematik
+M. Sc. Lehramt Mathematik
 
 # Ergänzende Veranstaltungen
 
