@@ -6,7 +6,7 @@ featured: false
 tags:
   - teaching
 image:
-  filename: lorenz_system.gif
+  filename: lorenz_system
   focal_point: Smart
   preview_only: false
   caption: Von DennisRoth - Eigenes Werk, CC BY-SA 4.0,
