@@ -74,6 +74,10 @@ Die Veranstaltung kann gut aufbauend zu „Numerik I“ besucht werden. Diese In
 M. Sc./B. Sc. (Techno-)Mathematik
 M. Sc. Lehramt Mathematik
 
+# Kommentar
+
+Die Sprache der Veranstaltung ist Deutsch. Die Literatur ist jedoch teilweise nur auf Englisch verfügbar. Wenn alle Teilnehmenden einverstanden sind, dürfen zudem Vorträge auch auf Englisch gehalten werden.
+
 # Ergänzende Veranstaltungen
 
 Das Seminar eignet sich gut als Ergänzung zu den Inhalten der Vorlesung „Dynamische Systeme“, die ebenfalls im Wintersemester angeboten wird.
