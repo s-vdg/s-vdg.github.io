@@ -39,6 +39,7 @@ In diesem Seminar widmen wir uns dynamischen Systemen sowie deren numerischer Be
 * Explizite Runge-Kutta-Verfahren
 * (Extended) Dynamic Mode Decomposition
 * Berechnung von Attraktoren
+* Katastrophentheorie
 
 # Informationen zur Leistungserbringung
 
