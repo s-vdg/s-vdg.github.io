@@ -65,6 +65,7 @@ Die empfohlene Literatur für jeden Vortrag wird je nach gewähltem Thema in der
 * Hiroya Nakao (2017). "Phase reduction approach to synchronization of nonlinear oscillators". Contemporary Physics. 57 (2): 188–214. arXiv:1704.03293. doi:10.1080/00107514.2015.1094987
 * Hermann, Martin: Numerische Mathematik (2., überarbeitete Auflage), Oldenburg Verlag, 2006. 
 * Werner, Jochen: Numerische Mathematik 1 + 2, Vieweg, 1992.
+* Arnold, Vladimir I. (1992): Catastrophe Theory. Berlin, Heidelberg: Springer Berlin Heidelberg.
 
 # Voraussetzungen
 
