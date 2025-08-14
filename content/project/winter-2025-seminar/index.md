@@ -73,7 +73,7 @@ Die Veranstaltung kann gut aufbauend zu „Numerik I“ besucht werden. Diese In
 
 # Zielgruppe
 
-M. Sc./B. Sc. (Techno-)Mathematik
+B. Sc. (Techno-)Mathematik\
 M. Sc. Lehramt Mathematik
 
 # Kommentar
