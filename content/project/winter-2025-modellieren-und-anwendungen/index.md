@@ -48,14 +48,13 @@ Im Wesentlichen:
 
 * C. P. Ortlieb\
   Einführung in die mathematische Modellierung\
-  Vorlesungskript, Universität Hamburg, 2009,\
-  https://www.math.uni-hamburg.de/home/ortlieb/ModSimSkript.pdf
+  Vorlesungskript, Universität Hamburg, 2009,[\
+  https://www.math.uni-hamburg.de/home/ortlieb/ModSimSkript.pdf](<﻿ https://www.math.uni-hamburg.de/home/ortlieb/ModSimSkript.pdf>)
 * C. P. Ortlieb, C. v. Dresky, I. Gasser, S. Günzel\
   Mathematische Modellierung\
   Vieweg+Teubner, Wiesbaden, 2009.
 * U. Krause, T. Nesemann\
   Differenzengleichungen und diskrete dynamische Systeme\
   De Gruyter, Berlin, 2012.
-
 
 Weitere Quellen werden bei Bedarf im Verlauf der Vorlesung bekannt gegeben.
