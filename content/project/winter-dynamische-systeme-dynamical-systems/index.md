@@ -1,7 +1,7 @@
 ---
 title: "Winter 2025: Dynamische Systeme (Dynamical Systems)"
 date: 2025-07-03T07:32:15.597Z
-draft: false
+draft: true
 featured: false
 tags:
   - teaching
