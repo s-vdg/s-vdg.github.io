@@ -7,7 +7,7 @@ featured: false
 tags:
   - teaching
 image:
-  filename: trajectory.jpg
+  filename: hp_img.png
   focal_point: Smart
   preview_only: false
 ---
