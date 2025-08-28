@@ -13,7 +13,23 @@ image:
 ---
 Details werden in [PAUL](https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000443,-N0,-N393923070459804,-N393923070404805,-N0,-N0,-N3,-AxWpDOgBAfBWWOdooOdwlmfBZcMmFPN5oONLdcolZfUm0Wol6mzHBHqA-WuLk4IldOuPSeZ56VDK8YoDN7j7AWDWSYQewc-H3fScjmUmvPQR74IP3vDUEvQPE4zPXRYPuOSijWByFV-PAeW5A4BmVPMojPZRMffwhHuPSQfFFVQoumjWbxgUK3zUMfDUAfQopcdASVNKAeN7Z4qotRgpZcDDNOgUJW-WdHB6f3zFdWkZ33SFwmQf6xjpT4umwrqLZcuW57tZePdm-VNWsCf69xWi6QQRZWfLz3YaZefN6YgijYfoKVf6D4DLQmjH5f-o6eQHJ4BPTcQcF7fmeOdoIeWKIfdHdvWKHevZLedUNHZoTeZPSmdZWP-oCrDKKczPmxuKEONP3fIUqPQofHqoNfSpJxDWTVdLeHgDdOzn9mZKEVfWZPMRmvZmLHjWNCupVRYPZxULf7qGDHUKTvfHlczwFcYKAYoa9OuRBPz5TWBeNWUUIcDD6Rf6QYoHhPI5YRzPYxU5SRW76Q-HBczUMPqPXvjKDHZmQHNoeHd6XxjpXVom-3WB6rDAyQY5feMVjvUK6PDHMQq67mWpJHZUafUUImjf-YYVdcQmSRZKYxgLjvQL9PgP3WYZaPNBj4f5uP-pKOZofmBK0fgLW4gRXe-nFPZKSWj5qPffNPDKqcBm5rqWwfUiF3BK03zcAWj5CRMpl3zwEVWB-vzGVVupTfBUTxNy6QSftPfmh7Z5BvDUIVSWpef9tcNHArgmPHWRq) und PANDA unter **L.105.83700 Wahlpflichtveranstaltung Modellieren und Anwendungen** bekannt gegeben.
 
-# Voraussetzungen
+# Termine
+
+## Vorlesung
+
+Mittwoch 14:00 - 16:00 Uhr, Raum C U 132
+
+## Übung
+
+folgt
+
+## Sprechstunde
+
+folgt
+
+## Klausur
+
+folgt
 
 # Ziel der Veranstaltung
 
