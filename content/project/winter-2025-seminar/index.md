@@ -89,3 +89,7 @@ Das Seminar eignet sich gut als Ergänzung zu den Inhalten der Vorlesung „Dyna
 Beim ersten Seminartermin werden die angebotenen Themen kurz vorgestellt und anschließend verteilt. Seien Sie daher bei diesem Termin bitte unbedingt anwesend.
 
 In der zweiten Vorlesungswoche wird das Seminar nicht stattfinden. Stattdessen starten wir (frühestens) in der dritten Vorlesungswoche mit den Vorträgen, um auch der ersten Gruppe ausreichend Zeit für die Vorbereitung zu ermöglichen.
+
+# Termine
+
+Donnerstag 09:00 - 11:00 Uhr, Raum D 1 320
