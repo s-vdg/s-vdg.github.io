@@ -65,7 +65,7 @@ Mittwoch 14:00 - 16:00 Uhr, Raum C U 132
 
 ## Übung
 
-folgt
+Mittwoch 16:00 - 18:00 Uhr, Raum C U 132
 
 ## Sprechstunde
 
