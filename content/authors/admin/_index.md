@@ -56,8 +56,8 @@ social:
     link: uploads/cv_svdg.pdf
     label: Curriculum Vitae
 organizations:
-  - name: Paderborn University - Chair of Applied Mathematics
-    url: https://math.uni-paderborn.de/en/ag/chair-of-applied-mathematics
+  - name: Paderborn University - Numerics of Partial Differential Equations Lab
+    url: https://math.uni-paderborn.de/en/ag/working-group-numerics-of-partial-differential-equations
 education:
   courses:
     - course: Dr. rer. nat. in Mathematics
@@ -73,8 +73,8 @@ superuser: true
 status:
   ? icon
 last_name: von der Gracht
-role: Academic Senior Councillor in Dynamical Systems (~ non-tenured assistant
-  professor)
+role: Academic Senior Councillor in Dynamical Systems (~ non-tenured Assistant
+  Professor)
 highlight_name: true
 title: Sören von der Gracht
 first_name: Sören
