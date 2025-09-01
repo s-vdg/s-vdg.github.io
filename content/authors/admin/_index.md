@@ -73,7 +73,8 @@ superuser: true
 status:
   ? icon
 last_name: von der Gracht
-role: PostDoc in Dynamical Systems
+role: Academic Senior Councillor in Dynamical Systems (roughly equivalent to
+  (non-tenured, non-tenure track) Assistant Professor
 highlight_name: true
 title: Sören von der Gracht
 first_name: Sören
