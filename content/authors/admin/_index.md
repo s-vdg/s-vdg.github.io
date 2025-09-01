@@ -74,7 +74,7 @@ status:
   ? icon
 last_name: von der Gracht
 role: Academic Senior Councillor in Dynamical Systems (roughly equivalent to
-  (non-tenured, non-tenure track) Assistant Professor)
+  (non-tenured, non-tenure track) assistant professor)
 highlight_name: true
 title: Sören von der Gracht
 first_name: Sören
