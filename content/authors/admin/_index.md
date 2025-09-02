@@ -56,7 +56,8 @@ social:
     link: uploads/cv_svdg.pdf
     label: Curriculum Vitae
 organizations:
-  - name: Paderborn University - Numerics of Partial Differential Equations Lab
+  - name: Academic Senior Councillor (~ non-tenured Assistant Professor) - Paderborn
+      University - Numerics of Partial Differential Equations Lab
     url: https://math.uni-paderborn.de/en/ag/working-group-numerics-of-partial-differential-equations
 education:
   courses:
@@ -73,8 +74,7 @@ superuser: true
 status:
   ? icon
 last_name: von der Gracht
-role: Academic Senior Councillor in Dynamical Systems (~ non-tenured Assistant
-  Professor)
+role: Mathematician researching dynamical systems
 highlight_name: true
 title: Sören von der Gracht
 first_name: Sören
