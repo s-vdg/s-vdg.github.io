@@ -204,8 +204,8 @@ sections:
 #          name: Zoom Me
 #          link: 'https://zoom.com'
       coordinates:
-        latitude: '51.70094721497175'
-        longitude: '8.765041497345752'
+        latitude: '51.707999807538194'
+        longitude: '8.773058542329611'
       # Automatically link email and phone or display as text?
       autolink: true
 #      # Email form provider
