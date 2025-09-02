@@ -180,13 +180,13 @@ sections:
       phone: +49 5251 60-3774
 #      appointment_url: 'https://calendly.com'
       address:
-        street: Technologiepark 21
+        street: Warburger Str. 100
         city: Paderborn
       #  region: CA
-        postcode: '33100'
+        postcode: '33098'
         country: Germany
         country_code: D
-      directions: Office TP21.1.17
+      directions: Office J2.238
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
