@@ -177,7 +177,7 @@ sections:
       text: 
       # Contact (add or remove contact options as necessary)
       email: soeren.von.der.gracht@uni-paderborn.de
-      phone: +49 5251 60-3774
+      phone: +49 5251 60-3229
 #      appointment_url: 'https://calendly.com'
       address:
         street: Warburger Str. 100
