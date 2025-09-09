@@ -69,7 +69,7 @@ Mittwoch 16:00 - 18:00 Uhr, Raum C U 132
 
 ## Sprechstunde
 
-voraussichtlich Mittwoch 11:00-12:00 Uhr, [MatheTreff](https://math.uni-paderborn.de/studium/mathetreff/)
+voraussichtlich Mittwoch 11:00-12:00 Uhr, [MatheTreff](https://math.uni-paderborn.de/studium/mathetreff/) Raum D3.331
 
 ## Klausur
 
