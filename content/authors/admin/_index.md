@@ -47,15 +47,15 @@ social:
     link: https://www.linkedin.com/in/s-vdg/
   - display:
       header: false
-    icon_pack: fas
-    icon: tree
+    icon_pack: fab
+    icon: linktree
     label: Linktree
     link: https://linktr.ee/s.vdg
   - display:
       header: false
     link: https://www.uni-paderborn.de/en/person/97359
     label: University Profile
-    icon_pack: fas
+    icon_pack: far
     icon: building-columns
   - icon: cv
     icon_pack: ai
