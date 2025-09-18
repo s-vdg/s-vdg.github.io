@@ -55,7 +55,7 @@ social:
       header: false
     link: https://www.uni-paderborn.de/en/person/97359
     label: University Profile
-    icon_pack: far
+    icon_pack: fas
     icon: building-columns
   - icon: cv
     icon_pack: ai
