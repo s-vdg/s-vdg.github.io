@@ -36,7 +36,7 @@ social:
   - display:
       header: false
     link: https://arxiv.org/a/0000-0002-8054-2058
-    icon_pack: fab
+    icon_pack: ai
     icon: arxiv
     label: arXiv
   - display:
