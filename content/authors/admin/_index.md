@@ -13,12 +13,6 @@ social:
     label: E-Mail
   - display:
       header: false
-    link: https://www.uni-paderborn.de/en/person/97359
-    label: UPB Profile
-    icon_pack: ai
-    icon: archive
-  - display:
-      header: false
     link: https://orcid.org/0000-0002-8054-2058
     icon_pack: ai
     icon: orcid
@@ -57,6 +51,12 @@ social:
     icon: tree
     label: Linktree
     link: https://linktr.ee/s.vdg
+  - display:
+      header: false
+    link: https://www.uni-paderborn.de/en/person/97359
+    label: University Profile
+    icon_pack: ai
+    icon: archive
   - icon: cv
     icon_pack: ai
     link: uploads/cv_svdg.pdf
