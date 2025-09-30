@@ -29,7 +29,7 @@ abstract: >
   - etc.
 location: online
 date: 2025-10-09T07:28:02.769Z
-date_end: 2025-10-09T22:01:00.000Z
+date_end: 2025-10-10T16:01:00.000Z
 all_day: true
 event: COUPLED 80
 event_url: https://www2.isep.ipp.pt/coupled80/
