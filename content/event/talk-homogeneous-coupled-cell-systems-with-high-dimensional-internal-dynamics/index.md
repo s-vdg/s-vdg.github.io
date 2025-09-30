@@ -16,16 +16,16 @@ abstract: >-
   implications for possible center subspaces in bifurcation analysis. We
   describe the effect on steady state and Hopf bifurcations in l-parameter
   families of network vector fields.  The main results in that regard are that
-  (1) generic one-parameter steady state bifurcations are qualitatively
-  independent of the dimension of the internal dynamics and that, (2) in order
-  to observe all generic l-parameter bifurcations, the internal dynamics has to
-  be at least l-dimensional for steady state bifurcations and 2l-dimensional for
+  1) generic one-parameter steady state bifurcations are qualitatively
+  independent of the dimension of the internal dynamics and that, 2) in order to
+  observe all generic l-parameter bifurcations, the internal dynamics has to be
+  at least l-dimensional for steady state bifurcations and 2l-dimensional for
   Hopf bifurcations. Furthermore, we illustrate how additional structure in the
   network can be exploited to obtain even greater understanding of bifurcation
   scenarios in the high-dimensional case beyond qualitative statements about the
   collective dynamics. One-parameter steady state bifurcations in feedforward
   networks exhibit an unusual amplification in the asymptotic growth rates of
-  individual cells [2]. As another main result, we prove that (3) the same cells
+  individual cells [2]. As another main result, we prove that 3) the same cells
   exhibit this amplifying effect with the same growth rates when the internal
   dynamics is high-dimensional.
 
