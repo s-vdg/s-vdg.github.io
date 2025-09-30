@@ -36,8 +36,8 @@ abstract: >-
 
   [2] S. von der Gracht, E. Nijholt, B. Rink (2022). Amplified steady state bifurcations in feedforward networks. Nonlinearity 35.4, pp. 2073–2120.
 location: online
-date: 2025-10-10T16:15:08.921Z
-date_end: 2025-10-10T16:30:00.000Z
+date: 2025-10-10T18:15:08.921Z
+date_end: 2025-10-10T18:30:00.000Z
 all_day: false
 event: COUPLED 80
 event_url: https://www2.isep.ipp.pt/coupled80/
