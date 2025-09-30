@@ -31,9 +31,7 @@ location: online
 date: 2025-10-09T07:28:02.769Z
 date_end: 2025-10-10T16:01:00.000Z
 all_day: true
-links:
-  - url: https://s-vdg.github.io/talk/talk-homogeneous-coupled-cell-systems-with-high-dimensional-internal-dynamics/
-    name: Talk
+links: []
 event: COUPLED 80
 event_url: https://www2.isep.ipp.pt/coupled80/
 publishDate: 2025-09-30T07:28:02.785Z
