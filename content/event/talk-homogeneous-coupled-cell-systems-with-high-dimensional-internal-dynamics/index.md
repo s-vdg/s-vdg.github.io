@@ -44,6 +44,10 @@ event_url: https://www2.isep.ipp.pt/coupled80/
 publishDate: 2025-09-30T10:01:08.933Z
 draft: false
 featured: false
+authors:
+  - admin
+  - Eddie Nijholt
+  - Bob Rink
 image:
   filename: featured
   focal_point: Smart
