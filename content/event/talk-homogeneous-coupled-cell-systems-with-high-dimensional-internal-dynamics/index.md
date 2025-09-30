@@ -32,9 +32,9 @@ abstract: >-
 
   References:
 
-  [1] B. Rink, J. Sanders (2014). Coupled Cell Networks and Their Hidden Symmetries. SIAM J. Math. Anal. 46.2, pp. 1577–1609.
+  - [1] B. Rink, J. Sanders (2014). Coupled Cell Networks and Their Hidden Symmetries. SIAM J. Math. Anal. 46.2, pp. 1577–1609.
 
-  [2] S. von der Gracht, E. Nijholt, B. Rink (2022). Amplified steady state bifurcations in feedforward networks. Nonlinearity 35.4, pp. 2073–2120.
+  - [2] S. von der Gracht, E. Nijholt, B. Rink (2022). Amplified steady state bifurcations in feedforward networks. Nonlinearity 35.4, pp. 2073–2120.
 location: online
 date: 2025-10-10T18:15:08.921Z
 date_end: 2025-10-10T18:30:00.000Z
