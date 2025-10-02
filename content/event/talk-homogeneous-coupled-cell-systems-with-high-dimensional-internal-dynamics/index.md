@@ -49,7 +49,7 @@ authors:
   - Eddie Nijholt
   - Bob Rink
 image:
-  filename: featured
+  filename: hp.jpg
   focal_point: Smart
   preview_only: false
 ---
