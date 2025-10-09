@@ -38,6 +38,7 @@ tags:
   - coupled networks
   - symmetry
   - bifurcation theory
+  - monoid representation theory
 image:
   filename: featured
   focal_point: Smart
