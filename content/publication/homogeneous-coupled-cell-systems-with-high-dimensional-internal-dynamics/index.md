@@ -34,6 +34,10 @@ abstract: "The analysis of network dynamics is oftentimes restricted to networks
   growth rates when the internal dynamics is high-dimensional. "
 draft: false
 featured: false
+tags:
+  - coupled networks
+  - symmetry
+  - bifurcation theory
 image:
   filename: featured
   focal_point: Smart
