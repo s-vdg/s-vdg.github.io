@@ -21,20 +21,20 @@ Donnerstag 09:00 - 11:00 Uhr, Raum D 1 320
 
 ## Vortragsliste
 
-| Datum      | Thema                                                                   |
-| :--------- | ------------- |
-| 16.10.2025 | Themenvorstellung |
-| 06.11.2025 | Lineare Differentialgleichungen |
-| 20.11.2025 | Gleichgewichte in nichtlinearen Differentialgleichungen |
-| 16.10.2025 | Dynamik in der Ebene: Poincaré‐Abbildung und Poincaré‐Bendixson‐Theorem |
-| 27.11.2025 | Eigenwertprobleme |
-| 04.12.2025 | Hamilton‐Systeme + symplektische Runge‐Kutta‐Verfahren |
-| 11.12.2025 | Diskrete dynamische Systeme |
-| 18.12.2025 | Homöomorphismen auf dem Kreis |
-| 08.01.2026 | Satz von Sarkovskii |
-| 15.01.2026 | Chaos im Lorenz‐System |
-| 22.01.2026 | Einführung Katastrophentheorie—Zeeman’s Catastrophy Machine |
-| 29.01.2026 | Identifikation von Gleichungen aus Daten |
+| Datum      |   | Thema |
+| :--------- | - | ------------- |
+| 16.10.2025 | - | Themenvorstellung |
+| 06.11.2025 | - | Lineare Differentialgleichungen |
+| 20.11.2025 | - | Gleichgewichte in nichtlinearen Differentialgleichungen |
+| 16.10.2025 | - | Dynamik in der Ebene: Poincaré‐Abbildung und Poincaré‐Bendixson‐Theorem |
+| 27.11.2025 | - | Eigenwertprobleme |
+| 04.12.2025 | - | Hamilton‐Systeme + symplektische Runge‐Kutta‐Verfahren |
+| 11.12.2025 | - | Diskrete dynamische Systeme |
+| 18.12.2025 | - | Homöomorphismen auf dem Kreis |
+| 08.01.2026 | - | Satz von Sarkovskii |
+| 15.01.2026 | - | Chaos im Lorenz‐System |
+| 22.01.2026 | - | Einführung Katastrophentheorie—Zeeman’s Catastrophy Machine |
+| 29.01.2026 | - | Identifikation von Gleichungen aus Daten |
 
 
 # Ziel der Veranstaltung
