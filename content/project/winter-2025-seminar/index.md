@@ -15,6 +15,28 @@ image:
 ---
 Details werden in [PAUL](https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000443,-N0,-N394275236936829,-N394275236963830,-N0,-N0,-N3,-AYYH8WjUaWBR37fLjmYKYfjAfRW5EQUpymqL8RS5Ce-mpmfZWWqL7xMKzrqULmYUQCQRfxBwPvjKKQS7N3oUIVDKSmILxxWUd7MKBvoUBcDKbOzKK7QPmeUPbCYAbWjaZQoUJ4DWtcdHevZPgPfPDOq5Fxz9-Rqy-fqm5OWpyRNmJ3vZ6QZpScgBAvSPxYfFNcg79xILYeYWsmSAsmqoEfQmxvILsRIL5fNVAfBwSVYohVQ50Vq5xQBwumgidQIW83BZW4QL8WW56cdmWYUpW7QLJfB5JHdKF7dGzrg5wvWouRjK5QYLdvDLwRNHBVN7jvDPA4MLjeDZsxW5WPUp07YRFO-VNWfWEmZR5xBZhCQUpYMKNxjF-Vup0Vo5frgo9mjKNOYNtOWHN4UPeVSPb4WV9V-mgPoHzQoHb7dmzVzHaWNctvZp9VQphvjawvZ5LOjn-VoWdPonZfkZbxDwFmuWx4oWNcfed4SAHYo59VdPdmoooPDwfRNHTR-UmRDPU4ui94BV94oLC7DUavjRk7NZvOZoAvYRkOYfNeD5YHZeNeYmpPNmuPdwjOBGUmgl9QBwaYgWKvBoJYoUj4W5j3Y6FOM5jRILEQdWKxNm8VYPSQWKQmuid3QohOz6V3feNPSR9Wf5QRUK7OSR0evZgxZ58VM534umt3BwuWDwHRoc-eZRYxuKT7N5NmDHxcjWwvqmkmYH6CQmIfoW8fWW6PNU-cYZhQZm8HUKyeWWoYQ7wVDBF4z5a4UUtVdwlfB7t) unter **L.105.33908** bekannt gegeben.
 
+# Termine
+
+Donnerstag 09:00 - 11:00 Uhr, Raum D 1 320
+
+## Vortragsliste
+
+| Datum | Thema |
+| ------------- | ------------- |
+| 16.10.2025 | Themenvorstellung |
+| 06.11.2025 | Lineare Differentialgleichungen |
+| 20.11.2025 | Gleichgewichte in nichtlinearen Differentialgleichungen |
+| 16.10.2025 | Dynamik in der Ebene: Poincaré‐Abbildung und Poincaré‐Bendixson‐Theorem |
+| 27.11.2025 | Eigenwertprobleme |
+| 04.12.2025 | Hamilton‐Systeme + symplektische Runge‐Kutta‐Verfahren |
+| 11.12.2025 | Diskrete dynamische Systeme |
+| 18.12.2025 | Homöomorphismen auf dem Kreis |
+| 08.01.2026 | Satz von Sarkovskii |
+| 15.01.2026 | Chaos im Lorenz‐System |
+| 22.01.2026 | Einführung Katastrophentheorie—Zeeman’s Catastrophy Machine |
+| 29.01.2026 | Identifikation von Gleichungen aus Daten |
+
+
 # Ziel der Veranstaltung
 
 In diesem Seminar erhalten Sie einen Überblick über interessante Phänomene, die im Umfeld von dynamischen Systemen auftreten, sowie über Methoden zu deren numerischer Untersuchung.
@@ -89,7 +111,3 @@ Das Seminar eignet sich gut als Ergänzung zu den Inhalten der Vorlesung „Dyna
 Beim ersten Seminartermin werden die angebotenen Themen kurz vorgestellt und anschließend verteilt. Seien Sie daher bei diesem Termin bitte unbedingt anwesend.
 
 In der zweiten Vorlesungswoche wird das Seminar nicht stattfinden. Stattdessen starten wir (frühestens) in der dritten Vorlesungswoche mit den Vorträgen, um auch der ersten Gruppe ausreichend Zeit für die Vorbereitung zu ermöglichen.
-
-# Termine
-
-Donnerstag 09:00 - 11:00 Uhr, Raum D 1 320
