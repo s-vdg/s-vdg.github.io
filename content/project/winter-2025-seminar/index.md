@@ -21,8 +21,8 @@ Donnerstag 09:00 - 11:00 Uhr, Raum D 1 320
 
 ## Vortragsliste
 
-| Datum | Thema |
-| ------------- | ------------- |
+| Datum      | Thema |
+| :--------- | ------------- |
 | 16.10.2025 | Themenvorstellung |
 | 06.11.2025 | Lineare Differentialgleichungen |
 | 20.11.2025 | Gleichgewichte in nichtlinearen Differentialgleichungen |
