@@ -16,6 +16,8 @@ abstract: >-
 
   The theory of equivariant dynamical systems is used to deduce a hierarchy along which symmetries of a robot swarm can potentially increase following an arbitrary protocol.
 
+  In essence, a symmetry increase describes situations where a swarm evolves from an asymmetric to a more symmetric configuration, e.g., when scattered robots converge toward a regular polygon.
+
   By decoupling the <span style="font-variant:small-caps;">Look</span> phase from the <span style="font-variant:small-caps;">Compute</span> and <span style="font-variant:small-caps;">Move</span> phases in the mathematical description of an <span style="font-variant:small-caps;">LCM</span> cycle, this hierarchy can be characterized in terms of automorphisms of connectivity graphs. 
 
   In particular, we find all possible types of symmetry increase, if the decoupled <span style="font-variant:small-caps;">Compute</span> and <span style="font-variant:small-caps;">Move</span> phase is invertible. 
@@ -31,12 +33,12 @@ tags:
   - autonomous mobile robots
   - symmetry
   - equivariant dynamics
+date: 2025-03-11T07:14:22.242Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2503.07576
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links:
-  - name: arXiv
-    url: https://arxiv.org/abs/2503.07576
-date: 2025-03-11T07:14:22.242Z
 ---
