@@ -69,8 +69,9 @@ Mittwoch 16:00 - 18:00 Uhr, Raum C U 132
 
 ## Sprechstunde
 
-voraussichtlich Mittwoch 11:00-12:00 Uhr, [MatheTreff](https://math.uni-paderborn.de/studium/mathetreff/) Raum D3.331
+Mittwoch 11:00-12:00 Uhr, [MatheTreff](https://math.uni-paderborn.de/studium/mathetreff/) Raum D3.331
 
 ## Klausur
 
-folgt
+* 1. Termin: Mittwoch 25. Februar 2026 10:00-12:00, Raum E 2.316
+* 2. Termin: Mittwoch 25. März 2026 10:00-12:00, Raum J 3.330
