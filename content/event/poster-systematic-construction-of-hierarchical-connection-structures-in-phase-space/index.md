@@ -4,14 +4,14 @@ title: "Poster: Systematic construction of hierarchical connection structures in
 abstract: "We provide a method to systematically construct vector fields that
   possess excitable transitions corresponding to a desired hierarchical
   connection structure. The structure is given as a finite set of digraphs
-  $G_1,ldots,G_N$ (the lower level), together with another digraph $Gamma$ on
-  the set of nodes $1,ldots,N$ (the top level). The dynamic realizations of
-  $G_1,ldots,G_N$ are heteroclinic networks and they can be thought of as
+  $G_1,...,G_N$ (the lower level), together with another digraph $Gamma$ on the
+  set of nodes $1,...,N$ (the top level). The dynamic realizations of
+  $G_1,...,G_N$ are heteroclinic networks and they can be thought of as
   individual connection patterns on a given set of states. Connections in
-  $Gamma$ correspond to transitions between these different connection patterns.
-  In our construction, the connections given through $Gamma$ are not
+  $\\Gamma$ correspond to transitions between these different connection
+  patterns. In our construction, the connections given through $\\Gamma$ are not
   heteroclinic, but excitable with zero threshold: such a connection exists
-  between two sets $S,S'$ if in every $delta$-neighbourhood of $S$ there is at
+  between two sets $S,S'$ if in every $\\delta$-neighbourhood of $S$ there is at
   least one initial condition such that its $omega$-limit is contained in $S'$.
   In this sense, we prove a theorem that allows the systematic creation of
   hierarchical networks that are excitable on the top level, and heteroclinic on
