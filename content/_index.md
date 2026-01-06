@@ -153,6 +153,19 @@ sections:
   - block: collection
     id: # teaching
     content:
+      title: Upcoming
+      filters:
+        folders:
+          - project
+        tag: teaching_future
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      columns: '2'
+      view: list
+  - block: collection
+    id: # teaching
+    content:
       title: Past
       filters:
         folders:
