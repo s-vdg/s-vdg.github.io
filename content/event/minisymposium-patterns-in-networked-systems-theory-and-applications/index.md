@@ -29,8 +29,9 @@ featured: false
 authors:
   - admin
   - Babette de Wolff
-categories:
+tags:
   - minisymposium
+categories: []
 image:
   filename: featured
   focal_point: Smart
