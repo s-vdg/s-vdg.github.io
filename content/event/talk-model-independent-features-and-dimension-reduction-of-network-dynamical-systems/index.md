@@ -17,8 +17,8 @@ abstract: >-
 
   In this talk, I will explain how structural features of a network give rise to (non-classical) symmetries in the governing equations. In the second part, I will demonstrate how these symmetries can be systematically exploited to achieve dimension reduction in bifurcation problems. This reduction enables a tractable, model-independent analysis of the generic bifurcation behavior associated with a given interaction structure—offering a powerful pathway to understanding complex network dynamics.
 location: Universität Paderborn
-date: 2026-01-29T13:00:30.661Z
-date_end: 2026-01-29T14:00:00.000Z
+date: 2026-01-29T14:00:30.661Z
+date_end: 2026-01-29T15:00:00.000Z
 all_day: false
 event: Oberseminar "Numerik partieller Differentialgleichungen "
 event_url: https://math.uni-paderborn.de/en/ag/arbeitsgruppe-numerik-partieller-differentialgleichungen/oberseminar
