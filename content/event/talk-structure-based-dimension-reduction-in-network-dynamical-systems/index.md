@@ -16,10 +16,10 @@ location: WIAS Berlin
 date: 2026-02-06T10:30:48.459Z
 date_end: 2026-02-06T11:30:00.000Z
 all_day: false
-event: "Workshop: Network on Networks"
-event_url: https://math.uni-paderborn.de/en/ag/arbeitsgruppe-numerik-partieller-differentialgleichungen/oberseminar
+event: Northern-German Network on Networks Symposium
+event_url: https://www.wias-berlin.de/workshops/ngnn26/
 publishDate: 2026-01-22T16:30:48.472Z
-draft: true
+draft: false
 featured: false
 tags:
   - talk
@@ -28,3 +28,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+This talk is part of the first installment of a novel workshop series. The aim of the workshop is to create an opportunity for researchers in network dynamical systems working in (Northern) Germany to connect, to regularly meet, and to exchange ideas. The meeting is intended to be the first in a regular series of symposia which will take place at WIAS, University of Hamburg and, potentially, also other places.
