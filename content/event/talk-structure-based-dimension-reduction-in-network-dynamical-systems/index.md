@@ -13,8 +13,8 @@ abstract: >-
 
   In this talk, I will explain how structural features of a network give rise to (non-classical) symmetries in the governing equations. These symmetries encode the intrinsic structure of the network and can be exploited to uncover model-independent dynamical features—geometrical or topological properties of solutions that are solely determined by the interaction structure, regardless of the specific form of the equations. In the second part, I will demonstrate how these symmetries can be systematically analyzed to achieve dimension reduction in bifurcation problems. This reduction enables a tractable, model-independent characterization of the generic bifurcation behavior associated with a given network structure—providing a powerful framework for understanding the emergence of complexity in networked dynamical systems.
 location: WIAS Berlin
-date: 2026-02-06T10:30:48.459Z
-date_end: 2026-02-06T11:30:00.000Z
+date: 2026-02-06T14:00:48.459Z
+date_end: 2026-02-06T15:00:00.000Z
 all_day: false
 event: Northern-German Network on Networks Symposium
 event_url: https://www.wias-berlin.de/workshops/ngnn26/
