@@ -28,4 +28,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This talk is part of the first installment of a novel workshop series. The aim of the workshop is to create an opportunity for researchers in network dynamical systems working in (Northern) Germany to connect, to regularly meet, and to exchange ideas. The meeting is intended to be the first in a regular series of symposia which will take place at WIAS, University of Hamburg and, potentially, also other places.
+This talk is part of the inaugural workshop of the novel Northern German Network on Networks. The aim of the workshop is to create an opportunity for researchers in network dynamical systems working in (Northern) Germany to connect, to regularly meet, and to exchange ideas. The meeting is intended to be the first in a regular series of symposia which will take place at WIAS, University of Hamburg and, potentially, also other places.
