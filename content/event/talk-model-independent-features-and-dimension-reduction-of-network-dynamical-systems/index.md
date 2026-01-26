@@ -20,7 +20,7 @@ location: Universität Paderborn
 date: 2026-01-29T14:00:30.661Z
 date_end: 2026-01-29T15:00:00.000Z
 all_day: false
-event: Oberseminar "Numerik partieller Differentialgleichungen "
+event: Oberseminar "Numerik partieller Differentialgleichungen"
 event_url: https://math.uni-paderborn.de/en/ag/arbeitsgruppe-numerik-partieller-differentialgleichungen/oberseminar
 publishDate: 2026-01-22T16:24:30.720Z
 draft: false
