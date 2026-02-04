@@ -57,7 +57,7 @@ Zweiter Teil:
 - U. Krause, T. Nesemann\
 Differenzengleichungen und diskrete dynamische Systeme\
 De Gruyter, Berlin, 2012.\
-(Volltext über die Universitätsbibliothek zum Download verfügbar.](https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_PAD/openurl?u.ignore_date_coverage=true&portfolio_pid=53718601810006441&Force_direct=true)
+[Volltext über die Universitätsbibliothek zum Download verfügbar.](https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_PAD/openurl?u.ignore_date_coverage=true&portfolio_pid=53718601810006441&Force_direct=true)
 
 Weitere Quellen werden bei Bedarf im Verlauf der Vorlesung bekannt gegeben.
 
