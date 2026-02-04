@@ -51,10 +51,10 @@ Erster Teil:
 - R. L. Devaney\
 An Introduction To Chaotic Dynamical Systems (3rd ed.)\
 Chapman and Hall/CRC, 2021.\
-1. Edition in der Universitätsbibliothek verfügbar.
+Erste Edition in der Universitätsbibliothek verfügbar.
 
 Zweiter Teil:
-U. Krause, T. Nesemann\
+- U. Krause, T. Nesemann\
 Differenzengleichungen und diskrete dynamische Systeme\
 De Gruyter, Berlin, 2012.\
 (Volltext über die Universitätsbibliothek zum Download verfügbar.](https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_PAD/openurl?u.ignore_date_coverage=true&portfolio_pid=53718601810006441&Force_direct=true)
