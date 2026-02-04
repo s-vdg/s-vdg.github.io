@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>teaching_future | sörenvondergracht</title><link>https://s-vdg.github.io/tag/teaching_future/</link><atom:link href="https://s-vdg.github.io/tag/teaching_future/index.xml" rel="self" type="application/rss+xml"/><description>teaching_future</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 13:35:25 +0000</lastBuildDate><image><url>https://s-vdg.github.io/media/sharing.png</url><title>teaching_future</title><link>https://s-vdg.github.io/tag/teaching_future/</link></image><item><title>Summer 2026: Diskrete Dynamische Systeme (Discrete Dynamical Systems)</title><link>https://s-vdg.github.io/project/summer-2026-diskrete-dynamische-systeme-discrete-dynamical-systems/</link><pubDate>Tue, 06 Jan 2026 13:35:25 +0000</pubDate><guid>https://s-vdg.github.io/project/summer-2026-diskrete-dynamische-systeme-discrete-dynamical-systems/</guid><description>&lt;p>Details werden zu gegebener Zeit hier sowie in &lt;a href="https://paul.uni-paderborn.de/" target="_blank" rel="noopener">PAUL&lt;/a> bekannt gegeben.&lt;/p>
 &lt;h1 id="voraussetzungen">Voraussetzungen&lt;/h1>
-&lt;p>Analysis 2&lt;/p>
+&lt;p>Analysis 2&lt;br>
+Lineare Algebra&lt;/p>
+&lt;h1 id="ziel-der-veranstaltung">Ziel der Veranstaltung&lt;/h1>
+&lt;p>In dieser Vorlesung lernen Sie das faszinierende dynamische Verhalten von diskreten dynamischen Systemen kennen. Mit sehr einfachen Mitteln (eindimensionale, polynomielle Systeme) lassen sich hochkomplexe Phänomene wie deterministisches Chaos erzeugen. In dieser Veranstaltung widmen wir uns diesen Systemen systematisch entwickeln Methoden zur Analyse ihres Verhaltens.&lt;/p>
 &lt;h1 id="zielgruppe">Zielgruppe&lt;/h1>
 &lt;p>B. Sc. (Techno-)Mathematik&lt;br>
-M. Sc. Lehramt Mathematik&lt;/p></description></item></channel></rss>
+M. Sc. Lehramt Mathematik&lt;/p>
+&lt;h1 id="inhalte">Inhalte&lt;/h1>
+&lt;p>Diskrete dynamische Systeme sind ein wichtiges Werkzeug zur einfachen, zeitdiskreten Modellierung von zeitveränderlichen Prozessen. Sie entstehen aber auch bei der Diskretisierung (zum Beispiel zur numerischen Behandlung) von zeitkontinuierlichen Systemen. Sie haben daher große Relevanz für eine Vielzahl von Anwendungen wie Klimawissenschaften, Verkehrsmodellierung, Populationsdynamik&amp;hellip;&lt;/p>
+&lt;p>Diskrete dynamische Systeme werden oftmals durch die Iteration, also das wiederholte Ausführen, einer Funktion erzeugt. Trotzdem können schon sehr einfache Funktionen zu hochgradig komplexem Verhalten führen.&lt;/p>
+&lt;p>In dieser Veranstaltung werden wir diskrete dynamische Systeme systematisch einführen, ihre wesentlichen Eigenschaften beschreiben und intuitive sowie analytische Methoden zu Ihrer Analyse entwickeln. Der Hauptfokus liegt auf eindimensionalen Systemen. Im letzten Teil gehen wir dann auch auf höherdimensionale Systeme ein.&lt;/p>
+&lt;p>Die wesentlichen Themengebiete sind&lt;/p>
+&lt;ul>
+&lt;li>Orbits, Fixpunkte, periodische Punkte, …&lt;/li>
+&lt;li>(Asymptotische) Stabilität&lt;/li>
+&lt;li>Bifurkationen&lt;/li>
+&lt;li>Chaotische Dynamik&lt;/li>
+&lt;li>Fraktale und nicht ganzzahlige Dimension&lt;/li>
+&lt;li>Lineare und nichtlineare Systeme&lt;/li>
+&lt;/ul>
+&lt;h1 id="informationen-zur-leistungserbringung">Informationen zur Leistungserbringung&lt;/h1>
+&lt;p>Erfolgreiche Teilnahme an den Übungen und der Klausur&lt;/p>
+&lt;h1 id="literatur">Literatur&lt;/h1>
+&lt;p>Erster Teil:&lt;/p>
+&lt;ul>
+&lt;li>R. L. Devaney&lt;br>
+An Introduction To Chaotic Dynamical Systems (3rd ed.)&lt;br>
+Chapman and Hall/CRC, 2021.\&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>Edition in der Universitätsbibliothek verfügbar.&lt;/li>
+&lt;/ol>
+&lt;p>Zweiter Teil:
+U. Krause, T. Nesemann&lt;br>
+Differenzengleichungen und diskrete dynamische Systeme&lt;br>
+De Gruyter, Berlin, 2012.&lt;br>
+(Volltext über die Universitätsbibliothek zum Download verfügbar.](&lt;a href="https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_PAD/openurl?u.ignore_date_coverage=true&amp;amp;portfolio_pid=53718601810006441&amp;amp;Force_direct=true" target="_blank" rel="noopener">https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_PAD/openurl?u.ignore_date_coverage=true&amp;portfolio_pid=53718601810006441&amp;Force_direct=true&lt;/a>)&lt;/p>
+&lt;p>Weitere Quellen werden bei Bedarf im Verlauf der Vorlesung bekannt gegeben.&lt;/p>
+&lt;h1 id="ergänzende-veranstaltungen">Ergänzende Veranstaltungen&lt;/h1>
+&lt;p>Die Vorlesung eignet sich gut als Aufbauveranstaltung zum Seminar „Computational Dynamics“, das im Wintersemester 2025/26 angeboten wurde. Einige Seminarthemen werden hier vertieft behandelt. Die vorherige Teilnahme am Seminar ist allerdings auch für das Verständnis der Vorlesungsinhalte keinesfalls erforderlich.&lt;/p>
+&lt;h1 id="termine">Termine&lt;/h1>
+&lt;ul>
+&lt;li>Montag 8:00 - 11:00 Uhr, Raum D 1 320&lt;/li>
+&lt;li>Dienstag 9:00 - 11:00 Uhr, Raum D 1 320&lt;/li>
+&lt;/ul></description></item></channel></rss>
