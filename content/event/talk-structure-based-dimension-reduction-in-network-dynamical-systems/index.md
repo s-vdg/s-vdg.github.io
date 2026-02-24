@@ -19,7 +19,7 @@ all_day: false
 event: Northern-German Network on Networks Symposium
 event_url: https://www.wias-berlin.de/workshops/ngnn26/
 publishDate: 2026-01-22T16:30:48.472Z
-draft: false
+draft: true
 featured: false
 tags:
   - talk
