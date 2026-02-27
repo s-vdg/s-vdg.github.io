@@ -17,7 +17,7 @@ abstract: Interconnected real-world systems frequently involve non-pairwise
   polynomial admissible maps. This contrasts sharply with classical networks,
   where cluster synchronization arises linearly; here, it emerges as a
   higher-order, nonlinear phenomenon. This nonlinear nature gives rise to a
-  novel type of ``reluctant'' synchrony-breaking bifurcation, in which a
+  novel type of "reluctant" synchrony-breaking bifurcation, in which a
   high-order tangency of the solution branch to a non-robust synchrony space
   causes previously synchronous nodes to separate exceptionally slowly.
 location: Prague University of Economics and Business, Prague, CZ
