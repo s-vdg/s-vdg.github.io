@@ -6,6 +6,8 @@ authors:
   - admin
   - Eddie Nijholt
   - Bob Rink
+publication: accepted for publication in Chaos, Solitons and Fractals - Special
+  Issue Networks, Symmetry, and Dynamical Systems
 abstract: "The analysis of network dynamics is oftentimes restricted to networks
   with one-dimensional internal dynamics. Here, we show how symmetry explains
   the relation between behavior of systems with one-dimensional internal
@@ -39,12 +41,12 @@ tags:
   - symmetry
   - bifurcation theory
   - monoid representation theory
+date: 2026-03-03T07:20:56.393Z
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2510.06740
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links:
-  - name: arXiv
-    url: https://arxiv.org/abs/2510.06740
-date: 2025-10-09T14:09:26.405Z
 ---
