@@ -51,7 +51,7 @@ Erster Teil:
 - R. L. Devaney\
 An Introduction To Chaotic Dynamical Systems (3rd ed.)\
 Chapman and Hall/CRC, 2021.\
-Erste Edition in der Universitätsbibliothek verfügbar.
+Erste und zweite Edition in der Universitätsbibliothek verfügbar.
 
 Zweiter Teil:
 - U. Krause, T. Nesemann\
