@@ -26,18 +26,16 @@ abstract: We provide a method to systematically construct vector fields for
 draft: false
 featured: true
 tags:
-  - dynamical systems
-  - coupled systems
-  - distributed computing
-  - robot swarms
-  - autonomous mobile robots
-  - gathering
+  - heteroclinic network
+  - heteroclinic cycle
+  - excitable network
+  - directed graph
+  - hierarchical network
 date: 2026-03-06T11:14:15.523Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2305.06632
-projects:
-  - "Algorithms for swarms: Distributed Computing meets Dynamical Systems"
+projects: []
 image:
   filename: featured
   focal_point: Smart
