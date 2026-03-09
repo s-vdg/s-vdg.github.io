@@ -23,7 +23,7 @@ abstract: We provide a method to systematically construct vector fields for
   systematic creation of hierarchical networks that are excitable on the top
   level, and heteroclinic on the lower level. Our results modify and extend the
   simplex realization method by Ashwin & Postlethwaite.
-draft: true
+draft: false
 featured: true
 tags:
   - dynamical systems
