@@ -31,6 +31,7 @@ tags:
   - excitable network
   - directed graph
   - hierarchical network
+  - heteroclinic dynamics
 date: 2026-03-06T11:14:15.523Z
 links:
   - name: arXiv
