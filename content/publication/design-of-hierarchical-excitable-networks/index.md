@@ -34,7 +34,7 @@ tags:
 date: 2026-03-06T11:14:15.523Z
 links:
   - name: arXiv
-    url: https://arxiv.org/abs/2305.06632
+    url: https://arxiv.org/abs/2603.06157
 projects: []
 image:
   filename: featured
