@@ -24,7 +24,7 @@ abstract: We provide a method to systematically construct vector fields for
   level, and heteroclinic on the lower level. Our results modify and extend the
   simplex realization method by Ashwin & Postlethwaite.
 draft: false
-featured: true
+featured: false
 tags:
   - heteroclinic network
   - heteroclinic cycle
