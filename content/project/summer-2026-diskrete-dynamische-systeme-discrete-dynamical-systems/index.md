@@ -1,5 +1,5 @@
 ---
-title: "Summer 2026: Diskrete Dynamische Systeme (Discrete Dynamical Systems)"
+title: "Summer 2026: Diskrete Dynamische Systeme"
 date: 2026-01-06T13:35:25.933Z
 draft: false
 featured: false
