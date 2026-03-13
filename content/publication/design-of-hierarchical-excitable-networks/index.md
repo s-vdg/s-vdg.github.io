@@ -10,7 +10,7 @@ publication: ""
 abstract: We provide a method to systematically construct vector fields for
   which the dynamics display transitions corresponding to a desired hierarchical
   connection structure. This structure is given as a finite set of directed
-  graphs $\mathbf{G}_1,\dotsc,\mathbb{G}_N$ (the lower level), together with
+  graphs $\mathbf{G}_1,\dotsc,\mathbf{G}_N$ (the lower level), together with
   another digraph $\mathbf{\Gamma}$ on $N$ vertices (the top level). The dynamic
   realizations of $\mathbf{G}_1,\dotsc,\mathbf{G}_N$ are heteroclinic networks
   and they can be thought of as individual connection patterns on a given set of
