@@ -10,13 +10,13 @@ publication: ""
 abstract: We provide a method to systematically construct vector fields for
   which the dynamics display transitions corresponding to a desired hierarchical
   connection structure. This structure is given as a finite set of directed
-  graphs $\mathbb{G}_1,\dotsc,\mathbb{G}_N$ (the lower level), together with
-  another digraph $\mathbb{\Gamma}$ on $N$ vertices (the top level). The dynamic
-  realizations of $\mathbb{G}_1,\dotsc,\mathbb{G}_N$ are heteroclinic networks
+  graphs $\mathbf{G}_1,\dotsc,\mathbb{G}_N$ (the lower level), together with
+  another digraph $\mathbf{\Gamma}$ on $N$ vertices (the top level). The dynamic
+  realizations of $\mathbf{G}_1,\dotsc,\mathbf{G}_N$ are heteroclinic networks
   and they can be thought of as individual connection patterns on a given set of
-  states. Edges in $\mathbb{\Gamma}$ correspond to transitions between these
+  states. Edges in $\mathbf{\Gamma}$ correspond to transitions between these
   different patterns. In our construction, the connections given through
-  $\mathbb{\Gamma}$ are not heteroclinic, but excitable with zero threshold.
+  $\mathbf{\Gamma}$ are not heteroclinic, but excitable with zero threshold.
   This describes a dynamical transition between two invariant sets where every
   $\delta$-neighborhood of the first set contains an initial condition with
   $\omega$-limit in the second set. Thus, we prove a theorem that allows the
