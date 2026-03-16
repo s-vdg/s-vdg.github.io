@@ -6,7 +6,7 @@ authors:
   - admin
   - Eddie Nijholt
   - Bob Rink
-publication: Chaos, Solitons & Fractals, Volume 208, Part 2, 118196.
+publication: Chaos, Solitons & Fractals, Volume 208, Part 2, 118196
 abstract: We investigate homogeneous coupled cell systems with high-dimensional
   internal dynamics. In many studies on network dynamics, the analysis is
   restricted to networks with one-dimensional internal dynamics. Here, we show
