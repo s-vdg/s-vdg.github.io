@@ -50,6 +50,7 @@ date: 2026-03-16T08:26:51.631Z
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2510.06740
+doi: 10.1016/j.chaos.2026.118196
 image:
   filename: featured
   focal_point: Smart
