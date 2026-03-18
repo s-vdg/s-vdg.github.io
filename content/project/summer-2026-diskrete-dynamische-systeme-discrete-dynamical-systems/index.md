@@ -10,12 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Details werden zu gegebener Zeit hier sowie in [PAUL](https://paul.uni-paderborn.de/) bekannt gegeben.
-
-# Voraussetzungen
-
-Analysis 2\
-Lineare Algebra
+Details werden in [PAUL](https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N582436109229472,-N000449,-N0,-N396225691956688,-N396225691924689,-N0,-N0,-N3,-A4I5bmNoTONej7WPgxNK3QB9NfjomRoUtvd5KPook7qUTcIpVWqwfWupTfdaFvjpJvQiwHYUd4IWFvfLXfz5JODRsCWo-xB9w7YGCmBGKQIDwQ-L9Q-l-3B6NRYWdfDRwvQHjQIRmfgLN7QP5x-R3Pu5hRgm83BGJYq5HfBRAPzwuRUKsvUpzxQof3WpwQZ7wvDGuYSmqfBWa7NG8ONGJYIL3Rg5fmUREPuWFWUWuCfKS7WmF4qUPmNmfVgm8vNfwCQB6QIPI7fRKCfPAcM5JfgpzvDwAmd6q4UPaRBa63YZXczoIPWWwYgpTxYltQZLVQj5-QQHXWoUBYuAu3SRaOSA54MB6RB76xzRgPf59c-m5vIptVSntPdA8mdm7mdyZOjVdOWljvqBtPuVdW-57YSm5vuWlPgoZ4BoaQo584DFZ7WnwQoo5VQBNPB79WZUFOIPSHD674olwfNDFWgL-Q-HVYSLSHopB7q65PSRBQUoYRfKMxjH-7ge9OjKhvqwjxYKFxU5ZQUUsWBRx7YL5PBGE7YU37dmgfQ5xWuAtRfwCQYK-vfwemqPhRfHmvUodHMRL7uRkVdUXcgmomMHMWuRQOjWbeZW5mgPHOQPEQuAUcdHF7ZH-ON5HHf2dcQUycSe-YqUzHML9ffHEvDREQYHhmYAkHYZ-4U7-HUHQxYRxfd66QqGqWIDZxImbcUplOjmhfzVNfBwqRQo3vfe-cd5qRDm7fqw3CW5CvIntYWRwVN5yeu5grDmAPILUmoHI) und [PANDA](https://panda.uni-paderborn.de/course/view.php?id=68911) unter **L.105.23130 Diskrete dynamische Systeme** bekannt gegeben.
 
 # Ziel der Veranstaltung
 
