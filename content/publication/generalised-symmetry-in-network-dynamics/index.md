@@ -18,12 +18,12 @@ tags:
   - quiver representations
   - normal forms
 image:
-  filename: https://dsweb.siam.org/Portals/DSWeb/EasyGalleryImages/2/2368/Figure2.jpg
+  filename: https://archive-dsweb.siam.org/Portals/DSWeb/EasyGalleryImages/2/2368/Figure2.jpg
   focal_point: Smart
   preview_only: false
   caption: Quiver of quotient networks
 links: 
 - name: Link
-  url: https://dsweb.siam.org/The-Magazine/Article/generalised-symmetry-in-network-dynamics
+  url: https://archive-dsweb.siam.org/The-Magazine/All-Issues/generalised-symmetry-in-network-dynamics.html
 date: 2020-04-30T05:08:22.448Z
 ---
