@@ -4,7 +4,7 @@ date: 2026-01-06T13:35:25.933Z
 draft: false
 featured: false
 tags:
-  - teaching_future
+  - teaching
 image:
   filename: hp.png
   focal_point: Smart
