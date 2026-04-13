@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
- Details werden in [PAUL](https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000443,-N0,-N396225691956688,-N396225691924689,-N0,-N0,-N3,-APDP5ONoHW-53ONwtfqKaPMWSVYUjx-iFVdZJQjmhVY6xmSiAedNFQBotm-HZffwfmB6PvNKhWYPMVBHYYBZgfdwtVdHpYfN6OQD6WSAFYbZ8ffwLOqFtVuoHWIWF4MABcgREcZphQz67vfWJCQ5FfdGexdwlWqLvVYRDv-ouVu5z3uW94M5SOdUzVjKjOUH3QDUlRjmhvzUd4SUbeNmXOfKmQWozYq6dQbZymBWyfIRYcBKZVzHP4QBwmYUJCuPjQYUs3oLy4D6N3oldVSmXRjP8Qd9AvgoDYzNFVqf9PfGBCf9ARfLe4BZTQBRmHfGlHfWv7fGavZp8CQU04Bn-PDmvHuR0QgH3RSAxcWRTOom7PzPHVNZHmZ57mZU6VqPtfoi9eYLgPUUzRIUZOoPmmIPmPqFZcWWuYqGhmdaN3oUW3zwm4oUJO-LARZD6OqGwPjKARU5WcDGePSlNYuoYOSpPHNofmzPqvNPlQYKEvkZuRWoKPBRIWup57fR6xIU6WWWbV-5XYSUqxQV9edWYPZ5L4YWfRZKNeqPNxdZXcMpA4oc6WUHlQDRaHB6Cv-njRuAbxYKevMoaYB5LHjHYcjH34qPkmBaw4gpLmQVd7joZHBZwPUH8HQma7Zf6Wznj3fmw7YAuYQR9m-itOumkVYLfeWUsHdPdvfDZHz7jrURgfD5I3zHjVDwSfje6cML7rUoo3zf-xImm4BUsczGMxB6yvMPBvSAMvNPLxQL5Vq6H4BKwxopq7QVwvSHjVzwz) und [PANDA](https://panda.uni-paderborn.de/course/view.php?id=68911) unter **L.105.23130 Diskrete dynamische Systeme** bekannt gegeben.
+ Details werden in [PAUL](https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000717,-N0,-N396225691956688,-N396225691924689,-N0,-N0,-N0) und [PANDA](https://panda.uni-paderborn.de/course/view.php?id=68911) unter **L.105.23130 Diskrete dynamische Systeme** bekannt gegeben.
 
 # Ziel der Veranstaltung
 
