@@ -1,5 +1,6 @@
 ---
-title: "Algorithms for swarms: Distributed Computing meets Dynamical Systems"
+title: "2022 - 2025 Algorithms for swarms: Distributed Computing meets Dynamical
+  Systems"
 date: 2023-04-19T09:08:24.182Z
 summary: Investigation of the capabilities and limitations of local, distributed
   strategies for swarms of mobile robots using methods from dynamical systems
