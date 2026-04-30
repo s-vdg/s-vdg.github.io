@@ -21,9 +21,9 @@ abstract: Interconnected real-world systems frequently involve non-pairwise
   high-order tangency of the solution branch to a non-robust synchrony space
   causes previously synchronous nodes to separate exceptionally slowly.
 location: Prague University of Economics and Business, Prague, CZ
-date: 2026-06-29T11:14:41.029Z
-date_end: 2026-07-03T14:00:00.000Z
-all_day: true
+date: 2026-06-29T18:00:41.029Z
+date_end: 2026-06-29T18:30:00.000Z
+all_day: false
 event: "Equadiff 2026 - Minisymposium P05: patterns in networked systems"
 event_url: https://www.equadiff2026.cz/
 publishDate: 2026-01-22T16:30:48.472Z
