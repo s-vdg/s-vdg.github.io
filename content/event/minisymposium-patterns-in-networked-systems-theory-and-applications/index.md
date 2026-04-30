@@ -20,7 +20,7 @@ abstract: >-
 location: Prague University of Economics and Business, Prague, CZ
 date: 2026-06-29T12:00:59.270Z
 date_end: 2026-07-03T16:30:00.000Z
-all_day: true
+all_day: false
 event: Equadiff 2026
 event_url: https://www.equadiff2026.cz/homepage
 publishDate: 2026-01-06T13:25:59.286Z
