@@ -18,8 +18,8 @@ abstract: >-
 
   I am organizing this minisymposium jointly with Babette de Wolff (Universität Hamburg)
 location: Prague University of Economics and Business, Prague, CZ
-date: 2026-06-29T06:00:59.270Z
-date_end: 2026-07-02T22:00:00.000Z
+date: 2026-06-29T12:00:59.270Z
+date_end: 2026-07-03T16:30:00.000Z
 all_day: true
 event: Equadiff 2026
 event_url: https://www.equadiff2026.cz/homepage
