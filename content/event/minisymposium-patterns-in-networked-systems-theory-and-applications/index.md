@@ -17,7 +17,7 @@ abstract: >-
 
 
   I am organizing this minisymposium jointly with Babette de Wolff (Universität Hamburg)
-location: Prague, Czech Republic
+location: Prague University of Economics and Business, Prague, CZ
 date: 2026-06-29T06:00:59.270Z
 date_end: 2026-07-02T22:00:00.000Z
 all_day: true
