@@ -18,7 +18,6 @@ In dieser Vorlesung lernen Sie das faszinierende dynamische Verhalten von diskre
 
 # Zielgruppe
 
-B. Sc. (Techno-)Mathematik\
 M. Sc. Lehramt Mathematik
 
 # Inhalte
