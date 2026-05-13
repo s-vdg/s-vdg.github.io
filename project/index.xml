@@ -2,8 +2,7 @@
 &lt;h1 id="ziel-der-veranstaltung">Ziel der Veranstaltung&lt;/h1>
 &lt;p>In dieser Vorlesung lernen Sie das faszinierende dynamische Verhalten von diskreten dynamischen Systemen kennen. Mit sehr einfachen Mitteln (eindimensionale, polynomielle Systeme) lassen sich hochkomplexe Phänomene wie deterministisches Chaos erzeugen. In dieser Veranstaltung widmen wir uns diesen Systemen systematisch entwickeln Methoden zur Analyse ihres Verhaltens.&lt;/p>
 &lt;h1 id="zielgruppe">Zielgruppe&lt;/h1>
-&lt;p>B. Sc. (Techno-)Mathematik&lt;br>
-M. Sc. Lehramt Mathematik&lt;/p>
+&lt;p>M. Sc. Lehramt Mathematik&lt;/p>
 &lt;h1 id="inhalte">Inhalte&lt;/h1>
 &lt;p>Diskrete dynamische Systeme sind ein wichtiges Werkzeug zur einfachen, zeitdiskreten Modellierung von zeitveränderlichen Prozessen. Sie entstehen aber auch bei der Diskretisierung (zum Beispiel zur numerischen Behandlung) von zeitkontinuierlichen Systemen. Sie haben daher große Relevanz für eine Vielzahl von Anwendungen wie Klimawissenschaften, Verkehrsmodellierung, Populationsdynamik&amp;hellip;&lt;/p>
 &lt;p>Diskrete dynamische Systeme werden oftmals durch die Iteration, also das wiederholte Ausführen, einer Funktion erzeugt. Trotzdem können schon sehr einfache Funktionen zu hochgradig komplexem Verhalten führen.&lt;/p>
