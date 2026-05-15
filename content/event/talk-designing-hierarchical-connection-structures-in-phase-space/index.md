@@ -13,11 +13,11 @@ abstract: >-
   change driven by a higher-level process. In this talk, we present a systematic
   method to construct vector fields that realize such hierarchical dynamics:
   given a set of lower-level directed graphs and a top-level digraph encoding
-  transitions between them, we construct a dynamical system where the
-  lower-level connections are heteroclinic and the top-level transitions are
-  excitable with zero threshold. This yields a general framework for modeling
-  systems with multi-scale, hierarchical switching behavior reflecting a
-  prescribed hierarchical structure.
+  transitions between them, we construct a dynamical system where the top-level
+  connections are heteroclinic and the lower-level transitions are excitable
+  with zero threshold. This yields a general framework for modeling systems with
+  multi-scale, hierarchical switching behavior reflecting a prescribed
+  hierarchical structure.
 
 
   This talk will build on the general setup layed out in Alexander Lohse's talk "Creating Heteroclinic and Excitable Connections" in the same minisymposium.
@@ -25,7 +25,7 @@ location: NOVA University Lisbon, Portugal
 date: 2026-07-22T10:00:13.849Z
 date_end: 2026-07-21T22:20:00.000Z
 all_day: false
-event: "Dynamics Days Europe 2026 - Minisymposium: Heteroclinic Structures:
+event: "Dynamics Days Europe 2026 - Minisymposium 22: Heteroclinic Structures:
   Realisations, Dynamics and Applications"
 event_url: https://dde-2026.sci-meet.net/
 publishDate: 2026-05-06T05:45:13.864Z
