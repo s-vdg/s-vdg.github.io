@@ -17,7 +17,7 @@ Details werden in [PAUL](https://paul.uni-paderborn.de) bekannt gegeben.
 
 # Ziel der Veranstaltung
 
-In diesem Vorlesung widmen wir uns zeitkontinuierlichen dynamischen Systemen, die in von gewöhnlichen Differentialgleichungen erzeugt werden.
+In dieser Vorlesung widmen wir uns zeitkontinuierlichen dynamischen Systemen, die in von gewöhnlichen Differentialgleichungen erzeugt werden.
 
 # Inhalte
 - Zeitkontinuierliche dynamische Systeme
