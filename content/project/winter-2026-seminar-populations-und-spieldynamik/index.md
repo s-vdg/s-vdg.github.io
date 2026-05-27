@@ -4,7 +4,7 @@ date: 2026-05-27T09:22:08.447Z
 draft: false
 featured: false
 tags:
-  - teaching_upcoming
+  - teaching_future
 image:
   filename: lorenz_attractor_yb.png
   focal_point: Smart
