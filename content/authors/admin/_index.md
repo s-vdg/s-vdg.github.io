@@ -49,7 +49,7 @@ social:
       header: false
     icon_pack: fab
     icon: linktree
-    label: Linktree
+    label: testLinktree
     link: https://linktr.ee/s.vdg
   - display:
       header: false
