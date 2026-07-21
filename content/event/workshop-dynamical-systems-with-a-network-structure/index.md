@@ -27,7 +27,7 @@ abstract: >-
   - Fahimeh Mokhtari, VU Amsterdam
 
   - Nicola Vassena, Leipzig University  
-location: Lorentz Center Leiden, NL
+location: Lorentz Center, Leiden, NL
 date: 2026-09-07T07:14:56.283Z
 date_end: 2026-09-10T22:00:00.000Z
 all_day: true
