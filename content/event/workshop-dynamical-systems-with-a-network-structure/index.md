@@ -37,7 +37,7 @@ publishDate: 2026-05-29T07:14:56.302Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://www.lorentzcenter.nl/uploadedfiles/evenementImages/dynamical-systems-with-a-network-structure-poster-pic.jpg
   focal_point: Smart
   preview_only: false
 ---
