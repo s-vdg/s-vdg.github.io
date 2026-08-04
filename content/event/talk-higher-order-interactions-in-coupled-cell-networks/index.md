@@ -3,7 +3,7 @@ title: "Talk: Higher-order interactions in coupled-cell networks"
 abstract: 'I will give the Plenary challenge session "Higher-order interactions
   in coupled-cell networks" at the Workshop: Dynamical Systems with a Network
   Structure.'
-location: Lorentz Center Leiden
+location: Lorentz Center, Leiden, NL
 date: 2026-09-09T14:18:06.760Z
 date_end: 2026-09-08T22:00:00.000Z
 all_day: true
