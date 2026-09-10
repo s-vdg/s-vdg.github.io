@@ -1,5 +1,5 @@
 ---
-title: "Talk: Designing hierarchical connection structures in phase space"
+title: "Talk: Design of connection structures with hierarchy in phase space"
 abstract: "Heteroclinic and excitable dynamics provide a natural mathematical
   framework for modeling structured intermittent, sequential behavior in complex
   systems. In many applications, these transitions underlie a specific
