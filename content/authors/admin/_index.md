@@ -47,8 +47,8 @@ social:
     link: https://www.linkedin.com/in/s-vdg/
   - display:
       header: false
-    icon_pack: fas
-    icon: tree
+    icon_pack: fab
+    icon: linktree
     label: Linktree
     link: https://linktr.ee/s.vdg
   - display:
