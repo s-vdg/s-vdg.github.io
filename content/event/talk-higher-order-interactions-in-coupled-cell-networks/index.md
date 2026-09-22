@@ -10,7 +10,7 @@ all_day: true
 event: "Workshop: Dynamical Systems with a Network Structure"
 event_url: https://www.lorentzcenter.nl/dynamical-systems-with-a-network-structure.html
 publishDate: 2026-08-04T14:18:06.786Z
-draft: false
+draft: true
 featured: false
 image:
   filename: hp_lorentz_center_2026.png
