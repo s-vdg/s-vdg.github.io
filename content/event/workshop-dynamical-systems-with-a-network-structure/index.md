@@ -34,7 +34,7 @@ all_day: true
 event: Dynamical Systems with a Network Structure
 event_url: https://www.lorentzcenter.nl/dynamical-systems-with-a-network-structure.html
 publishDate: 2026-05-29T07:14:56.302Z
-draft: false
+draft: true
 featured: false
 image:
   filename: dynamical-systems-with-a-network-structure-poster-pic.jpg
