@@ -22,7 +22,7 @@ date: 2026-10-09T11:00:22.943Z
 date_end: 2026-10-09T15:00:00.000Z
 all_day: true
 event: Hanseatic Dynamical Systems Days
-event_url: https://sites.google.com/view/handsday/home
+event_url: https://sites.google.com/view/handsdays14/
 publishDate: 2026-09-09T12:49:22.956Z
 draft: false
 featured: false
