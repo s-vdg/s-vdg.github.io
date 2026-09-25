@@ -1,22 +1,21 @@
 ---
-title: "Talk: Design of connection structures with hierarchy in phase space"
-abstract: "Heteroclinic and excitable dynamics provide a natural mathematical
-  framework for modeling structured intermittent, sequential behavior in complex
-  systems. In many applications, these transitions underlie a specific
-  hierarchy. For example, in neuroscience, a memory may correspond to a sequence
-  of activity, and memory formation corresponds to the modulation of these
-  patterns. In biological or social networks, temporal sequences in collective
-  evolution may change qualitatively due to environmental changes on a higher
-  hierarchical level. In such cases, the system evolves through a sequence of
-  lower-level dynamics—such as local state transitions—before undergoing a
-  qualitative change driven by a higher-level process. In this talk, we present
-  a systematic method to construct vector fields that realize such hierarchical
-  dynamics: given a set of lower-level directed graphs and a top-level digraph
-  encoding transitions between them, we construct a dynamical system where the
-  top-level connections are heteroclinic and the lower-level transitions are
-  excitable with zero threshold. This yields a general framework for modeling
-  systems with multi-scale, hierarchical switching behavior reflecting a
-  prescribed hierarchical structure."
+title: "Talk: Multi-scale intermittency: Designing hierarchical connections in
+  phase space "
+abstract: Heteroclinic and excitable connections enable transitions between
+  distinct quasistationary states in dynamical systems, giving rise to
+  intermittent behavior where systems remain near one state for extended periods
+  before rapidly switching to another. We present systematic methods to
+  construct vector fields that realize prescribed networks of such connections.
+  Extending this framework, we address hierarchical systems where lower-level
+  transitions (e.g., local state changes) are embedded within higher-level
+  intermittent dynamics (e.g., qualitative shifts driven by environmental
+  changes). This provides a general approach to model multi-scale, structured
+  intermittent behavior, such as sequential memory formation in neuroscience or
+  collective evolution in biological and social networks, by integrating
+  directed graphs at multiple hierarchical levels into a unified dynamical
+  system. We also discuss subtleties arising in this hierarchical context,
+  including the alpha- and omega-limit sets of connections and the related
+  concept of connection depth.
 location: Universität Hamburg
 date: 2026-10-09T11:00:22.943Z
 date_end: 2026-10-09T15:00:00.000Z
