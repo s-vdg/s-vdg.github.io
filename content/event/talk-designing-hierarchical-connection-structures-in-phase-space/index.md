@@ -1,5 +1,5 @@
 ---
-title: "Talk: Multi-scale intermittency - Designing hierarchical connections in
+title: "Talk: Multi-scale intermittency: Designing hierarchical connections in
   phase space "
 abstract: Heteroclinic and excitable connections enable transitions between
   distinct quasistationary states in dynamical systems, giving rise to
