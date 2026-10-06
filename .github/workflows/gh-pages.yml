@@ -3,40 +3,63 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - main  # Set a branch name to trigger deployment
+      - main
   pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          submodules: true  # Fetch any Git submodules (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: recursive
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
-        # uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d
         with:
-          hugo-version: '0.145.0'
-          #hugo-version: '0.101.0'
+          # Prefer a tested version instead of "latest"
+          hugo-version: "0.145.0"
           extended: true
+
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
 
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        # uses: peaceiris/actions-gh-pages@v3
-        # If you're changing the branch from main, 
-        # also change the `main` in `refs/heads/main` 
-        # below accordingly.
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public # s-vdg/s-vdg.github.io
+          path: ./public
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
