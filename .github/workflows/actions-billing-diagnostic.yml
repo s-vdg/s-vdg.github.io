@@ -1,0 +1,20 @@
+name: Actions billing diagnostic
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-runner:
+    name: Test standard Ubuntu runner
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Confirm runner started
+        run: |
+          echo "The GitHub-hosted runner started successfully."
+          echo "Repository: $GITHUB_REPOSITORY"
+          echo "Event: $GITHUB_EVENT_NAME"
+          echo "Runner OS: $RUNNER_OS"
