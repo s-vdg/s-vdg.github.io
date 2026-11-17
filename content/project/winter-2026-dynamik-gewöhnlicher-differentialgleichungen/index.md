@@ -6,13 +6,10 @@ featured: false
 tags:
   - teaching
 image:
-  filename: poincaré-bendixon-1-.jpg
+  filename: trajectory.jpg
   focal_point: Smart
   preview_only: false
-  caption: <a
-    href="https://commons.wikimedia.org/wiki/File:Poincar%C3%A9-Bendixon-(1).jpg">Jean-Luc
-    W</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA
-    3.0</a>, via Wikimedia Commons
+  caption: ""
 ---
 Details werden in [PAUL](https://paul.uni-paderborn.de) und [PANDA](https://panda.uni-paderborn.de/course/view.php?id=72055) bekannt gegeben.
 
