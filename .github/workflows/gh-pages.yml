@@ -31,6 +31,7 @@ jobs:
         uses: peaceiris/actions-hugo@v3.3.0
         with:
           # Prefer a tested version instead of "latest"
+          # 0.107.0 is tested and works, newer versions seem to conflict with the old wowchemy version currently in use
           hugo-version: "0.107.0" # "0.145.0"
           extended: true
 
