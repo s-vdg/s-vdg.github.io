@@ -5,8 +5,9 @@ publication_types:
 authors:
   - admin
   - Alexander Lohse
-doi: ""
-publication: ""
+doi: 10.1007/s10884-026-10552-9
+publication: Accepted for publication in Journal of Dynamics and Differential
+  Equations (2026)
 abstract: We provide a method to systematically construct vector fields for
   which the dynamics display transitions corresponding to a desired hierarchical
   connection structure. This structure is given as a finite set of directed
