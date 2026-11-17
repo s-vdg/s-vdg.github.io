@@ -9,11 +9,9 @@ image:
   filename: lorenz_attractor_yb.png
   focal_point: Smart
   preview_only: false
-  caption: "Von Wikimol, Dschwen - Eigenes Werk, basierend auf: images Lorenz
-    system r28 s10 b2-6666.png von Wikimol and Lorenz attractor.svg von Dschwen,
-    CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=495592"
+  caption: ""
 ---
-Details werden in [PAUL](https://paul.uni-paderborn.de) bekannt gegeben.
+Details werden in [PAUL](https://paul.uni-paderborn.de) und [PANDA](https://panda.uni-paderborn.de/course/view.php?id=72054) bekannt gegeben.
 
 # Ziel der Veranstaltung
 
@@ -25,7 +23,16 @@ Josef Hofbauer und Karl Sigmund, Evolutionary Games and Population Dynamics, Cam
 
 # Informationen zur Leistungserbringung
 
-Ihre Seminarleistung besteht aus einem Vortrag von ca. 60 min Länge, der Abgabe einer schriftlichen Ausarbeitung zu Ihrem Thema sowie der aktiven Teilnahme am Austausch über die Vorträge der anderen.
+### Seminarleistung:
+- Selbstständige Erarbeitung eines vorgeschlagenen Seminarthemas
+- Vortrag/Vorlesung über das Seminarthema von 60 Minuten
+- Schriftliche Ausarbeitung zum Seminarthema
+- Mitarbeit am gemeinsamen Glossar
+
+### QT:
+- Mindestens eine Vorbesprechung über den Vorbereitungsstand vor dem Seminarvortrag
+- Aktive Beteiligung an Diskussionen während und nach den Seminarvorträgen
+
 
 # Voraussetzungen
 
@@ -38,7 +45,7 @@ M. Sc. Lehramt Mathematik
 
 # Kommentar
 
-Die Sprache der Veranstaltung ist Deutsch. Die Literatur ist jedoch teilweise nur auf Englisch verfügbar. Wenn alle Teilnehmenden einverstanden sind, dürfen zudem Vorträge auch auf Englisch gehalten werden.
+Die Sprache der Veranstaltung ist Deutsch. Die Literatur ist jedoch nur auf Englisch verfügbar. Wenn alle Teilnehmenden einverstanden sind, dürfen zudem Vorträge auch auf Englisch gehalten werden.
 
 # Wichtige Hinweise
 
