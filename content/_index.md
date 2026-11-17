@@ -174,6 +174,7 @@ sections:
         tag: teaching_past
       sort_by: 'Date'
       sort_ascending: false
+      count: 0
     design:
       columns: '2'
       view: list
