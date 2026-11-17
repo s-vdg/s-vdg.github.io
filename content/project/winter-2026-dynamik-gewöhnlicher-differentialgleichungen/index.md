@@ -13,7 +13,7 @@ image:
     system r28 s10 b2-6666.png von Wikimol and Lorenz attractor.svg von Dschwen,
     CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=495592"
 ---
-Details werden in [PAUL](https://paul.uni-paderborn.de) bekannt gegeben.
+Details werden in [PAUL](https://paul.uni-paderborn.de) und [PANDA](https://panda.uni-paderborn.de/course/view.php?id=72055) bekannt gegeben.
 
 # Ziel der Veranstaltung
 
@@ -41,3 +41,14 @@ Numerik I
 # Zielgruppe
 
 M. Sc. (Techno-)Mathematik
+
+# Termine
+### Vorlesung
+Donnerstag, 8:30 - 10:00 Uhr, Raum A 3 301.
+
+### Übung
+Donnerstag, 10:15 - 11:00 Uhr, Raum A 3 301.
+
+## Sondertermine
+- 16.10.2026: In der ersten Vorlesungswoche findet keine Übungsgruppe statt. Stattdessen werden wir die Zeit nutzen, um notwendige Grundlagen aus vorherigen Veranstaltungen aufzufrischen.
+- 17.12.2026: An diesem Termin entfällt die Pause zwischen Vorlesung und Übungsgruppe. Außerdem wird die Übungsgruppe verkürzt bis circa 10:20 Uhr stattfinden, um Ihnen gegebenenfalls die Gelegenheit zu geben am Seminar "Machine Learning" teilzunehmen.
