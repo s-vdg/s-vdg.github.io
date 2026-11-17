@@ -6,12 +6,13 @@ featured: false
 tags:
   - teaching
 image:
-  filename: lorenz_attractor_yb.png
+  filename: poincaré-bendixon-1-.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Von Wikimol, Dschwen - Eigenes Werk, basierend auf: images Lorenz
-    system r28 s10 b2-6666.png von Wikimol and Lorenz attractor.svg von Dschwen,
-    CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=495592"
+  caption: <a
+    href="https://commons.wikimedia.org/wiki/File:Poincar%C3%A9-Bendixon-(1).jpg">Jean-Luc
+    W</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA
+    3.0</a>, via Wikimedia Commons
 ---
 Details werden in [PAUL](https://paul.uni-paderborn.de) und [PANDA](https://panda.uni-paderborn.de/course/view.php?id=72055) bekannt gegeben.
 
