@@ -23,7 +23,7 @@ all_day: false
 event: Hanseatic Dynamical Systems Days
 event_url: https://sites.google.com/view/handsdays14/
 publishDate: 2026-09-09T12:49:22.956Z
-draft: false
+draft: true
 featured: false
 image:
   filename: hp_handsday-hamburg-2026.jpg
