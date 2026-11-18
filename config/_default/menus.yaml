@@ -34,3 +34,5 @@ main:
   - name: CV
     url: uploads/cv_svdg.pdf
     weight: 80
+    params:
+      target: _blank
