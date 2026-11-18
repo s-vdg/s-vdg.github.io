@@ -41,11 +41,8 @@ Numerik I
 M. Sc. (Techno-)Mathematik
 
 # Termine
-### Vorlesung
-Donnerstag, 8:30 - 10:00 Uhr, Raum A 3 301.
-
-### Übung
-Donnerstag, 10:15 - 11:00 Uhr, Raum A 3 301.
+- Vorlesung: Donnerstag, 8:30 - 10:00 Uhr, Raum A 3 301.
+- Übung: Donnerstag, 10:15 - 11:00 Uhr, Raum A 3 301.
 
 ## Sondertermine
 - 16.10.2026: In der ersten Vorlesungswoche findet keine Übungsgruppe statt. Stattdessen werden wir die Zeit nutzen, um notwendige Grundlagen aus vorherigen Veranstaltungen aufzufrischen.
