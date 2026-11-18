@@ -30,7 +30,7 @@ Josef Hofbauer und Karl Sigmund, Evolutionary Games and Population Dynamics, Cam
 - Mitarbeit am gemeinsamen Glossar
 
 ### QT:
-- Mindestens eine Vorbesprechung über den Vorbereitungsstand vor dem Seminarvortrag
+- Mindestens eine Vorbesprechung über den Vorbereitungsstand vor dem Seminarvortrag (bitte kontaktieren Sie mich hierfür per [Mail](mailto:soeren.von.der.gracht@uni-paderborn.de))
 - Aktive Beteiligung an Diskussionen während und nach den Seminarvorträgen
 
 
@@ -47,6 +47,9 @@ M. Sc. Lehramt Mathematik
 
 Die Sprache der Veranstaltung ist Deutsch. Die Literatur ist jedoch nur auf Englisch verfügbar. Wenn alle Teilnehmenden einverstanden sind, dürfen zudem Vorträge auch auf Englisch gehalten werden.
 
-# Wichtige Hinweise
+# Termine
+Das Seminar findet Dienstag von 9:30 bis 11:00 Uhr in Raum D 1 320 statt.
 
-Beim ersten Seminartermin werden die angebotenen Themen kurz vorgestellt und anschließend verteilt. Seien Sie daher bei diesem Termin bitte unbedingt anwesend.
+## Sondertermine
+- Beim ersten Seminartermin werden die angebotenen Themen kurz vorgestellt und anschließend verteilt. Seien Sie daher bei diesem Termin bitte unbedingt anwesend.
+- Der Termin in der zweiten Semesterwoche entfällt, um allen Vortragend Zeit zur Vorbereitung zu geben.
