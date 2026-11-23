@@ -46,4 +46,5 @@ M. Sc. (Techno-)Mathematik
 
 ## Sondertermine
 - 16.10.2026: In der ersten Vorlesungswoche findet keine Übungsgruppe statt. Stattdessen werden wir die Zeit nutzen, um notwendige Grundlagen aus vorherigen Veranstaltungen aufzufrischen.
+- 26.11.2026: Um den Zeitverlust der Vorwoche auszugleichen, beginnt die Vorlesung bereits um 8:00 Uhr.
 - 17.12.2026: An diesem Termin entfällt die Pause zwischen Vorlesung und Übungsgruppe. Außerdem wird die Übungsgruppe verkürzt bis circa 10:20 Uhr stattfinden, um Ihnen gegebenenfalls die Gelegenheit zu geben am Seminar "Machine Learning" teilzunehmen.
